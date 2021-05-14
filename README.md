@@ -4,7 +4,7 @@
 [![Website: hans5958.github.io]](https://hans5958.github.io) [![Blog: hans5958.github.io/blog]](https://hans5958.github.io/blog)  
 [![YouTube: Hans5958]](https://youtube.com/Hans5958) [![Twitter: hans5958]](https://twitter.com/Hans5958) ![Discord: Hans5958#0969] [![GitHub: hans5958]](https://github.com/Hans5958) [![GitLab: hans5958]](https://gitlab.com/Hans5958) [![dev.to: Hans5958]](https://dev.to/hans5958) [![Keybase: hans5958]](https://keybase.io/hans5958)  [![Email: go to GitHub]](https://github.com/hans5958)
 
-FYI: It is **12:xx** (**12pm**) in Jakarta. :sunny:  
+FYI: It is **13:xx** (**1pm**) in Jakarta. :sunny:  
 *I'm online, doing stuff, and is able to respond to inquiries.*
 </div>
 
@@ -35,6 +35,9 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 
 ### Last ten commits
 
+- [`0281757`](https://github.com/ScratchAddons/website-v2/commit/0281757b1342bd155c9f3a199e701312a594c702) Fix to make anchor links work ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
+- [`62d806c`](https://github.com/ScratchAddons/website-v2/commit/62d806c8847e7a21f4007c8b9a313a984ee1b55f) Fix to make footer at bottom of the page on docs ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
+- [`6c1dfb8`](https://github.com/ScratchAddons/website-v2/commit/6c1dfb8b6f041daa71e3fb2df4deba9390b14701) Fetch all commits for .GitInfo ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 - [`9bedbd1`](https://github.com/ScratchAddons/website-v2/commit/9bedbd18b4e3e7185da9c1b677a3fba11ec352ae) Add link to Hugo ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 - [`f0a1a06`](https://github.com/Hans5958/mini-htmls/commit/f0a1a06311e978aac5af048e2dc103b502b51883) Fix bugs on PreMiD Presence Stats ([Hans5958/mini-htmls](https://github.com/Hans5958/mini-htmls), [master](https://github.com/Hans5958/mini-htmls/tree/master))
 - [`f98bf63`](https://github.com/Hans5958/Hans5958/commit/f98bf63f4edc1c178f5a0062f6c1eae9d465ac8a) Properly sort commits chronologically (2) ([Hans5958/Hans5958](https://github.com/Hans5958/Hans5958), [master](https://github.com/Hans5958/Hans5958/tree/master))
@@ -42,9 +45,6 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 - [`38cf1a1`](https://github.com/Hans5958/ScratchAddons/commit/38cf1a16f3a6671147be698f73304f796858bf15) Remove unneeded ref on changelog update workflow ([Hans5958/ScratchAddons](https://github.com/Hans5958/ScratchAddons), [meta-updates](https://github.com/Hans5958/ScratchAddons/tree/meta-updates))
 - [`76d3c6c`](https://github.com/Hans5958/ScratchAddons/commit/76d3c6cc8967a52332b461e0835da2f0fcbec503) Fix typo on issue templates ([Hans5958/ScratchAddons](https://github.com/Hans5958/ScratchAddons), [meta-updates](https://github.com/Hans5958/ScratchAddons/tree/meta-updates))
 - [`0446141`](https://github.com/ScratchAddons/website-v2/commit/04461416ffd835ed1a56ef2e054fa1d3e8965069) Fix link on FAQ ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
-- [`bd7779b`](https://github.com/ScratchAddons/website-v2/commit/bd7779b4ebecb1325b85ce1163ac799920410977) More fixes on docs ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
-- [`d1f38f0`](https://github.com/ScratchAddons/website-v2/commit/d1f38f0917d3f298789e15dffe60ac527d8ba5f8) Start minifying and fix bug by minification ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
-- [`4275899`](https://github.com/ScratchAddons/website-v2/commit/4275899369aaf085474a3bc7f0d1a2219973fa52) Change text for the video to "The trailer" ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 
 ### Last ten events
 
@@ -61,7 +61,7 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 
 </details>
 
-*Last updated: 14/05/2021, 05:24:51 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
+*Last updated: 14/05/2021, 06:21:32 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
 *Commit hash:* [`f98bf63`](https://github.com/Hans5958/Hans5958/commit/f98bf63f4edc1c178f5a0062f6c1eae9d465ac8a
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/workflow/status/Hans5958/Hans5958/Build?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
