@@ -4,7 +4,7 @@
 [![Website: hans5958.github.io]](https://hans5958.github.io) [![Blog: hans5958.github.io/blog]](https://hans5958.github.io/blog)  
 [![YouTube: Hans5958]](https://youtube.com/Hans5958) [![Twitter: hans5958]](https://twitter.com/Hans5958) ![Discord: Hans5958#0969] [![GitHub: hans5958]](https://github.com/Hans5958) [![GitLab: hans5958]](https://gitlab.com/Hans5958) [![dev.to: Hans5958]](https://dev.to/hans5958) [![Keybase: hans5958]](https://keybase.io/hans5958)  [![Email: go to GitHub]](https://github.com/hans5958)
 
-FYI: It is **15:xx** (**3pm**) in Jakarta. :sunny:  
+FYI: It is **16:xx** (**4pm**) in Jakarta. :sunny:  
 *I'm online, doing stuff, and is able to respond to inquiries.*
 </div>
 
@@ -35,6 +35,9 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 
 ### Last ten commits
 
+- [`16b5de5`](https://github.com/ScratchAddons/website-i18n/commit/16b5de5b0be6bb96258dcc2cff025b4520b99e7c) Fix if not expression ([ScratchAddons/website-i18n](https://github.com/ScratchAddons/website-i18n), [master](https://github.com/ScratchAddons/website-i18n/tree/master))
+- [`cb945e2`](https://github.com/ScratchAddons/website-i18n/commit/cb945e25df60a298f7f650f24852f27d601f43bc) Do not invoke if nothing's changed, clone all to avoid force ([ScratchAddons/website-i18n](https://github.com/ScratchAddons/website-i18n), [master](https://github.com/ScratchAddons/website-i18n/tree/master))
+- [`26d0d1c`](https://github.com/ScratchAddons/website-i18n-script/commit/26d0d1c5d2e949f8ffdca80b46d905afd0380011) Skip commiting if nothing's changed ([ScratchAddons/website-i18n-script](https://github.com/ScratchAddons/website-i18n-script), [master](https://github.com/ScratchAddons/website-i18n-script/tree/master))
 - [`3f247c7`](https://github.com/ScratchAddons/website-v2/commit/3f247c7cb5a810d8cfb7c6841cc9f94618b50879) Add toggle on docs sidebars and dark mode styles ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 - [`0281757`](https://github.com/ScratchAddons/website-v2/commit/0281757b1342bd155c9f3a199e701312a594c702) Fix to make anchor links work ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 - [`62d806c`](https://github.com/ScratchAddons/website-v2/commit/62d806c8847e7a21f4007c8b9a313a984ee1b55f) Fix to make footer at bottom of the page on docs ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
@@ -42,9 +45,6 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 - [`9bedbd1`](https://github.com/ScratchAddons/website-v2/commit/9bedbd18b4e3e7185da9c1b677a3fba11ec352ae) Add link to Hugo ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 - [`f0a1a06`](https://github.com/Hans5958/mini-htmls/commit/f0a1a06311e978aac5af048e2dc103b502b51883) Fix bugs on PreMiD Presence Stats ([Hans5958/mini-htmls](https://github.com/Hans5958/mini-htmls), [master](https://github.com/Hans5958/mini-htmls/tree/master))
 - [`f98bf63`](https://github.com/Hans5958/Hans5958/commit/f98bf63f4edc1c178f5a0062f6c1eae9d465ac8a) Properly sort commits chronologically (2) ([Hans5958/Hans5958](https://github.com/Hans5958/Hans5958), [master](https://github.com/Hans5958/Hans5958/tree/master))
-- [`f98bf63`](https://github.com/Hans5958/Hans5958/commit/f98bf63f4edc1c178f5a0062f6c1eae9d465ac8a) Properly sort commits chronologically (2) ([Hans5958/Hans5958](https://github.com/Hans5958/Hans5958), [dev](https://github.com/Hans5958/Hans5958/tree/dev))
-- [`38cf1a1`](https://github.com/Hans5958/ScratchAddons/commit/38cf1a16f3a6671147be698f73304f796858bf15) Remove unneeded ref on changelog update workflow ([Hans5958/ScratchAddons](https://github.com/Hans5958/ScratchAddons), [meta-updates](https://github.com/Hans5958/ScratchAddons/tree/meta-updates))
-- [`76d3c6c`](https://github.com/Hans5958/ScratchAddons/commit/76d3c6cc8967a52332b461e0835da2f0fcbec503) Fix typo on issue templates ([Hans5958/ScratchAddons](https://github.com/Hans5958/ScratchAddons), [meta-updates](https://github.com/Hans5958/ScratchAddons/tree/meta-updates))
 
 ### Last ten events
 
@@ -61,7 +61,7 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 
 </details>
 
-*Last updated: 14/05/2021, 08:21:41 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
+*Last updated: 14/05/2021, 09:19:54 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
 *Commit hash:* [`f98bf63`](https://github.com/Hans5958/Hans5958/commit/f98bf63f4edc1c178f5a0062f6c1eae9d465ac8a
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/workflow/status/Hans5958/Hans5958/Build?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
