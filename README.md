@@ -4,7 +4,7 @@
 [![Website: hans5958.github.io]](https://hans5958.github.io) [![Blog: hans5958.github.io/blog]](https://hans5958.github.io/blog)  
 [![YouTube: Hans5958]](https://youtube.com/Hans5958) [![Twitter: hans5958]](https://twitter.com/Hans5958) ![Discord: Hans5958#0969] [![GitHub: hans5958]](https://github.com/Hans5958) [![GitLab: hans5958]](https://gitlab.com/Hans5958) [![dev.to: Hans5958]](https://dev.to/hans5958) [![Keybase: hans5958]](https://keybase.io/hans5958)  [![Email: go to GitHub]](https://github.com/hans5958)
 
-FYI: It is **17:xx** (**5pm**) in Jakarta. :sunny:  
+FYI: It is **18:xx** (**6pm**) in Jakarta. :sunny:  
 *I'm online, doing stuff, and is able to respond to inquiries.*
 </div>
 
@@ -35,6 +35,7 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 
 ### Last ten commits
 
+- [`4f4ce6f`](https://github.com/ScratchAddons/website-v2/commit/4f4ce6ffc9a56a5d2e8132e23eb2cf8d8bd6d5ee) Fix extension-styled theme not auto-load ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 - [`5869e0b`](https://github.com/ScratchAddons/website-v2/commit/5869e0b896bffe796cb77be2a4ab9b1f2d8649f1) Update changelog ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 - [`5cb3ce5`](https://github.com/ScratchAddons/ScratchAddons/commit/5cb3ce5573427847a1f0c775efa540bb9edb634e) Add space between the arrow ([ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons), [changelog](https://github.com/ScratchAddons/ScratchAddons/tree/changelog))
 - [`10c0b79`](https://github.com/ScratchAddons/website-v2/commit/10c0b79c9dcb8fb01a782cbfdc534cbadf0af38e) Add more addon images (@TheColaber) ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
@@ -44,7 +45,6 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 - [`09919f9`](https://github.com/ScratchAddons/website-v2-script/commit/09919f950a95957cb3e863bac28e37147ceeb32d) Add forgotten require (3) ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
 - [`cafc6c4`](https://github.com/ScratchAddons/website-v2-script/commit/cafc6c4c672a1a0446e7af501b901f6011908ebc) Add forgotten require (2) ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
 - [`31df218`](https://github.com/ScratchAddons/website-i18n/commit/31df218588cca268daa3216ccdfdbe26636d8f86) Fix wrong workflow to invoke ([ScratchAddons/website-i18n](https://github.com/ScratchAddons/website-i18n), [master](https://github.com/ScratchAddons/website-i18n/tree/master))
-- [`40f3490`](https://github.com/ScratchAddons/website-i18n/commit/40f34906e30440048d22c7167e7bbaa3cfed8b54) Fix custom ref by doing it on actions/checkout ([ScratchAddons/website-i18n](https://github.com/ScratchAddons/website-i18n), [master](https://github.com/ScratchAddons/website-i18n/tree/master))
 
 ### Last ten events
 
@@ -61,7 +61,7 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 
 </details>
 
-*Last updated: 15/05/2021, 10:17:53 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
+*Last updated: 15/05/2021, 11:14:57 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
 *Commit hash:* [`f98bf63`](https://github.com/Hans5958/Hans5958/commit/f98bf63f4edc1c178f5a0062f6c1eae9d465ac8a
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/workflow/status/Hans5958/Hans5958/Build?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
