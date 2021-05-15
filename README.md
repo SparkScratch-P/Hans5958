@@ -4,7 +4,7 @@
 [![Website: hans5958.github.io]](https://hans5958.github.io) [![Blog: hans5958.github.io/blog]](https://hans5958.github.io/blog)  
 [![YouTube: Hans5958]](https://youtube.com/Hans5958) [![Twitter: hans5958]](https://twitter.com/Hans5958) ![Discord: Hans5958#0969] [![GitHub: hans5958]](https://github.com/Hans5958) [![GitLab: hans5958]](https://gitlab.com/Hans5958) [![dev.to: Hans5958]](https://dev.to/hans5958) [![Keybase: hans5958]](https://keybase.io/hans5958)  [![Email: go to GitHub]](https://github.com/hans5958)
 
-FYI: It is **11:xx** (**11am**) in Jakarta. :sunny:  
+FYI: It is **12:xx** (**12pm**) in Jakarta. :sunny:  
 *I'm online, doing stuff, and is able to respond to inquiries.*
 </div>
 
@@ -35,6 +35,8 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 
 ### Last ten commits
 
+- [`a7913f7`](https://github.com/ScratchAddons/website-v2-script/commit/a7913f7470d8c0907163617b0feaf735b5d86251) Add proper local tests for addon data ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
+- [`0d4d099`](https://github.com/ScratchAddons/website-v2-script/commit/0d4d099e1edb0da4546efc839b11c568f319ac18) Fix accidental shared array bug, remove unused import ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
 - [`2b323eb`](https://github.com/ScratchAddons/website-i18n/commit/2b323eb9d07408c97ef545f0ad88867e6cc8a6c1) That's the wrong file to change! ([ScratchAddons/website-i18n](https://github.com/ScratchAddons/website-i18n), [master](https://github.com/ScratchAddons/website-i18n/tree/master))
 - [`09919f9`](https://github.com/ScratchAddons/website-v2-script/commit/09919f950a95957cb3e863bac28e37147ceeb32d) Add forgotten require (3) ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
 - [`cafc6c4`](https://github.com/ScratchAddons/website-v2-script/commit/cafc6c4c672a1a0446e7af501b901f6011908ebc) Add forgotten require (2) ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
@@ -43,8 +45,6 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 - [`4090f0b`](https://github.com/ScratchAddons/website-v2/commit/4090f0bb9a003ed1be175757f076bf361b62f33a) Fix custom ref by doing it on actions/checkout ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 - [`401970d`](https://github.com/ScratchAddons/website-v2-script/commit/401970d1b609ab50399cb26dd79da8f8ad6b1c16) Fix custom ref by doing it on actions/checkout ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
 - [`b42fd6a`](https://github.com/ScratchAddons/website-v2-script/commit/b42fd6a80a6dee9ab462c7bda2d29db67f6f7103) Add forgotten await ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
-- [`5990e23`](https://github.com/ScratchAddons/website-v2-script/commit/5990e239accc5b21c02d77f48356b00944a4aa54) Add forgotten require ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
-- [`151aa46`](https://github.com/ScratchAddons/website-i18n/commit/151aa46ed5d5a2a7dd49eaadfb380960f48281fa) Changes for script repo migration, add addons data update workflow ([ScratchAddons/website-i18n](https://github.com/ScratchAddons/website-i18n), [master](https://github.com/ScratchAddons/website-i18n/tree/master))
 
 ### Last ten events
 
@@ -55,11 +55,10 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 - Created comment on a review on PR [#2478](https://github.com/ScratchAddons/ScratchAddons/issues/2478) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-05-13T13:29:14Z)
 - Created review on PR [#2478](https://github.com/ScratchAddons/ScratchAddons/issues/2478) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-05-13T13:29:15Z)
 - Created comment on a review on PR [#2478](https://github.com/ScratchAddons/ScratchAddons/issues/2478) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-05-13T13:23:43Z)
-- Created review on PR [#2478](https://github.com/ScratchAddons/ScratchAddons/issues/2478) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-05-13T13:23:43Z)
 
 </details>
 
-*Last updated: 15/05/2021, 04:25:14 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
+*Last updated: 15/05/2021, 05:23:04 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
 *Commit hash:* [`f98bf63`](https://github.com/Hans5958/Hans5958/commit/f98bf63f4edc1c178f5a0062f6c1eae9d465ac8a
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/workflow/status/Hans5958/Hans5958/Build?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
