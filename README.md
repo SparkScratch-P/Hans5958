@@ -4,8 +4,8 @@
 [![Website: hans5958.github.io]](https://hans5958.github.io) [![Blog: hans5958.github.io/blog]](https://hans5958.github.io/blog)  
 [![YouTube: Hans5958]](https://youtube.com/Hans5958) [![Twitter: hans5958]](https://twitter.com/Hans5958) ![Discord: Hans5958#0969] [![GitHub: hans5958]](https://github.com/Hans5958) [![GitLab: hans5958]](https://gitlab.com/Hans5958) [![dev.to: Hans5958]](https://dev.to/hans5958) [![Keybase: hans5958]](https://keybase.io/hans5958)  [![Email: go to GitHub]](https://github.com/hans5958)
 
-FYI: It is **21:xx** (**9pm**) in Jakarta. :crescent_moon:  
-*I'm online, doing stuff, and is able to respond to inquiries.*
+FYI: It is **22:xx** (**10pm**) in Jakarta. :crescent_moon:  
+*I'm online, but only if I'm on a weekend, or there's nothing to do tommorow morning.*
 </div>
 
 <details><summary>Read about me:</summary>
@@ -35,6 +35,7 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 
 ### Last ten commits
 
+- [`ac38e87`](https://github.com/ScratchAddons/website-v2/commit/ac38e87911e3d709ce50c627b2a49a336c4b45c5) Yeah, it was ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [docs](https://github.com/ScratchAddons/website-v2/tree/docs))
 - [`fafcb8e`](https://github.com/ScratchAddons/website-v2/commit/fafcb8e9615a2365d5f5f860030b30028f91ffde) Revert pushed local changes ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [docs](https://github.com/ScratchAddons/website-v2/tree/docs))
 - [`7ccc033`](https://github.com/ScratchAddons/website-v2/commit/7ccc0339d94617afed9e40fa2c03bee933f8e109) Merge branch 'master' into docs ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [docs](https://github.com/ScratchAddons/website-v2/tree/docs))
 - [`c45bfad`](https://github.com/ScratchAddons/website-v2/commit/c45bfade1481b1e854f6277ca1d34f7deb1f05b4) Fix styling on docs ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [docs](https://github.com/ScratchAddons/website-v2/tree/docs))
@@ -44,10 +45,11 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 - [`f8cc96d`](https://github.com/Hans5958/ScratchAddons/commit/f8cc96da162ac476db7d5b20f062d07459db3e50) Fix equality check 5 ([Hans5958/ScratchAddons](https://github.com/Hans5958/ScratchAddons), [meta-updates](https://github.com/Hans5958/ScratchAddons/tree/meta-updates))
 - [`3869ea6`](https://github.com/Hans5958/ScratchAddons/commit/3869ea6867f91c21c2d7c4830cbab0897cfeee3a) Fix equality check 4 ([Hans5958/ScratchAddons](https://github.com/Hans5958/ScratchAddons), [meta-updates](https://github.com/Hans5958/ScratchAddons/tree/meta-updates))
 - [`d05cbab`](https://github.com/Hans5958/ScratchAddons/commit/d05cbab21bd3bd5bd19b42228d91b5ec4043ee3a) Fix equality check 3 ([Hans5958/ScratchAddons](https://github.com/Hans5958/ScratchAddons), [meta-updates](https://github.com/Hans5958/ScratchAddons/tree/meta-updates))
-- [`f33216b`](https://github.com/Hans5958/ScratchAddons/commit/f33216b8b4d2b16aca17784d3b32ad6c1cad95d3) Fix equality check 2 ([Hans5958/ScratchAddons](https://github.com/Hans5958/ScratchAddons), [meta-updates](https://github.com/Hans5958/ScratchAddons/tree/meta-updates))
 
 ### Last ten events
 
+- Closed issue [#26](https://github.com/ScratchAddons/website-v2/issues/26) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-05-17T14:18:36Z)
+- Created comment on issue/PR [#26](https://github.com/ScratchAddons/website-v2/issues/26) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-05-17T14:18:35Z)
 - Created comment on issue/PR [#21](https://github.com/ScratchAddons/website-v2/issues/21) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-05-17T14:14:46Z)
 - Created comment on a review on PR [#21](https://github.com/ScratchAddons/website-v2/issues/21) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-05-17T11:28:37Z)
 - Created review on PR [#21](https://github.com/ScratchAddons/website-v2/issues/21) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-05-17T11:28:37Z)
@@ -56,12 +58,10 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 - Created comment on issue/PR [#2514](https://github.com/ScratchAddons/ScratchAddons/issues/2514) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-05-17T10:01:13Z)
 - Opened pull request [#2516](https://github.com/ScratchAddons/ScratchAddons/issues/2516) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-05-17T10:00:50Z)
 - Created comment on issue/PR [#21](https://github.com/ScratchAddons/website-v2/issues/21) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-05-17T09:48:15Z)
-- Created comment on issue/PR [#2478](https://github.com/ScratchAddons/ScratchAddons/issues/2478) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-05-16T16:44:14Z)
-- Deleted branch `yt` on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-05-16T08:51:49Z)
 
 </details>
 
-*Last updated: 17/05/2021, 14:16:27 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
+*Last updated: 17/05/2021, 15:19:42 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
 *Commit hash:* [`f98bf63`](https://github.com/Hans5958/Hans5958/commit/f98bf63f4edc1c178f5a0062f6c1eae9d465ac8a
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/workflow/status/Hans5958/Hans5958/Build?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
