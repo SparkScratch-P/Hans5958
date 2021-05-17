@@ -4,7 +4,7 @@
 [![Website: hans5958.github.io]](https://hans5958.github.io) [![Blog: hans5958.github.io/blog]](https://hans5958.github.io/blog)  
 [![YouTube: Hans5958]](https://youtube.com/Hans5958) [![Twitter: hans5958]](https://twitter.com/Hans5958) ![Discord: Hans5958#0969] [![GitHub: hans5958]](https://github.com/Hans5958) [![GitLab: hans5958]](https://gitlab.com/Hans5958) [![dev.to: Hans5958]](https://dev.to/hans5958) [![Keybase: hans5958]](https://keybase.io/hans5958)  [![Email: go to GitHub]](https://github.com/hans5958)
 
-FYI: It is **10:xx** (**10am**) in Jakarta. :sunny:  
+FYI: It is **11:xx** (**11am**) in Jakarta. :sunny:  
 *I'm online, doing stuff, and is able to respond to inquiries.*
 </div>
 
@@ -35,6 +35,7 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 
 ### Last ten commits
 
+- [`c9014de`](https://github.com/ScratchAddons/website-v2/commit/c9014de5199d2837aeb5ec7e1ecbbfb13c0265a5) Apply API and dot suggestion from code review (@apple502j) ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [docs](https://github.com/ScratchAddons/website-v2/tree/docs))
 - [`a860526`](https://github.com/ScratchAddons/website-v2/commit/a86052687d0afb2cd340354ff137805984f53260) Revamp docs directory and add more docs ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [docs](https://github.com/ScratchAddons/website-v2/tree/docs))
 - [`1bd5847`](https://github.com/Hans5958/ScratchAddons-website-v2/commit/1bd5847749ae327dd6f356b35fb14b662b6ba900) Revamp docs directory and add more docs ([Hans5958/ScratchAddons-website-v2](https://github.com/Hans5958/ScratchAddons-website-v2), [docs](https://github.com/Hans5958/ScratchAddons-website-v2/tree/docs))
 - [`f5e4ade`](https://github.com/Hans5958/ScratchAddons-website-v2/commit/f5e4adea44635bd2cfa307737c089290dd9e7765) Do not generate lastmodified to avoid new file errors ([Hans5958/ScratchAddons-website-v2](https://github.com/Hans5958/ScratchAddons-website-v2), [docs](https://github.com/Hans5958/ScratchAddons-website-v2/tree/docs))
@@ -44,7 +45,6 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 - [`caabfe0`](https://github.com/ScratchAddons/website-v2/commit/caabfe0d385d9f5682fb05bbe401dd147a4b034c) Make .highlight have bottom margin ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 - [`a48a42e`](https://github.com/ScratchAddons/website-v2/commit/a48a42e0fcf5ba591b7d733c6dbf68e65e9b5025) Do not make fonts smaller on mono texts in ext theme ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 - [`4f4ce6f`](https://github.com/ScratchAddons/website-v2/commit/4f4ce6ffc9a56a5d2e8132e23eb2cf8d8bd6d5ee) Fix extension-styled theme not auto-load ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
-- [`5869e0b`](https://github.com/ScratchAddons/website-v2/commit/5869e0b896bffe796cb77be2a4ab9b1f2d8649f1) Update changelog ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 
 ### Last ten events
 
@@ -61,7 +61,7 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 
 </details>
 
-*Last updated: 17/05/2021, 03:31:16 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
+*Last updated: 17/05/2021, 04:27:24 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
 *Commit hash:* [`f98bf63`](https://github.com/Hans5958/Hans5958/commit/f98bf63f4edc1c178f5a0062f6c1eae9d465ac8a
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/workflow/status/Hans5958/Hans5958/Build?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
