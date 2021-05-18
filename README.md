@@ -4,8 +4,8 @@
 [![Website: hans5958.github.io]](https://hans5958.github.io) [![Blog: hans5958.github.io/blog]](https://hans5958.github.io/blog)  
 [![YouTube: Hans5958]](https://youtube.com/Hans5958) [![Twitter: hans5958]](https://twitter.com/Hans5958) ![Discord: Hans5958#0969] [![GitHub: hans5958]](https://github.com/Hans5958) [![GitLab: hans5958]](https://gitlab.com/Hans5958) [![dev.to: Hans5958]](https://dev.to/hans5958) [![Keybase: hans5958]](https://keybase.io/hans5958)  [![Email: go to GitHub]](https://github.com/hans5958)
 
-FYI: It is **18:xx** (**6pm**) in Jakarta. :sunny:  
-*I'm online, doing stuff, and is able to respond to inquiries.*
+FYI: It is **01:xx** (**1am**) in Jakarta. :crescent_moon:  
+*There is a great chance that I'm offline, so I'm sorry that I can't respond to you currently.*
 </div>
 
 <details><summary>Read about me:</summary>
@@ -35,33 +35,33 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 
 ### Last ten commits
 
+- [`17986b2`](https://github.com/ScratchAddons/website-v2/commit/17986b2b4fcb43a41caecfec7b1772aa243d4d01) Add robots_tag, revamp no_analytics (front matter) ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
+- [`4243017`](https://github.com/ScratchAddons/website-v2/commit/4243017758e0e0ad35f0d40375136ba53dd20eec) Make docs layout translatable, minor refactor ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
+- [`303308d`](https://github.com/Hans5958/mini-htmls/commit/303308de47de64e7cb81274e6e189a6d3c671e3e) Update .gitignore ([Hans5958/mini-htmls](https://github.com/Hans5958/mini-htmls), [master](https://github.com/Hans5958/mini-htmls/tree/master))
+- [`2197977`](https://github.com/Hans5958/mini-htmls/commit/2197977055addb976ce63c47510fe0ac2ce816ae) Swap multi-level nav code with another one ([Hans5958/mini-htmls](https://github.com/Hans5958/mini-htmls), [master](https://github.com/Hans5958/mini-htmls/tree/master))
+- [`ea32732`](https://github.com/Hans5958/hans5958.github.io/commit/ea3273204af6e27c0b32d51b0625a2f55ff38235) Update .gitignore ([Hans5958/hans5958.github.io](https://github.com/Hans5958/hans5958.github.io), [master](https://github.com/Hans5958/hans5958.github.io/tree/master))
+- [`8d1b7d7`](https://github.com/Hans5958/hans5958.github.io/commit/8d1b7d776cf6cb675dc64f0bca13821f2d4e9232) Fix link to PreMiD Presences ([Hans5958/hans5958.github.io](https://github.com/Hans5958/hans5958.github.io), [master](https://github.com/Hans5958/hans5958.github.io/tree/master))
+- [`8d10a52`](https://github.com/Hans5958/hans5958.github.io/commit/8d10a5278e49aacb66cf0ad31cffd1e35ef4695a) Swap multi-level nav code with another one ([Hans5958/hans5958.github.io](https://github.com/Hans5958/hans5958.github.io), [master](https://github.com/Hans5958/hans5958.github.io/tree/master))
+- [`77012b8`](https://github.com/Hans5958/hans5958.github.io/commit/77012b8468efac7f3a7e3073aedad557a50dc69a) Update CC Portal for the last time ([Hans5958/hans5958.github.io](https://github.com/Hans5958/hans5958.github.io), [master](https://github.com/Hans5958/hans5958.github.io/tree/master))
 - [`ceb038b`](https://github.com/ScratchAddons/website-v2/commit/ceb038bd2be4375f2b49607bbbcd97d0d6d86e5c) Revamp docs directory and add more docs (#21) ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 - [`b5a79d3`](https://github.com/ScratchAddons/website-i18n/commit/b5a79d3ac3b8d3ce07582df37a019f2d693b9790) Fix i18n update not skipping invoking, minor changes ([ScratchAddons/website-i18n](https://github.com/ScratchAddons/website-i18n), [master](https://github.com/ScratchAddons/website-i18n/tree/master))
-- [`ac38e87`](https://github.com/ScratchAddons/website-v2/commit/ac38e87911e3d709ce50c627b2a49a336c4b45c5) Yeah, it was ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [docs](https://github.com/ScratchAddons/website-v2/tree/docs))
-- [`fafcb8e`](https://github.com/ScratchAddons/website-v2/commit/fafcb8e9615a2365d5f5f860030b30028f91ffde) Revert pushed local changes ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [docs](https://github.com/ScratchAddons/website-v2/tree/docs))
-- [`7ccc033`](https://github.com/ScratchAddons/website-v2/commit/7ccc0339d94617afed9e40fa2c03bee933f8e109) Merge branch 'master' into docs ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [docs](https://github.com/ScratchAddons/website-v2/tree/docs))
-- [`c45bfad`](https://github.com/ScratchAddons/website-v2/commit/c45bfade1481b1e854f6277ca1d34f7deb1f05b4) Fix styling on docs ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [docs](https://github.com/ScratchAddons/website-v2/tree/docs))
-- [`c45bfad`](https://github.com/ScratchAddons/website-v2/commit/c45bfade1481b1e854f6277ca1d34f7deb1f05b4) Fix styling on docs ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
-- [`6c18902`](https://github.com/ScratchAddons/website-v2/commit/6c1890294bb7d047f1eb30bba04d6cb0960e1833) Fix installing page ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [docs](https://github.com/ScratchAddons/website-v2/tree/docs))
-- [`b5ae8c4`](https://github.com/Hans5958/ScratchAddons/commit/b5ae8c489468f23063e1240bfc54e8743259e964) Fix equality check 6 ([Hans5958/ScratchAddons](https://github.com/Hans5958/ScratchAddons), [meta-updates](https://github.com/Hans5958/ScratchAddons/tree/meta-updates))
-- [`f8cc96d`](https://github.com/Hans5958/ScratchAddons/commit/f8cc96da162ac476db7d5b20f062d07459db3e50) Fix equality check 5 ([Hans5958/ScratchAddons](https://github.com/Hans5958/ScratchAddons), [meta-updates](https://github.com/Hans5958/ScratchAddons/tree/meta-updates))
 
 ### Last ten events
 
+- Created comment on issue/PR [#28](https://github.com/ScratchAddons/website-v2/issues/28) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-05-18T16:32:51Z)
+- Created comment on a review on PR [#28](https://github.com/ScratchAddons/website-v2/issues/28) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-05-18T16:10:49Z)
+- Created review on PR [#28](https://github.com/ScratchAddons/website-v2/issues/28) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-05-18T16:11:40Z)
+- Created comment on a review on PR [#28](https://github.com/ScratchAddons/website-v2/issues/28) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-05-18T01:40:28Z)
+- Created review on PR [#28](https://github.com/ScratchAddons/website-v2/issues/28) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-05-18T16:11:40Z)
+- Created comment on issue/PR [#28](https://github.com/ScratchAddons/website-v2/issues/28) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-05-18T16:10:15Z)
+- Created comment on issue/PR [#28](https://github.com/ScratchAddons/website-v2/issues/28) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-05-18T16:09:29Z)
+- Created branch `blog` on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-05-18T15:58:40Z)
+- Created branch `bootstrap-5-with-postcss` on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-05-18T14:31:28Z)
 - Created comment on issue/PR [#118](https://github.com/ScratchAddons/contributors/issues/118) on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2021-05-18T03:44:11Z)
-- Created comment on issue/PR [#117](https://github.com/ScratchAddons/contributors/issues/117) on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2021-05-18T03:43:03Z)
-- Created comment on issue/PR [#116](https://github.com/ScratchAddons/contributors/issues/116) on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2021-05-18T03:42:01Z)
-- Created comment on issue/PR [#115](https://github.com/ScratchAddons/contributors/issues/115) on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2021-05-18T03:41:16Z)
-- Deleted branch `all-contributors/add-hello34090` on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2021-05-18T03:32:25Z)
-- Closed pull request [#114](https://github.com/ScratchAddons/contributors/issues/114) on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2021-05-18T03:32:24Z)
-- Created review on PR [#114](https://github.com/ScratchAddons/contributors/issues/114) on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2021-05-18T03:31:45Z)
-- Created comment on issue/PR [#113](https://github.com/ScratchAddons/contributors/issues/113) on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2021-05-18T03:29:41Z)
-- Closed pull request [#21](https://github.com/ScratchAddons/website-v2/issues/21) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-05-18T01:40:54Z)
-- Closed issue [#17](https://github.com/ScratchAddons/website-v2/issues/17) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-05-18T01:40:54Z)
 
 </details>
 
-*Last updated: 18/05/2021, 11:03:30 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
+*Last updated: 18/05/2021, 18:44:38 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
 *Commit hash:* [`f98bf63`](https://github.com/Hans5958/Hans5958/commit/f98bf63f4edc1c178f5a0062f6c1eae9d465ac8a
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/workflow/status/Hans5958/Hans5958/Build?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
