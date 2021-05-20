@@ -4,7 +4,7 @@
 [![Website: hans5958.github.io]](https://hans5958.github.io) [![Blog: hans5958.github.io/blog]](https://hans5958.github.io/blog)  
 [![YouTube: Hans5958]](https://youtube.com/Hans5958) [![Twitter: hans5958]](https://twitter.com/Hans5958) ![Discord: Hans5958#0969] [![GitHub: hans5958]](https://github.com/Hans5958) [![GitLab: hans5958]](https://gitlab.com/Hans5958) [![dev.to: Hans5958]](https://dev.to/hans5958) [![Keybase: hans5958]](https://keybase.io/hans5958)  [![Email: go to GitHub]](https://github.com/hans5958)
 
-FYI: It is **13:xx** (**1pm**) in Jakarta. :sunny:  
+FYI: It is **14:xx** (**2pm**) in Jakarta. :sunny:  
 *I'm online, doing stuff, and is able to respond to inquiries.*
 </div>
 
@@ -39,29 +39,23 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 - [`c2144dd`](https://github.com/ScratchAddons/website-i18n/commit/c2144dd40bb531ca714a448a0994b594e37a9234) Fix TX config ([ScratchAddons/website-i18n](https://github.com/ScratchAddons/website-i18n), [master](https://github.com/ScratchAddons/website-i18n/tree/master))
 - [`3898bec`](https://github.com/ScratchAddons/website-i18n/commit/3898beca95c7fe1257fff4b4b448b433c2c2a30a) Fix TX config ([ScratchAddons/website-i18n](https://github.com/ScratchAddons/website-i18n), [master](https://github.com/ScratchAddons/website-i18n/tree/master))
 - [`27b1d4a`](https://github.com/ScratchAddons/website-i18n/commit/27b1d4a5d23eae0585a24aa79ce77650dc2f865a) Fix TX config ([ScratchAddons/website-i18n](https://github.com/ScratchAddons/website-i18n), [master](https://github.com/ScratchAddons/website-i18n/tree/master))
-- [`2f1916d`](https://github.com/ScratchAddons/website-v2-script/commit/2f1916d65080a4367d9ac44818f13f83d1c760a0) Use HTML_FRAGMENT instead of HTML ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
-- [`88b3d76`](https://github.com/ScratchAddons/website-v2-script/commit/88b3d76d7bea8d96b76892de76b731271cd2eda1) Fix typo ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
-- [`b5162d8`](https://github.com/ScratchAddons/website-v2-script/commit/b5162d8bd85c01d336ba173255b6e15a40899ffe) Only write static front YAML once ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
-- [`25048bd`](https://github.com/ScratchAddons/website-v2-script/commit/25048bda87c3570abdee127fef2afba2c903aea5) Add minimum percentage ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
-- [`f577b38`](https://github.com/ScratchAddons/website-v2-script/commit/f577b3802f2f4c91f8b2e3683153f2d5d8afe498) Fix recursive adding new resources ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
-- [`a592dd7`](https://github.com/ScratchAddons/website-i18n/commit/a592dd7f8707914199051d23d96b8790ad72f8ed) Disable commit skip check because it never works ([ScratchAddons/website-i18n](https://github.com/ScratchAddons/website-i18n), [master](https://github.com/ScratchAddons/website-i18n/tree/master))
 
 ### Last ten events
 
+- Created comment on issue/PR [#102](https://github.com/ScratchAddons/contributors/issues/102) on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2021-05-20T06:48:58Z)
+- Deleted branch `all-contributors/add-22yeetz22` on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2021-05-20T06:24:09Z)
+- Closed pull request [#122](https://github.com/ScratchAddons/contributors/issues/122) on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2021-05-20T06:24:08Z)
+- Created review on PR [#122](https://github.com/ScratchAddons/contributors/issues/122) on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2021-05-20T06:23:51Z)
+- Created comment on issue/PR [#119](https://github.com/ScratchAddons/contributors/issues/119) on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2021-05-20T06:23:09Z)
+- Deleted branch `all-contributors/add-22yeetz22` on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2021-05-20T06:23:07Z)
+- Closed pull request [#119](https://github.com/ScratchAddons/contributors/issues/119) on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2021-05-20T06:23:04Z)
 - Deleted branch `all-contributors/add-Sly-Little-Fox` on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2021-05-20T05:19:24Z)
 - Closed pull request [#121](https://github.com/ScratchAddons/contributors/issues/121) on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2021-05-20T05:19:24Z)
 - Created review on PR [#121](https://github.com/ScratchAddons/contributors/issues/121) on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2021-05-20T05:19:07Z)
-- Created comment on issue/PR [#118](https://github.com/ScratchAddons/contributors/issues/118) on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2021-05-20T05:16:36Z)
-- Created comment on issue/PR [#118](https://github.com/ScratchAddons/contributors/issues/118) on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2021-05-20T05:15:35Z)
-- Deleted branch `all-contributors/add-Sly-Little-Fox` on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2021-05-20T05:15:33Z)
-- Closed pull request [#118](https://github.com/ScratchAddons/contributors/issues/118) on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2021-05-20T05:15:31Z)
-- Created comment on issue/PR [#118](https://github.com/ScratchAddons/contributors/issues/118) on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2021-05-20T05:15:31Z)
-- Deleted branch `all-contributors/add-piw-piw` on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2021-05-20T05:14:04Z)
-- Closed pull request [#120](https://github.com/ScratchAddons/contributors/issues/120) on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2021-05-20T05:14:04Z)
 
 </details>
 
-*Last updated: 20/05/2021, 06:21:43 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
+*Last updated: 20/05/2021, 07:27:32 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
 *Commit hash:* [`f98bf63`](https://github.com/Hans5958/Hans5958/commit/f98bf63f4edc1c178f5a0062f6c1eae9d465ac8a
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/workflow/status/Hans5958/Hans5958/Build?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
