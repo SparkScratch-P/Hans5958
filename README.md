@@ -4,7 +4,7 @@
 [![Website: hans5958.github.io]](https://hans5958.github.io) [![Blog: hans5958.github.io/blog]](https://hans5958.github.io/blog)  
 [![YouTube: Hans5958]](https://youtube.com/Hans5958) [![Twitter: hans5958]](https://twitter.com/Hans5958) ![Discord: Hans5958#0969] [![GitHub: hans5958]](https://github.com/Hans5958) [![GitLab: hans5958]](https://gitlab.com/Hans5958) [![dev.to: Hans5958]](https://dev.to/hans5958) [![Keybase: hans5958]](https://keybase.io/hans5958)  [![Email: go to GitHub]](https://github.com/hans5958)
 
-FYI: It is **09:xx** (**9am**) in Jakarta. :sunny:  
+FYI: It is **10:xx** (**10am**) in Jakarta. :sunny:  
 *I'm online, doing stuff, and is able to respond to inquiries.*
 </div>
 
@@ -35,16 +35,16 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 
 ### Last ten commits
 
+- [`88b3d76`](https://github.com/ScratchAddons/website-v2-script/commit/88b3d76d7bea8d96b76892de76b731271cd2eda1) Fix typo ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
+- [`b5162d8`](https://github.com/ScratchAddons/website-v2-script/commit/b5162d8bd85c01d336ba173255b6e15a40899ffe) Only write static front YAML once ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
+- [`25048bd`](https://github.com/ScratchAddons/website-v2-script/commit/25048bda87c3570abdee127fef2afba2c903aea5) Add minimum percentage ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
+- [`f577b38`](https://github.com/ScratchAddons/website-v2-script/commit/f577b3802f2f4c91f8b2e3683153f2d5d8afe498) Fix recursive adding new resources ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
 - [`a592dd7`](https://github.com/ScratchAddons/website-i18n/commit/a592dd7f8707914199051d23d96b8790ad72f8ed) Disable commit skip check because it never works ([ScratchAddons/website-i18n](https://github.com/ScratchAddons/website-i18n), [master](https://github.com/ScratchAddons/website-i18n/tree/master))
 - [`85b3fb6`](https://github.com/ScratchAddons/website-v2-script/commit/85b3fb6dd15aaeae0fa8a6ed5bd21c88c183e011) Revert to use underscores ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
 - [`ccee9a9`](https://github.com/ScratchAddons/website-v2-script/commit/ccee9a91baa8a2b73dac6b4b9a07a99aedd8044d) Fix error 4 ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
 - [`4e8d1ef`](https://github.com/ScratchAddons/website-v2-script/commit/4e8d1efd1c013e38f4056a945aa1c5ae13dcbf8b) Fix error 3 ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
 - [`c8d3bc4`](https://github.com/ScratchAddons/website-i18n/commit/c8d3bc4ca7982e795eca7cae3d37c4f00b6fc849) Add html-front to be translatable ([ScratchAddons/website-i18n](https://github.com/ScratchAddons/website-i18n), [master](https://github.com/ScratchAddons/website-i18n/tree/master))
 - [`5c94a52`](https://github.com/ScratchAddons/website-i18n/commit/5c94a525c4919f717e2f20b03231cf520429e36f) Forgot to install Transifex ([ScratchAddons/website-i18n](https://github.com/ScratchAddons/website-i18n), [master](https://github.com/ScratchAddons/website-i18n/tree/master))
-- [`145888b`](https://github.com/ScratchAddons/website-v2-script/commit/145888b4d327a3fa572083132c5cb3d5762a6457) Forgot to install Transifex ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
-- [`1f0b067`](https://github.com/ScratchAddons/website-v2-script/commit/1f0b0677a95a59bf3264097504925203d64aeb4e) Fix errors 2 ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
-- [`e5cfbd4`](https://github.com/ScratchAddons/website-v2-script/commit/e5cfbd4f9d792bb4b45757f812fb0de5642bef61) Fix errors ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
-- [`ef06af7`](https://github.com/ScratchAddons/website-i18n/commit/ef06af7ac85e88610834733bf30456bbc7f91841) Move code from here to script repo ([ScratchAddons/website-i18n](https://github.com/ScratchAddons/website-i18n), [master](https://github.com/ScratchAddons/website-i18n/tree/master))
 
 ### Last ten events
 
@@ -55,12 +55,10 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 - Created review on PR [#28](https://github.com/ScratchAddons/website-v2/issues/28) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-05-18T16:11:40Z)
 - Created comment on issue/PR [#28](https://github.com/ScratchAddons/website-v2/issues/28) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-05-18T16:10:15Z)
 - Created comment on issue/PR [#28](https://github.com/ScratchAddons/website-v2/issues/28) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-05-18T16:09:29Z)
-- Created branch `blog` on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-05-18T15:58:40Z)
-- Created branch `bootstrap-5-with-postcss` on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-05-18T14:31:28Z)
 
 </details>
 
-*Last updated: 20/05/2021, 02:15:16 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
+*Last updated: 20/05/2021, 03:28:27 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
 *Commit hash:* [`f98bf63`](https://github.com/Hans5958/Hans5958/commit/f98bf63f4edc1c178f5a0062f6c1eae9d465ac8a
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/workflow/status/Hans5958/Hans5958/Build?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
