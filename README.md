@@ -4,7 +4,7 @@
 [![Website: hans5958.github.io]](https://hans5958.github.io) [![Blog: hans5958.github.io/blog]](https://hans5958.github.io/blog)  
 [![YouTube: Hans5958]](https://youtube.com/Hans5958) [![Twitter: hans5958]](https://twitter.com/Hans5958) ![Discord: Hans5958#0969] [![GitHub: hans5958]](https://github.com/Hans5958) [![GitLab: hans5958]](https://gitlab.com/Hans5958) [![dev.to: Hans5958]](https://dev.to/hans5958) [![Keybase: hans5958]](https://keybase.io/hans5958)  [![Email: go to GitHub]](https://github.com/hans5958)
 
-FYI: It is **18:xx** (**6pm**) in Jakarta. :sunny:  
+FYI: It is **19:xx** (**7pm**) in Jakarta. :crescent_moon:  
 *I'm online, doing stuff, and is able to respond to inquiries.*
 </div>
 
@@ -35,6 +35,8 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 
 ### Last ten commits
 
+- [`74da751`](https://github.com/ScratchAddons/website-v2/commit/74da75100bb2634864fa9f4a25527c03cd3c8b92) Fix typo ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
+- [`a0c22fc`](https://github.com/ScratchAddons/website-v2-script/commit/a0c22fc61b44905c3bad0f04bb5f3472a29b919d) Forgot to push remove untranslated script ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
 - [`4a0ee80`](https://github.com/ScratchAddons/website-i18n/commit/4a0ee80b3404bf00b6ee56bac1f5c08758ad5d06) Remove untranslated files and _index.html ([ScratchAddons/website-i18n](https://github.com/ScratchAddons/website-i18n), [master](https://github.com/ScratchAddons/website-i18n/tree/master))
 - [`4c8d1ea`](https://github.com/ScratchAddons/website-v2-script/commit/4c8d1eac5389f4880f2a4f763ee00ed3b81e6dde) Only download 100% for content files ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
 - [`5991da5`](https://github.com/ScratchAddons/website-v2-script/commit/5991da58ec3faf80b698defa6943c3646194f9ac) Remove untranslated files and _index.html ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
@@ -44,6 +46,7 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 
 ### Last ten events
 
+- Updated wiki on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-05-21T11:41:32Z)
 - Created comment on issue/PR [#28](https://github.com/ScratchAddons/website-v2/issues/28) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-05-21T06:11:59Z)
 - Created comment on issue/PR [#28](https://github.com/ScratchAddons/website-v2/issues/28) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-05-21T06:09:58Z)
 - Created comment on issue/PR [#102](https://github.com/ScratchAddons/contributors/issues/102) on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2021-05-20T06:48:58Z)
@@ -53,11 +56,10 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 - Created comment on issue/PR [#119](https://github.com/ScratchAddons/contributors/issues/119) on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2021-05-20T06:23:09Z)
 - Deleted branch `all-contributors/add-22yeetz22` on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2021-05-20T06:23:07Z)
 - Closed pull request [#119](https://github.com/ScratchAddons/contributors/issues/119) on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2021-05-20T06:23:04Z)
-- Deleted branch `all-contributors/add-Sly-Little-Fox` on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2021-05-20T05:19:24Z)
 
 </details>
 
-*Last updated: 21/05/2021, 11:15:05 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
+*Last updated: 21/05/2021, 12:27:58 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
 *Commit hash:* [`f98bf63`](https://github.com/Hans5958/Hans5958/commit/f98bf63f4edc1c178f5a0062f6c1eae9d465ac8a
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/workflow/status/Hans5958/Hans5958/Build?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
