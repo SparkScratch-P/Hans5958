@@ -4,7 +4,7 @@
 [![Website: hans5958.github.io]](https://hans5958.github.io) [![Blog: hans5958.github.io/blog]](https://hans5958.github.io/blog)  
 [![YouTube: Hans5958]](https://youtube.com/Hans5958) [![Twitter: hans5958]](https://twitter.com/Hans5958) ![Discord: Hans5958#0969] [![GitHub: hans5958]](https://github.com/Hans5958) [![GitLab: hans5958]](https://gitlab.com/Hans5958) [![dev.to: Hans5958]](https://dev.to/hans5958) [![Keybase: hans5958]](https://keybase.io/hans5958)  [![Email: go to GitHub]](https://github.com/hans5958)
 
-FYI: It is **22:xx** (**10pm**) in Jakarta. :crescent_moon:  
+FYI: It is **23:xx** (**11pm**) in Jakarta. :crescent_moon:  
 *I'm online, but only if I'm on a weekend, or there's nothing to do tommorow morning.*
 </div>
 
@@ -35,17 +35,21 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 
 ### Last ten commits
 
+- [`ec07e74`](https://github.com/ScratchAddons/website-v2-script/commit/ec07e743423652a5d3c10c88afda60f5ee991142) Forgot to flat the array ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
+- [`bdc43b7`](https://github.com/ScratchAddons/website-v2-script/commit/bdc43b75e81f00e7eb55950a5fc6764caad7533c) Improve file exclusions, avoid translating Hugo shortcodes, etc ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
+- [`8de1e2a`](https://github.com/ScratchAddons/website-v2-script/commit/8de1e2a18ece6c128b141baf45b739d96b9dfdd5) Add README ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
+- [`e21d8d7`](https://github.com/ScratchAddons/website-i18n/commit/e21d8d7dbcb8d980deea8fa412343fc7ad04cde6) Add README.md and LICENSE ([ScratchAddons/website-i18n](https://github.com/ScratchAddons/website-i18n), [master](https://github.com/ScratchAddons/website-i18n/tree/master))
 - [`74da751`](https://github.com/ScratchAddons/website-v2/commit/74da75100bb2634864fa9f4a25527c03cd3c8b92) Fix typo ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 - [`a0c22fc`](https://github.com/ScratchAddons/website-v2-script/commit/a0c22fc61b44905c3bad0f04bb5f3472a29b919d) Forgot to push remove untranslated script ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
 - [`4a0ee80`](https://github.com/ScratchAddons/website-i18n/commit/4a0ee80b3404bf00b6ee56bac1f5c08758ad5d06) Remove untranslated files and _index.html ([ScratchAddons/website-i18n](https://github.com/ScratchAddons/website-i18n), [master](https://github.com/ScratchAddons/website-i18n/tree/master))
 - [`4c8d1ea`](https://github.com/ScratchAddons/website-v2-script/commit/4c8d1eac5389f4880f2a4f763ee00ed3b81e6dde) Only download 100% for content files ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
 - [`5991da5`](https://github.com/ScratchAddons/website-v2-script/commit/5991da58ec3faf80b698defa6943c3646194f9ac) Remove untranslated files and _index.html ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
 - [`1c31c45`](https://github.com/ScratchAddons/website-v2-script/commit/1c31c450b5eec25245a680e856cf966fbc7b9115) Add forgotten error handling ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
-- [`7431034`](https://github.com/ScratchAddons/website-v2-script/commit/7431034473a598897937a1f9d25efc1103cf6031) Add forgotten error handling ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
-- [`cfc0306`](https://github.com/ScratchAddons/website-v2-script/commit/cfc03068b6ed82f9b362efc194c06c617a4ae8b1) Add forgotten slash ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
 
 ### Last ten events
 
+- Updated wiki on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-05-21T15:42:39Z)
+- Updated wiki on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-05-21T15:42:24Z)
 - Updated wiki on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-05-21T11:41:32Z)
 - Created comment on issue/PR [#28](https://github.com/ScratchAddons/website-v2/issues/28) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-05-21T06:11:59Z)
 - Created comment on issue/PR [#28](https://github.com/ScratchAddons/website-v2/issues/28) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-05-21T06:09:58Z)
@@ -54,12 +58,10 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 - Closed pull request [#122](https://github.com/ScratchAddons/contributors/issues/122) on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2021-05-20T06:24:08Z)
 - Created review on PR [#122](https://github.com/ScratchAddons/contributors/issues/122) on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2021-05-20T06:23:51Z)
 - Created comment on issue/PR [#119](https://github.com/ScratchAddons/contributors/issues/119) on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2021-05-20T06:23:09Z)
-- Deleted branch `all-contributors/add-22yeetz22` on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2021-05-20T06:23:07Z)
-- Closed pull request [#119](https://github.com/ScratchAddons/contributors/issues/119) on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2021-05-20T06:23:04Z)
 
 </details>
 
-*Last updated: 21/05/2021, 15:19:18 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
+*Last updated: 21/05/2021, 16:34:29 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
 *Commit hash:* [`f98bf63`](https://github.com/Hans5958/Hans5958/commit/f98bf63f4edc1c178f5a0062f6c1eae9d465ac8a
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/workflow/status/Hans5958/Hans5958/Build?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
