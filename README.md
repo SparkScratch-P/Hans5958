@@ -4,8 +4,8 @@
 [![Website: hans5958.github.io]](https://hans5958.github.io) [![Blog: hans5958.github.io/blog]](https://hans5958.github.io/blog)  
 [![YouTube: Hans5958]](https://youtube.com/Hans5958) [![Twitter: hans5958]](https://twitter.com/Hans5958) ![Discord: Hans5958#0969] [![GitHub: hans5958]](https://github.com/Hans5958) [![GitLab: hans5958]](https://gitlab.com/Hans5958) [![dev.to: Hans5958]](https://dev.to/hans5958) [![Keybase: hans5958]](https://keybase.io/hans5958)  [![Email: go to GitHub]](https://github.com/hans5958)
 
-FYI: It is **21:xx** (**9pm**) in Jakarta. :crescent_moon:  
-*I'm online, doing stuff, and is able to respond to inquiries.*
+FYI: It is **22:xx** (**10pm**) in Jakarta. :crescent_moon:  
+*I'm online, but only if I'm on a weekend, or there's nothing to do tommorow morning.*
 </div>
 
 <details><summary>Read about me:</summary>
@@ -35,6 +35,9 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 
 ### Last ten commits
 
+- [`611cd5d`](https://github.com/ScratchAddons/website-v2/commit/611cd5dd973143ff0a02ca769f3ef9408d9b80bb) Use ref shortcode instead of lang-link ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
+- [`20615fb`](https://github.com/ScratchAddons/website-v2/commit/20615fb07c0befa50b60b9a27a549bc3bd9a59fd) Use ref shortcode instead of lang-link ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
+- [`15868af`](https://github.com/ScratchAddons/website-v2/commit/15868af48606fb3f5a31368b2b79dcc4e6cc16b3) Use relative link on index ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 - [`5be0ee7`](https://github.com/ScratchAddons/website-v2-script/commit/5be0ee7bea3dc762aedd6f83e8250720b201c478) Replace tx_gtsymbol with > on build ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
 - [`c92e8e5`](https://github.com/ScratchAddons/website-v2-script/commit/c92e8e54bed930edbd05c03476c0085176643d2e) Fix bugs from yesterday ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
 - [`29d2a6a`](https://github.com/ScratchAddons/website-v2-script/commit/29d2a6a11fc4c9a098b3603987994106ec6408a7) Fix bugs from yesterday ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
@@ -42,9 +45,6 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 - [`4a045d6`](https://github.com/ScratchAddons/website-v2-script/commit/4a045d6019fd7b6e81e129967018e717fadc43f7) Fix wrong negation again 2 and wrong regex ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
 - [`535e370`](https://github.com/ScratchAddons/website-v2-script/commit/535e370379a07928439986f00c7ceb5ea0683731) Fix wrong negation again ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
 - [`09382ba`](https://github.com/ScratchAddons/website-v2-script/commit/09382bab47dba8842cf1a18ff97a0b18a51ec9e1) Add more pages ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
-- [`94943c3`](https://github.com/ScratchAddons/website-v2/commit/94943c31c0157b4965a2cecfc5cfdb590ebbca3c) A number of improvements on i18n and others ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
-- [`e6948aa`](https://github.com/ScratchAddons/website-v2-script/commit/e6948aa963b01266df51227bc332156b9557c1a5) Fix wrong negation ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
-- [`b367884`](https://github.com/ScratchAddons/website-v2-script/commit/b3678840a70884d47af2ff170d588b2ea25ebaa5) Forgot to change how to get relative path ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
 
 ### Last ten events
 
@@ -54,12 +54,10 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 - Created comment on issue/PR [#28](https://github.com/ScratchAddons/website-v2/issues/28) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-05-21T06:11:59Z)
 - Created comment on issue/PR [#28](https://github.com/ScratchAddons/website-v2/issues/28) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-05-21T06:09:58Z)
 - Created comment on issue/PR [#102](https://github.com/ScratchAddons/contributors/issues/102) on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2021-05-20T06:48:58Z)
-- Deleted branch `all-contributors/add-22yeetz22` on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2021-05-20T06:24:09Z)
-- Closed pull request [#122](https://github.com/ScratchAddons/contributors/issues/122) on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2021-05-20T06:24:08Z)
 
 </details>
 
-*Last updated: 22/05/2021, 14:15:00 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
+*Last updated: 22/05/2021, 15:18:45 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
 *Commit hash:* [`f98bf63`](https://github.com/Hans5958/Hans5958/commit/f98bf63f4edc1c178f5a0062f6c1eae9d465ac8a
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/workflow/status/Hans5958/Hans5958/Build?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
