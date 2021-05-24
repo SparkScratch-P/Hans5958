@@ -4,7 +4,7 @@
 [![Website: hans5958.github.io]](https://hans5958.github.io) [![Blog: hans5958.github.io/blog]](https://hans5958.github.io/blog)  
 [![YouTube: Hans5958]](https://youtube.com/Hans5958) [![Twitter: hans5958]](https://twitter.com/Hans5958) ![Discord: Hans5958#0969] [![GitHub: hans5958]](https://github.com/Hans5958) [![GitLab: hans5958]](https://gitlab.com/Hans5958) [![dev.to: Hans5958]](https://dev.to/hans5958) [![Keybase: hans5958]](https://keybase.io/hans5958)  [![Email: go to GitHub]](https://github.com/hans5958)
 
-FYI: It is **15:xx** (**3pm**) in Jakarta. :sunny:  
+FYI: It is **16:xx** (**4pm**) in Jakarta. :sunny:  
 *I'm online, doing stuff, and is able to respond to inquiries.*
 </div>
 
@@ -35,6 +35,7 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 
 ### Last ten commits
 
+- [`456e208`](https://github.com/ScratchAddons/website-v2-script/commit/456e20882f229bdd68eb8ca126d1236440163271) Prepare folders before fetching translations ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
 - [`f06eb11`](https://github.com/ScratchAddons/website-v2-script/commit/f06eb1167ef2c8389474974cf09f1d72bf7aa7f4) Apparently that's not enough ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
 - [`e295b57`](https://github.com/Hans5958/HKBP-Guidebook/commit/e295b57e827722d4660bc05c2cc9930badd6aaed) Ganti judul Konfesi ([Hans5958/HKBP-Guidebook](https://github.com/Hans5958/HKBP-Guidebook), [master](https://github.com/Hans5958/HKBP-Guidebook/tree/master))
 - [`edf88cd`](https://github.com/Hans5958/HKBP-Guidebook/commit/edf88cd104ab4ff007f5e41a20bce6c5b442d410) Perbaiki typo dan hapus gaya miring di ayat Konfesi ([Hans5958/HKBP-Guidebook](https://github.com/Hans5958/HKBP-Guidebook), [master](https://github.com/Hans5958/HKBP-Guidebook/tree/master))
@@ -43,7 +44,6 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 - [`34f3972`](https://github.com/ScratchAddons/website-v2/commit/34f39721a3da151c04e1f3f09b1e18fd907777dd) Fix typo on index description ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 - [`a4d89f0`](https://github.com/ScratchAddons/website-v2/commit/a4d89f031fef349dfebadee7771eadfd25972cbc) Use ref shortcode instead of lang-link ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 - [`611cd5d`](https://github.com/ScratchAddons/website-v2/commit/611cd5dd973143ff0a02ca769f3ef9408d9b80bb) Use ref shortcode instead of lang-link ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
-- [`20615fb`](https://github.com/ScratchAddons/website-v2/commit/20615fb07c0befa50b60b9a27a549bc3bd9a59fd) Use ref shortcode instead of lang-link ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 
 ### Last ten events
 
@@ -60,7 +60,7 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 
 </details>
 
-*Last updated: 24/05/2021, 08:21:38 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
+*Last updated: 24/05/2021, 09:20:57 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
 *Commit hash:* [`f98bf63`](https://github.com/Hans5958/Hans5958/commit/f98bf63f4edc1c178f5a0062f6c1eae9d465ac8a
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/workflow/status/Hans5958/Hans5958/Build?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
