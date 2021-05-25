@@ -4,7 +4,7 @@
 [![Website: hans5958.github.io]](https://hans5958.github.io) [![Blog: hans5958.github.io/blog]](https://hans5958.github.io/blog)  
 [![YouTube: Hans5958]](https://youtube.com/Hans5958) [![Twitter: hans5958]](https://twitter.com/Hans5958) ![Discord: Hans5958#0969] [![GitHub: hans5958]](https://github.com/Hans5958) [![GitLab: hans5958]](https://gitlab.com/Hans5958) [![dev.to: Hans5958]](https://dev.to/hans5958) [![Keybase: hans5958]](https://keybase.io/hans5958)  [![Email: go to GitHub]](https://github.com/hans5958)
 
-FYI: It is **19:xx** (**7pm**) in Jakarta. :crescent_moon:  
+FYI: It is **20:xx** (**8pm**) in Jakarta. :crescent_moon:  
 *I'm online, doing stuff, and is able to respond to inquiries.*
 </div>
 
@@ -35,6 +35,7 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 
 ### Last ten commits
 
+- [`2e36269`](https://github.com/ScratchAddons/website-v2/commit/2e3626962a4c1b701ec7d5eae0ed0174675398ea) Deprecate use of .image ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 - [`34e8052`](https://github.com/ScratchAddons/website-v2-script/commit/34e8052160571a8fe9ee3317b9d894d983da2ee6) Remove unused require ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
 - [`1a2a36d`](https://github.com/ScratchAddons/website-v2-script/commit/1a2a36dee9e0fbeaf644d0fd2a6ad347e2b6ded2) Fix Hugo shortcode wrapper function ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
 - [`50741df`](https://github.com/ScratchAddons/website-v2-script/commit/50741df39460d08ac3d122207706c0ca0a5333ac) Fix Hugo shortcode wrapper function ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
@@ -44,7 +45,6 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 - [`e295b57`](https://github.com/Hans5958/HKBP-Guidebook/commit/e295b57e827722d4660bc05c2cc9930badd6aaed) Ganti judul Konfesi ([Hans5958/HKBP-Guidebook](https://github.com/Hans5958/HKBP-Guidebook), [master](https://github.com/Hans5958/HKBP-Guidebook/tree/master))
 - [`edf88cd`](https://github.com/Hans5958/HKBP-Guidebook/commit/edf88cd104ab4ff007f5e41a20bce6c5b442d410) Perbaiki typo dan hapus gaya miring di ayat Konfesi ([Hans5958/HKBP-Guidebook](https://github.com/Hans5958/HKBP-Guidebook), [master](https://github.com/Hans5958/HKBP-Guidebook/tree/master))
 - [`c5cd4b6`](https://github.com/Hans5958/HKBP-Guidebook/commit/c5cd4b6810bf038f25679e782fe5d541c347a79f) Kurangi margin di elemen blockquote ([Hans5958/HKBP-Guidebook](https://github.com/Hans5958/HKBP-Guidebook), [master](https://github.com/Hans5958/HKBP-Guidebook/tree/master))
-- [`f91b5b1`](https://github.com/Hans5958/HKBP-Guidebook/commit/f91b5b1d77fd4f34349a4d9615da8081e8eb2d0d) Gunakan Bahasa Indonesia, tambahkan mode gelap, dsb ([Hans5958/HKBP-Guidebook](https://github.com/Hans5958/HKBP-Guidebook), [master](https://github.com/Hans5958/HKBP-Guidebook/tree/master))
 
 ### Last ten events
 
@@ -61,7 +61,7 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 
 </details>
 
-*Last updated: 25/05/2021, 12:28:56 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
+*Last updated: 25/05/2021, 13:38:40 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
 *Commit hash:* [`f98bf63`](https://github.com/Hans5958/Hans5958/commit/f98bf63f4edc1c178f5a0062f6c1eae9d465ac8a
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/workflow/status/Hans5958/Hans5958/Build?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
