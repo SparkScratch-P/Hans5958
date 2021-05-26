@@ -4,8 +4,8 @@
 [![Website: hans5958.github.io]](https://hans5958.github.io) [![Blog: hans5958.github.io/blog]](https://hans5958.github.io/blog)  
 [![YouTube: Hans5958]](https://youtube.com/Hans5958) [![Twitter: hans5958]](https://twitter.com/Hans5958) ![Discord: Hans5958#0969] [![GitHub: hans5958]](https://github.com/Hans5958) [![GitLab: hans5958]](https://gitlab.com/Hans5958) [![dev.to: Hans5958]](https://dev.to/hans5958) [![Keybase: hans5958]](https://keybase.io/hans5958)  [![Email: go to GitHub]](https://github.com/hans5958)
 
-FYI: It is **08:xx** (**8am**) in Jakarta. :sunny:  
-*I will be online in a few hours or so.*
+FYI: It is **10:xx** (**10am**) in Jakarta. :sunny:  
+*I'm online, doing stuff, and is able to respond to inquiries.*
 </div>
 
 <details><summary>Read about me:</summary>
@@ -35,6 +35,7 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 
 ### Last ten commits
 
+- [`238da81`](https://github.com/ScratchAddons/website-v2/commit/238da81a1d1b3ed54acc8ca71689c95553e85fe7) Update addons data ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 - [`2e36269`](https://github.com/ScratchAddons/website-v2/commit/2e3626962a4c1b701ec7d5eae0ed0174675398ea) Deprecate use of .image ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 - [`34e8052`](https://github.com/ScratchAddons/website-v2-script/commit/34e8052160571a8fe9ee3317b9d894d983da2ee6) Remove unused require ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
 - [`1a2a36d`](https://github.com/ScratchAddons/website-v2-script/commit/1a2a36dee9e0fbeaf644d0fd2a6ad347e2b6ded2) Fix Hugo shortcode wrapper function ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
@@ -44,10 +45,12 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 - [`f06eb11`](https://github.com/ScratchAddons/website-v2-script/commit/f06eb1167ef2c8389474974cf09f1d72bf7aa7f4) Apparently that's not enough ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
 - [`e295b57`](https://github.com/Hans5958/HKBP-Guidebook/commit/e295b57e827722d4660bc05c2cc9930badd6aaed) Ganti judul Konfesi ([Hans5958/HKBP-Guidebook](https://github.com/Hans5958/HKBP-Guidebook), [master](https://github.com/Hans5958/HKBP-Guidebook/tree/master))
 - [`edf88cd`](https://github.com/Hans5958/HKBP-Guidebook/commit/edf88cd104ab4ff007f5e41a20bce6c5b442d410) Perbaiki typo dan hapus gaya miring di ayat Konfesi ([Hans5958/HKBP-Guidebook](https://github.com/Hans5958/HKBP-Guidebook), [master](https://github.com/Hans5958/HKBP-Guidebook/tree/master))
-- [`c5cd4b6`](https://github.com/Hans5958/HKBP-Guidebook/commit/c5cd4b6810bf038f25679e782fe5d541c347a79f) Kurangi margin di elemen blockquote ([Hans5958/HKBP-Guidebook](https://github.com/Hans5958/HKBP-Guidebook), [master](https://github.com/Hans5958/HKBP-Guidebook/tree/master))
 
 ### Last ten events
 
+- Closed pull request [#42](https://github.com/ScratchAddons/website-v2/issues/42) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-05-26T03:17:54Z)
+- Created review on PR [#42](https://github.com/ScratchAddons/website-v2/issues/42) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-05-26T03:17:47Z)
+- Created comment on issue/PR [#40](https://github.com/ScratchAddons/website-v2/issues/40) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-05-26T03:02:23Z)
 - Created comment on issue/PR [#7](https://github.com/Hans5958/Domino-English-Translation/issues/7) on [Hans5958/Domino-English-Translation](https://github.com/Hans5958/Domino-English-Translation) (2021-05-25T15:41:13Z)
 - Deleted branch `all-contributors/add-DevCascade` on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2021-05-25T15:26:05Z)
 - Closed pull request [#125](https://github.com/ScratchAddons/contributors/issues/125) on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2021-05-25T15:26:04Z)
@@ -55,13 +58,10 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 - Created comment on issue/PR [#117](https://github.com/ScratchAddons/contributors/issues/117) on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2021-05-25T15:25:23Z)
 - Deleted branch `all-contributors/add-DevCascade` on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2021-05-25T15:25:23Z)
 - Closed pull request [#117](https://github.com/ScratchAddons/contributors/issues/117) on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2021-05-25T15:25:01Z)
-- Created review on PR [#117](https://github.com/ScratchAddons/contributors/issues/117) on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2021-05-25T15:24:51Z)
-- Deleted branch `all-contributors/add-wgyt` on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2021-05-25T15:16:29Z)
-- Closed pull request [#123](https://github.com/ScratchAddons/contributors/issues/123) on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2021-05-25T15:16:29Z)
 
 </details>
 
-*Last updated: 26/05/2021, 01:09:55 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
+*Last updated: 26/05/2021, 03:26:02 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
 *Commit hash:* [`f98bf63`](https://github.com/Hans5958/Hans5958/commit/f98bf63f4edc1c178f5a0062f6c1eae9d465ac8a
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/workflow/status/Hans5958/Hans5958/Build?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
