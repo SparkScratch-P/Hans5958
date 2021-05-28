@@ -4,8 +4,8 @@
 [![Website: hans5958.github.io]](https://hans5958.github.io) [![Blog: hans5958.github.io/blog]](https://hans5958.github.io/blog)  
 [![YouTube: Hans5958]](https://youtube.com/Hans5958) [![Twitter: hans5958]](https://twitter.com/Hans5958) ![Discord: Hans5958#0969] [![GitHub: hans5958]](https://github.com/Hans5958) [![GitLab: hans5958]](https://gitlab.com/Hans5958) [![dev.to: Hans5958]](https://dev.to/hans5958) [![Keybase: hans5958]](https://keybase.io/hans5958)  [![Email: go to GitHub]](https://github.com/hans5958)
 
-FYI: It is **21:xx** (**9pm**) in Jakarta. :crescent_moon:  
-*I'm online, doing stuff, and is able to respond to inquiries.*
+FYI: It is **22:xx** (**10pm**) in Jakarta. :crescent_moon:  
+*I'm online, but only if I'm on a weekend, or there's nothing to do tommorow morning.*
 </div>
 
 <details><summary>Read about me:</summary>
@@ -35,6 +35,7 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 
 ### Last ten commits
 
+- [`9b206ed`](https://github.com/ScratchAddons/website-v2-script/commit/9b206edf5536103598db792b5ac4b08d44b86fe5) Fix compile script not using translated HTML front matter ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
 - [`63d32a2`](https://github.com/ScratchAddons/website-v2/commit/63d32a2e06f96db04d3ebadffccaf60b5774b4d9) Remove additional div tag ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 - [`8819b2e`](https://github.com/ScratchAddons/website-v2/commit/8819b2ee0eb4791410e8c36d4b8f362345c829f9) Add mention to use Hugo extended version ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 - [`7a75e88`](https://github.com/ScratchAddons/website-v2/commit/7a75e887bcffdf7130068a07de8e94985184c146) Remove last strong tag usage ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
@@ -44,7 +45,6 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 - [`00b3f71`](https://github.com/ScratchAddons/website-v2/commit/00b3f7114453d9134e44cd05783785c55b38bc46) Let pages set different title on pages ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 - [`7da4d9b`](https://github.com/ScratchAddons/website-v2/commit/7da4d9bc7590ee289e90516acc4d397209d976e5) Second round of changes ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [privacy-policy](https://github.com/ScratchAddons/website-v2/tree/privacy-policy))
 - [`dd692bc`](https://github.com/ScratchAddons/website-v2/commit/dd692bc79508d22d47e80236e587b4d5a48b3b1d) Separate website and extension, improve privacy policies ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [privacy-policy](https://github.com/ScratchAddons/website-v2/tree/privacy-policy))
-- [`216dd6d`](https://github.com/ScratchAddons/website-v2/commit/216dd6d534c2c5d90ca70a1d565e9bb2413a49b7) Merge branch 'master' into privacy-policy ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [privacy-policy](https://github.com/ScratchAddons/website-v2/tree/privacy-policy))
 
 ### Last ten events
 
@@ -61,7 +61,7 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 
 </details>
 
-*Last updated: 28/05/2021, 14:40:35 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
+*Last updated: 28/05/2021, 15:26:12 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
 *Commit hash:* [`f98bf63`](https://github.com/Hans5958/Hans5958/commit/f98bf63f4edc1c178f5a0062f6c1eae9d465ac8a
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/workflow/status/Hans5958/Hans5958/Build?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
