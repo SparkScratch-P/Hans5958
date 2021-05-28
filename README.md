@@ -4,7 +4,7 @@
 [![Website: hans5958.github.io]](https://hans5958.github.io) [![Blog: hans5958.github.io/blog]](https://hans5958.github.io/blog)  
 [![YouTube: Hans5958]](https://youtube.com/Hans5958) [![Twitter: hans5958]](https://twitter.com/Hans5958) ![Discord: Hans5958#0969] [![GitHub: hans5958]](https://github.com/Hans5958) [![GitLab: hans5958]](https://gitlab.com/Hans5958) [![dev.to: Hans5958]](https://dev.to/hans5958) [![Keybase: hans5958]](https://keybase.io/hans5958)  [![Email: go to GitHub]](https://github.com/hans5958)
 
-FYI: It is **17:xx** (**5pm**) in Jakarta. :sunny:  
+FYI: It is **18:xx** (**6pm**) in Jakarta. :sunny:  
 *I'm online, doing stuff, and is able to respond to inquiries.*
 </div>
 
@@ -35,6 +35,9 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 
 ### Last ten commits
 
+- [`8819b2e`](https://github.com/ScratchAddons/website-v2/commit/8819b2ee0eb4791410e8c36d4b8f362345c829f9) Add mention to use Hugo extended version ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
+- [`7a75e88`](https://github.com/ScratchAddons/website-v2/commit/7a75e887bcffdf7130068a07de8e94985184c146) Remove last strong tag usage ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
+- [`55bfded`](https://github.com/ScratchAddons/website-v2/commit/55bfded6d89512e963666ef4123898ad59ec4d46) Add redirect layout ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 - [`cf74668`](https://github.com/ScratchAddons/website-v2/commit/cf746680c7349a0422019ded926dcac0f23ac981) Use data-nosnippet to hide language dropdown from Google ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 - [`c268dbb`](https://github.com/ScratchAddons/website-v2/commit/c268dbbbc1e15ffac3ed3a473ca357eee5155047) Hide TOC toggle if TOC is empty ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 - [`00b3f71`](https://github.com/ScratchAddons/website-v2/commit/00b3f7114453d9134e44cd05783785c55b38bc46) Let pages set different title on pages ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
@@ -42,26 +45,23 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 - [`dd692bc`](https://github.com/ScratchAddons/website-v2/commit/dd692bc79508d22d47e80236e587b4d5a48b3b1d) Separate website and extension, improve privacy policies ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [privacy-policy](https://github.com/ScratchAddons/website-v2/tree/privacy-policy))
 - [`216dd6d`](https://github.com/ScratchAddons/website-v2/commit/216dd6d534c2c5d90ca70a1d565e9bb2413a49b7) Merge branch 'master' into privacy-policy ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [privacy-policy](https://github.com/ScratchAddons/website-v2/tree/privacy-policy))
 - [`fa05b0f`](https://github.com/ScratchAddons/website-v2/commit/fa05b0f21622dbdad4506aa6b712e512ef2dc5ca) Remove reference of .image ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [privacy-policy](https://github.com/ScratchAddons/website-v2/tree/privacy-policy))
-- [`ae1cb8b`](https://github.com/ScratchAddons/website-v2/commit/ae1cb8ba4cb56c114210593cd919f1496921129b) Switch most to jsdelivr, optimize loading of trailer ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [privacy-policy](https://github.com/ScratchAddons/website-v2/tree/privacy-policy))
-- [`fa05b0f`](https://github.com/ScratchAddons/website-v2/commit/fa05b0f21622dbdad4506aa6b712e512ef2dc5ca) Remove reference of .image ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
-- [`ae1cb8b`](https://github.com/ScratchAddons/website-v2/commit/ae1cb8ba4cb56c114210593cd919f1496921129b) Switch most to jsdelivr, optimize loading of trailer ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 
 ### Last ten events
 
+- Closed issue [#20](https://github.com/ScratchAddons/website-v2/issues/20) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-05-28T10:59:04Z)
+- Deleted branch `update-docs` on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-05-28T10:50:03Z)
+- Deleted branch `docs` on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-05-28T10:49:45Z)
+- Deleted branch `unsupported` on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-05-28T10:49:23Z)
+- Created comment on issue/PR [#34](https://github.com/ScratchAddons/website-v2/issues/34) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-05-28T10:48:30Z)
 - Closed issue [#38](https://github.com/ScratchAddons/website-v2/issues/38) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-05-28T10:04:29Z)
 - Created comment on issue/PR [#38](https://github.com/ScratchAddons/website-v2/issues/38) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-05-28T08:48:03Z)
 - Created comment on issue/PR [#35](https://github.com/ScratchAddons/website-v2/issues/35) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-05-28T08:39:53Z)
 - Created comment on issue/PR [#36](https://github.com/ScratchAddons/website-v2/issues/36) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-05-28T08:34:42Z)
 - Created comment on issue/PR [#43](https://github.com/ScratchAddons/website-v2/issues/43) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-05-28T08:25:02Z)
-- Deleted branch `typos` on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-05-28T05:14:57Z)
-- Created review on PR [#43](https://github.com/ScratchAddons/website-v2/issues/43) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-05-28T03:18:11Z)
-- Created review on PR [#43](https://github.com/ScratchAddons/website-v2/issues/43) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-05-28T03:14:05Z)
-- Created comment on issue/PR [#558](https://github.com/ScratchAddons/ScratchAddons/issues/558) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-05-27T16:07:20Z)
-- Created comment on issue/PR [#558](https://github.com/ScratchAddons/ScratchAddons/issues/558) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-05-27T14:32:01Z)
 
 </details>
 
-*Last updated: 28/05/2021, 10:45:34 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
+*Last updated: 28/05/2021, 11:43:29 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
 *Commit hash:* [`f98bf63`](https://github.com/Hans5958/Hans5958/commit/f98bf63f4edc1c178f5a0062f6c1eae9d465ac8a
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/workflow/status/Hans5958/Hans5958/Build?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
