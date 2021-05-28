@@ -4,7 +4,7 @@
 [![Website: hans5958.github.io]](https://hans5958.github.io) [![Blog: hans5958.github.io/blog]](https://hans5958.github.io/blog)  
 [![YouTube: Hans5958]](https://youtube.com/Hans5958) [![Twitter: hans5958]](https://twitter.com/Hans5958) ![Discord: Hans5958#0969] [![GitHub: hans5958]](https://github.com/Hans5958) [![GitLab: hans5958]](https://gitlab.com/Hans5958) [![dev.to: Hans5958]](https://dev.to/hans5958) [![Keybase: hans5958]](https://keybase.io/hans5958)  [![Email: go to GitHub]](https://github.com/hans5958)
 
-FYI: It is **11:xx** (**11am**) in Jakarta. :sunny:  
+FYI: It is **13:xx** (**1pm**) in Jakarta. :sunny:  
 *I'm online, doing stuff, and is able to respond to inquiries.*
 </div>
 
@@ -42,6 +42,7 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 
 ### Last ten events
 
+- Deleted branch `typos` on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-05-28T05:14:57Z)
 - Created review on PR [#43](https://github.com/ScratchAddons/website-v2/issues/43) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-05-28T03:18:11Z)
 - Created review on PR [#43](https://github.com/ScratchAddons/website-v2/issues/43) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-05-28T03:14:05Z)
 - Created comment on issue/PR [#558](https://github.com/ScratchAddons/ScratchAddons/issues/558) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-05-27T16:07:20Z)
@@ -51,11 +52,10 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 - Closed issue [#2618](https://github.com/ScratchAddons/ScratchAddons/issues/2618) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-05-27T02:13:41Z)
 - Created comment on issue/PR [#2618](https://github.com/ScratchAddons/ScratchAddons/issues/2618) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-05-27T02:13:37Z)
 - Created comment on issue/PR [#464](https://github.com/ScratchAddons/ScratchAddons/issues/464) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-05-27T02:08:15Z)
-- Closed issue [#2620](https://github.com/ScratchAddons/ScratchAddons/issues/2620) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-05-27T02:07:36Z)
 
 </details>
 
-*Last updated: 28/05/2021, 04:10:45 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
+*Last updated: 28/05/2021, 06:19:19 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
 *Commit hash:* [`f98bf63`](https://github.com/Hans5958/Hans5958/commit/f98bf63f4edc1c178f5a0062f6c1eae9d465ac8a
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/workflow/status/Hans5958/Hans5958/Build?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
