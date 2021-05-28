@@ -4,8 +4,8 @@
 [![Website: hans5958.github.io]](https://hans5958.github.io) [![Blog: hans5958.github.io/blog]](https://hans5958.github.io/blog)  
 [![YouTube: Hans5958]](https://youtube.com/Hans5958) [![Twitter: hans5958]](https://twitter.com/Hans5958) ![Discord: Hans5958#0969] [![GitHub: hans5958]](https://github.com/Hans5958) [![GitLab: hans5958]](https://gitlab.com/Hans5958) [![dev.to: Hans5958]](https://dev.to/hans5958) [![Keybase: hans5958]](https://keybase.io/hans5958)  [![Email: go to GitHub]](https://github.com/hans5958)
 
-FYI: It is **22:xx** (**10pm**) in Jakarta. :crescent_moon:  
-*I'm online, but only if I'm on a weekend, or there's nothing to do tommorow morning.*
+FYI: It is **00:xx** (**12am**) in Jakarta. :crescent_moon:  
+*There is a great chance that I'm offline, so I'm sorry that I can't respond to you currently.*
 </div>
 
 <details><summary>Read about me:</summary>
@@ -35,6 +35,9 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 
 ### Last ten commits
 
+- [`fcd93e0`](https://github.com/ScratchAddons/website-v2/commit/fcd93e01c6771c28220909622d166594fd9475b0) Make feedback page translatable ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
+- [`90ef616`](https://github.com/ScratchAddons/website-v2-script/commit/90ef6162e93e41845dcf8bb34552b2c8640965e7) Add more pages to be translated ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
+- [`a09c57a`](https://github.com/ScratchAddons/website-v2-script/commit/a09c57a6bde99366c83cb3f873ba7799310d8617) Use placeholders for ref and relref shortcodes ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
 - [`9b206ed`](https://github.com/ScratchAddons/website-v2-script/commit/9b206edf5536103598db792b5ac4b08d44b86fe5) Fix compile script not using translated HTML front matter ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
 - [`63d32a2`](https://github.com/ScratchAddons/website-v2/commit/63d32a2e06f96db04d3ebadffccaf60b5774b4d9) Remove additional div tag ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 - [`8819b2e`](https://github.com/ScratchAddons/website-v2/commit/8819b2ee0eb4791410e8c36d4b8f362345c829f9) Add mention to use Hugo extended version ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
@@ -42,12 +45,10 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 - [`55bfded`](https://github.com/ScratchAddons/website-v2/commit/55bfded6d89512e963666ef4123898ad59ec4d46) Add redirect layout ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 - [`cf74668`](https://github.com/ScratchAddons/website-v2/commit/cf746680c7349a0422019ded926dcac0f23ac981) Use data-nosnippet to hide language dropdown from Google ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 - [`c268dbb`](https://github.com/ScratchAddons/website-v2/commit/c268dbbbc1e15ffac3ed3a473ca357eee5155047) Hide TOC toggle if TOC is empty ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
-- [`00b3f71`](https://github.com/ScratchAddons/website-v2/commit/00b3f7114453d9134e44cd05783785c55b38bc46) Let pages set different title on pages ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
-- [`7da4d9b`](https://github.com/ScratchAddons/website-v2/commit/7da4d9bc7590ee289e90516acc4d397209d976e5) Second round of changes ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [privacy-policy](https://github.com/ScratchAddons/website-v2/tree/privacy-policy))
-- [`dd692bc`](https://github.com/ScratchAddons/website-v2/commit/dd692bc79508d22d47e80236e587b4d5a48b3b1d) Separate website and extension, improve privacy policies ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [privacy-policy](https://github.com/ScratchAddons/website-v2/tree/privacy-policy))
 
 ### Last ten events
 
+- Created comment on issue/PR [#558](https://github.com/ScratchAddons/ScratchAddons/issues/558) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-05-28T16:52:51Z)
 - Closed issue [#44](https://github.com/ScratchAddons/website-v2/issues/44) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-05-28T13:49:42Z)
 - Created comment on issue/PR [#558](https://github.com/ScratchAddons/ScratchAddons/issues/558) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-05-28T12:27:16Z)
 - Closed issue [#20](https://github.com/ScratchAddons/website-v2/issues/20) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-05-28T10:59:04Z)
@@ -57,11 +58,10 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 - Created comment on issue/PR [#34](https://github.com/ScratchAddons/website-v2/issues/34) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-05-28T10:48:30Z)
 - Closed issue [#38](https://github.com/ScratchAddons/website-v2/issues/38) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-05-28T10:04:29Z)
 - Created comment on issue/PR [#38](https://github.com/ScratchAddons/website-v2/issues/38) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-05-28T08:48:03Z)
-- Created comment on issue/PR [#35](https://github.com/ScratchAddons/website-v2/issues/35) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-05-28T08:39:53Z)
 
 </details>
 
-*Last updated: 28/05/2021, 15:26:12 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
+*Last updated: 28/05/2021, 17:01:27 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
 *Commit hash:* [`f98bf63`](https://github.com/Hans5958/Hans5958/commit/f98bf63f4edc1c178f5a0062f6c1eae9d465ac8a
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/workflow/status/Hans5958/Hans5958/Build?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
