@@ -4,7 +4,7 @@
 [![Website: hans5958.github.io]](https://hans5958.github.io) [![Blog: hans5958.github.io/blog]](https://hans5958.github.io/blog)  
 [![YouTube: Hans5958]](https://youtube.com/Hans5958) [![Twitter: hans5958]](https://twitter.com/Hans5958) ![Discord: Hans5958#0969] [![GitHub: hans5958]](https://github.com/Hans5958) [![GitLab: hans5958]](https://gitlab.com/Hans5958) [![dev.to: Hans5958]](https://dev.to/hans5958) [![Keybase: hans5958]](https://keybase.io/hans5958)  [![Email: go to GitHub]](https://github.com/hans5958)
 
-FYI: It is **16:xx** (**4pm**) in Jakarta. :sunny:  
+FYI: It is **17:xx** (**5pm**) in Jakarta. :sunny:  
 *I'm online, doing stuff, and is able to respond to inquiries.*
 </div>
 
@@ -35,16 +35,16 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 
 ### Last ten commits
 
+- [`abce602`](https://github.com/ScratchAddons/website-v2/commit/abce6027861afd3972ad0c5e42bb46ddb738b5bb) Merge privacy changes into master ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
+- [`8283fc1`](https://github.com/ScratchAddons/website-v2/commit/8283fc1a8c934a1a506b98bee844fb694b409702) Merge privacy changes into master ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
+- [`ab95b3c`](https://github.com/ScratchAddons/website-v2/commit/ab95b3cf3286ff5df06db2eeca4fdd671436c07f) Section page, more test pages, header changes ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [blog](https://github.com/ScratchAddons/website-v2/tree/blog))
+- [`df618c3`](https://github.com/ScratchAddons/website-v2/commit/df618c3acd2926006471dce6faef1a177c2e9177) Second changes on stylesheet ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [blog](https://github.com/ScratchAddons/website-v2/tree/blog))
 - [`8be2598`](https://github.com/Hans5958/fnf-to-sm/commit/8be25988e81f82cfd049bf2e68870d8e6540fa8a) First batch of improvements ([Hans5958/fnf-to-sm](https://github.com/Hans5958/fnf-to-sm), [main](https://github.com/Hans5958/fnf-to-sm/tree/main))
 - [`652893c`](https://github.com/ScratchAddons/website-v2-script/commit/652893ca88fb0a1659c01f6cb221590e0795d782) Readd hotfix from 5be0ee7b ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
 - [`fcd93e0`](https://github.com/ScratchAddons/website-v2/commit/fcd93e01c6771c28220909622d166594fd9475b0) Make feedback page translatable ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 - [`90ef616`](https://github.com/ScratchAddons/website-v2-script/commit/90ef6162e93e41845dcf8bb34552b2c8640965e7) Add more pages to be translated ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
 - [`a09c57a`](https://github.com/ScratchAddons/website-v2-script/commit/a09c57a6bde99366c83cb3f873ba7799310d8617) Use placeholders for ref and relref shortcodes ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
 - [`9b206ed`](https://github.com/ScratchAddons/website-v2-script/commit/9b206edf5536103598db792b5ac4b08d44b86fe5) Fix compile script not using translated HTML front matter ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
-- [`63d32a2`](https://github.com/ScratchAddons/website-v2/commit/63d32a2e06f96db04d3ebadffccaf60b5774b4d9) Remove additional div tag ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
-- [`8819b2e`](https://github.com/ScratchAddons/website-v2/commit/8819b2ee0eb4791410e8c36d4b8f362345c829f9) Add mention to use Hugo extended version ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
-- [`7a75e88`](https://github.com/ScratchAddons/website-v2/commit/7a75e887bcffdf7130068a07de8e94985184c146) Remove last strong tag usage ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
-- [`55bfded`](https://github.com/ScratchAddons/website-v2/commit/55bfded6d89512e963666ef4123898ad59ec4d46) Add redirect layout ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 
 ### Last ten events
 
@@ -61,7 +61,7 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 
 </details>
 
-*Last updated: 31/05/2021, 09:06:57 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
+*Last updated: 31/05/2021, 10:53:04 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
 *Commit hash:* [`f98bf63`](https://github.com/Hans5958/Hans5958/commit/f98bf63f4edc1c178f5a0062f6c1eae9d465ac8a
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/workflow/status/Hans5958/Hans5958/Build?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
