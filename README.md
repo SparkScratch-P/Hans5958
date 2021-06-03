@@ -4,7 +4,7 @@
 [![Website: hans5958.github.io]](https://hans5958.github.io) [![Blog: hans5958.github.io/blog]](https://hans5958.github.io/blog)  
 [![YouTube: Hans5958]](https://youtube.com/Hans5958) [![Twitter: hans5958]](https://twitter.com/Hans5958) ![Discord: Hans5958#0969] [![GitHub: hans5958]](https://github.com/Hans5958) [![GitLab: hans5958]](https://gitlab.com/Hans5958) [![dev.to: Hans5958]](https://dev.to/hans5958) [![Keybase: hans5958]](https://keybase.io/hans5958)  [![Email: go to GitHub]](https://github.com/hans5958)
 
-FYI: It is **14:xx** (**2pm**) in Jakarta. :sunny:  
+FYI: It is **16:xx** (**4pm**) in Jakarta. :sunny:  
 *I'm online, doing stuff, and is able to respond to inquiries.*
 </div>
 
@@ -48,6 +48,7 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 
 ### Last ten events
 
+- Created branch `credits-page` on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-06-03T07:37:55Z)
 - Created branch `please-pin-our-extension-chrome-users` on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-06-03T07:19:17Z)
 - Updated wiki on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-06-02T15:54:24Z)
 - Updated wiki on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-06-02T15:52:58Z)
@@ -57,11 +58,10 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 - Closed issue [#7](https://github.com/Hans5958/Domino-English-Translation/issues/7) on [Hans5958/Domino-English-Translation](https://github.com/Hans5958/Domino-English-Translation) (2021-06-01T10:48:41Z)
 - Deleted branch `all-contributors/add-ErrorGamer2000` on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2021-06-01T09:15:42Z)
 - Closed pull request [#128](https://github.com/ScratchAddons/contributors/issues/128) on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2021-06-01T09:15:41Z)
-- Created comment on issue/PR [#6](https://github.com/ScratchAddons/contributors/issues/6) on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2021-06-01T09:15:28Z)
 
 </details>
 
-*Last updated: 03/06/2021, 07:27:28 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
+*Last updated: 03/06/2021, 09:00:26 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
 *Commit hash:* [`f98bf63`](https://github.com/Hans5958/Hans5958/commit/f98bf63f4edc1c178f5a0062f6c1eae9d465ac8a
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/workflow/status/Hans5958/Hans5958/Build?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
