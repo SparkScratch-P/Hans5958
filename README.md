@@ -4,8 +4,8 @@
 [![Website: hans5958.github.io]](https://hans5958.github.io) [![Blog: hans5958.github.io/blog]](https://hans5958.github.io/blog)  
 [![YouTube: Hans5958]](https://youtube.com/Hans5958) [![Twitter: hans5958]](https://twitter.com/Hans5958) ![Discord: Hans5958#0969] [![GitHub: hans5958]](https://github.com/Hans5958) [![GitLab: hans5958]](https://gitlab.com/Hans5958) [![dev.to: Hans5958]](https://dev.to/hans5958) [![Keybase: hans5958]](https://keybase.io/hans5958)  [![Email: go to GitHub]](https://github.com/hans5958)
 
-FYI: It is **21:xx** (**9pm**) in Jakarta. :crescent_moon:  
-*I'm online, doing stuff, and is able to respond to inquiries.*
+FYI: It is **22:xx** (**10pm**) in Jakarta. :crescent_moon:  
+*I'm online, but only if I'm on a weekend, or there's nothing to do tommorow morning.*
 </div>
 
 <details><summary>Read about me:</summary>
@@ -35,16 +35,16 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 
 ### Last ten commits
 
+- [`37075eb`](https://github.com/ScratchAddons/website-v2/commit/37075eb03dc45d6b527af325b4cf66afa732021d) Do not cache nav partial ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
+- [`160ea95`](https://github.com/ScratchAddons/website-v2/commit/160ea95fb847d64a125bacf382989a5d3411251f) Add script for hiding elements from spiders ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
+- [`47994df`](https://github.com/ScratchAddons/website-v2/commit/47994dff1a0aeba0d7e2e11f96b8e49802194b4a) Link to original en pages for Markdown pages ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
+- [`965f41b`](https://github.com/ScratchAddons/website-v2/commit/965f41bbae4187de56ba89a5d8465a6f6542057f) Add mention of the FAQ page on the feedback page ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
+- [`0dd34c9`](https://github.com/ScratchAddons/website-v2/commit/0dd34c99856cab9bcc5a6f221dcc338c798fcc84) Attempt 2 of hiding not found pages from Plausible ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
+- [`c2e7d4f`](https://github.com/ScratchAddons/website-v2/commit/c2e7d4f909741512b359f98bab4677d8458478ce) Move intro img on transition page into a shortcode for i18n ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 - [`3e8998a`](https://github.com/ScratchAddons/website-v2/commit/3e8998aa251ac6b66edde8412b564ac7bc4966f8) Sync new description names 2 ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [credits-page](https://github.com/ScratchAddons/website-v2/tree/credits-page))
 - [`bfdd54c`](https://github.com/ScratchAddons/website-v2-script/commit/bfdd54c1acf86e9ce8bb54dae28065609cc384d5) Prepare deploy site script for future ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
 - [`f377f48`](https://github.com/ScratchAddons/website-v2/commit/f377f4805feca216a07fcf34f84fb3fab0fe85e6) Use script from script repo ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [credits-page](https://github.com/ScratchAddons/website-v2/tree/credits-page))
 - [`b47ad3b`](https://github.com/ScratchAddons/website-v2/commit/b47ad3b378167695ecda46948c289faa2f30bb51) Sync new description names ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [credits-page](https://github.com/ScratchAddons/website-v2/tree/credits-page))
-- [`318867c`](https://github.com/ScratchAddons/website-v2/commit/318867c1f08075eed325af29d8019dd74be73167) Implement local-based contributors page generator ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [credits-page](https://github.com/ScratchAddons/website-v2/tree/credits-page))
-- [`214ed38`](https://github.com/ScratchAddons/website-v2/commit/214ed3882a741e74eb96766abac99c653fcc4240) Scroll directly to version from versionname query ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [changelog](https://github.com/ScratchAddons/website-v2/tree/changelog))
-- [`13bfb0d`](https://github.com/ScratchAddons/website-v2/commit/13bfb0d84e2c566e9ca1aa65fb3b25fc9e536793) Add image alt ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [changelog](https://github.com/ScratchAddons/website-v2/tree/changelog))
-- [`f2a291d`](https://github.com/ScratchAddons/website-v2/commit/f2a291db81939720e0788c3ac02895f9b73ecb3c) First batch of changes ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [changelog](https://github.com/ScratchAddons/website-v2/tree/changelog))
-- [`7aaa36b`](https://github.com/ScratchAddons/website-v2/commit/7aaa36b2568dad6704a4487d644c2c59d46e7cdd) Turn on structured data generation for FAQ ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [changelog](https://github.com/ScratchAddons/website-v2/tree/changelog))
-- [`f4e0a4e`](https://github.com/ScratchAddons/website-v2/commit/f4e0a4eaff2b17435199c6ea5565333af2dcd416) Remove themes and add link to documentation on README ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [changelog](https://github.com/ScratchAddons/website-v2/tree/changelog))
 
 ### Last ten events
 
@@ -61,7 +61,7 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 
 </details>
 
-*Last updated: 03/06/2021, 14:36:49 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
+*Last updated: 03/06/2021, 15:35:44 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
 *Commit hash:* [`f98bf63`](https://github.com/Hans5958/Hans5958/commit/f98bf63f4edc1c178f5a0062f6c1eae9d465ac8a
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/workflow/status/Hans5958/Hans5958/Build?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
