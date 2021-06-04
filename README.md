@@ -4,7 +4,7 @@
 [![Website: hans5958.github.io]](https://hans5958.github.io) [![Blog: hans5958.github.io/blog]](https://hans5958.github.io/blog)  
 [![YouTube: Hans5958]](https://youtube.com/Hans5958) [![Twitter: hans5958]](https://twitter.com/Hans5958) ![Discord: Hans5958#0969] [![GitHub: hans5958]](https://github.com/Hans5958) [![GitLab: hans5958]](https://gitlab.com/Hans5958) [![dev.to: Hans5958]](https://dev.to/hans5958) [![Keybase: hans5958]](https://keybase.io/hans5958)  [![Email: go to GitHub]](https://github.com/hans5958)
 
-FYI: It is **17:xx** (**5pm**) in Jakarta. :sunny:  
+FYI: It is **19:xx** (**7pm**) in Jakarta. :crescent_moon:  
 *I'm online, doing stuff, and is able to respond to inquiries.*
 </div>
 
@@ -35,6 +35,9 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 
 ### Last ten commits
 
+- [`8a60fcd`](https://github.com/Hans5958/PreMiD-Presences-Personal/commit/8a60fcd1f17df9de6f216969dd010844e6ed39da) Changes for FandomDesktop skin, etc (Fandom, Gamepedia) ([Hans5958/PreMiD-Presences-Personal](https://github.com/Hans5958/PreMiD-Presences-Personal), [master](https://github.com/Hans5958/PreMiD-Presences-Personal/tree/master))
+- [`04734be`](https://github.com/Hans5958/PreMiD-Presences-Personal/commit/04734be52d33c9adb3ba29bc01ab55fdd30eb8dd) Push base updates on base only ([Hans5958/PreMiD-Presences-Personal](https://github.com/Hans5958/PreMiD-Presences-Personal), [master](https://github.com/Hans5958/PreMiD-Presences-Personal/tree/master))
+- [`143e854`](https://github.com/Hans5958/PreMiD-Presences-Personal/commit/143e854c87fa91616fb342d4c294f5625a7ef10e) Add TS scripts and move all scripts to .scripts ([Hans5958/PreMiD-Presences-Personal](https://github.com/Hans5958/PreMiD-Presences-Personal), [master](https://github.com/Hans5958/PreMiD-Presences-Personal/tree/master))
 - [`560383e`](https://github.com/ScratchAddons/website-v2/commit/560383e85ab8bae519d5978888a558bc859ea587) Fix missing bracket ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 - [`948ae38`](https://github.com/ScratchAddons/website-v2/commit/948ae384135ff5b78eb53df23ac9e0b18e6e4c4e) Forgot to undo testing ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 - [`37075eb`](https://github.com/ScratchAddons/website-v2/commit/37075eb03dc45d6b527af325b4cf66afa732021d) Do not cache nav partial ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
@@ -42,12 +45,11 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 - [`47994df`](https://github.com/ScratchAddons/website-v2/commit/47994dff1a0aeba0d7e2e11f96b8e49802194b4a) Link to original en pages for Markdown pages ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 - [`965f41b`](https://github.com/ScratchAddons/website-v2/commit/965f41bbae4187de56ba89a5d8465a6f6542057f) Add mention of the FAQ page on the feedback page ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 - [`0dd34c9`](https://github.com/ScratchAddons/website-v2/commit/0dd34c99856cab9bcc5a6f221dcc338c798fcc84) Attempt 2 of hiding not found pages from Plausible ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
-- [`c2e7d4f`](https://github.com/ScratchAddons/website-v2/commit/c2e7d4f909741512b359f98bab4677d8458478ce) Move intro img on transition page into a shortcode for i18n ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
-- [`3e8998a`](https://github.com/ScratchAddons/website-v2/commit/3e8998aa251ac6b66edde8412b564ac7bc4966f8) Sync new description names 2 ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [credits-page](https://github.com/ScratchAddons/website-v2/tree/credits-page))
-- [`bfdd54c`](https://github.com/ScratchAddons/website-v2-script/commit/bfdd54c1acf86e9ce8bb54dae28065609cc384d5) Prepare deploy site script for future ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
 
 ### Last ten events
 
+- Opened issue [#6](https://github.com/Hans5958/PreMiD-Presences-Personal/issues/6) on [Hans5958/PreMiD-Presences-Personal](https://github.com/Hans5958/PreMiD-Presences-Personal) (2021-06-04T11:26:51Z)
+- Created comment on issue/PR [#50](https://github.com/ScratchAddons/website-v2/issues/50) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-06-04T11:23:19Z)
 - Created comment on issue/PR [#3883](https://github.com/PreMiD/Presences/issues/3883) on [PreMiD/Presences](https://github.com/PreMiD/Presences) (2021-06-04T01:09:48Z)
 - Created comment on issue/PR [#3883](https://github.com/PreMiD/Presences/issues/3883) on [PreMiD/Presences](https://github.com/PreMiD/Presences) (2021-06-04T01:06:43Z)
 - Created comment on issue/PR [#49](https://github.com/ScratchAddons/website-v2/issues/49) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-06-03T15:52:02Z)
@@ -56,12 +58,10 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 - Created comment on a review on PR [#47](https://github.com/ScratchAddons/website-v2/issues/47) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-06-03T15:45:35Z)
 - Created review on PR [#47](https://github.com/ScratchAddons/website-v2/issues/47) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-06-03T15:45:35Z)
 - Created comment on issue/PR [#48](https://github.com/ScratchAddons/website-v2/issues/48) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-06-03T11:07:59Z)
-- Created comment on issue/PR [#49](https://github.com/ScratchAddons/website-v2/issues/49) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-06-03T11:06:09Z)
-- Opened issue [#49](https://github.com/ScratchAddons/website-v2/issues/49) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-06-03T11:05:59Z)
 
 </details>
 
-*Last updated: 04/06/2021, 10:22:52 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
+*Last updated: 04/06/2021, 12:09:21 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
 *Commit hash:* [`f98bf63`](https://github.com/Hans5958/Hans5958/commit/f98bf63f4edc1c178f5a0062f6c1eae9d465ac8a
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/workflow/status/Hans5958/Hans5958/Build?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
