@@ -4,7 +4,7 @@
 [![Website: hans5958.github.io]](https://hans5958.github.io) [![Blog: hans5958.github.io/blog]](https://hans5958.github.io/blog)  
 [![YouTube: Hans5958]](https://youtube.com/Hans5958) [![Twitter: hans5958]](https://twitter.com/Hans5958) ![Discord: Hans5958#0969] [![GitHub: hans5958]](https://github.com/Hans5958) [![GitLab: hans5958]](https://gitlab.com/Hans5958) [![dev.to: Hans5958]](https://dev.to/hans5958) [![Keybase: hans5958]](https://keybase.io/hans5958)  [![Email: go to GitHub]](https://github.com/hans5958)
 
-FYI: It is **15:xx** (**3pm**) in Jakarta. :sunny:  
+FYI: It is **16:xx** (**4pm**) in Jakarta. :sunny:  
 *I'm online, doing stuff, and is able to respond to inquiries.*
 </div>
 
@@ -35,6 +35,7 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 
 ### Last ten commits
 
+- [`c244fa8`](https://github.com/Hans5958/PreMiD-Presences-Personal/commit/c244fa84a36b957ce17b7fa353f25c95292bc8cc) Fix broken if statement (Gamepedia) ([Hans5958/PreMiD-Presences-Personal](https://github.com/Hans5958/PreMiD-Presences-Personal), [master](https://github.com/Hans5958/PreMiD-Presences-Personal/tree/master))
 - [`ea66220`](https://github.com/Hans5958/PreMiD-Presences-Personal/commit/ea662202eb910d697f6201f823420bd31f6156cb) Fix ESLint warnings and errors (Fandom, Gamepedia) ([Hans5958/PreMiD-Presences-Personal](https://github.com/Hans5958/PreMiD-Presences-Personal), [master](https://github.com/Hans5958/PreMiD-Presences-Personal/tree/master))
 - [`6adc4a3`](https://github.com/Hans5958/PreMiD-Presences-Personal/commit/6adc4a3780b769a01e21b2c26e5e55358eedbd2c) Update ESLint rules ([Hans5958/PreMiD-Presences-Personal](https://github.com/Hans5958/PreMiD-Presences-Personal), [master](https://github.com/Hans5958/PreMiD-Presences-Personal/tree/master))
 - [`24cb8ae`](https://github.com/Hans5958/PreMiD-Presences-Personal/commit/24cb8aef073ecd7188bfb6a28e80720a9d5f64d1) Update script to compensate dir changes ([Hans5958/PreMiD-Presences-Personal](https://github.com/Hans5958/PreMiD-Presences-Personal), [master](https://github.com/Hans5958/PreMiD-Presences-Personal/tree/master))
@@ -44,10 +45,11 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 - [`560383e`](https://github.com/ScratchAddons/website-v2/commit/560383e85ab8bae519d5978888a558bc859ea587) Fix missing bracket ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 - [`948ae38`](https://github.com/ScratchAddons/website-v2/commit/948ae384135ff5b78eb53df23ac9e0b18e6e4c4e) Forgot to undo testing ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 - [`37075eb`](https://github.com/ScratchAddons/website-v2/commit/37075eb03dc45d6b527af325b4cf66afa732021d) Do not cache nav partial ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
-- [`160ea95`](https://github.com/ScratchAddons/website-v2/commit/160ea95fb847d64a125bacf382989a5d3411251f) Add script for hiding elements from spiders ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 
 ### Last ten events
 
+- Created branch `multiple-210605` on [Hans5958/PreMiD-Presences](https://github.com/Hans5958/PreMiD-Presences) (2021-06-05T09:38:34Z)
+- Deleted branch `multiple-210604` on [Hans5958/PreMiD-Presences](https://github.com/Hans5958/PreMiD-Presences) (2021-06-05T09:28:56Z)
 - Deleted branch `multiple-210411` on [Hans5958/PreMiD-Presences](https://github.com/Hans5958/PreMiD-Presences) (2021-06-04T15:56:14Z)
 - Created branch `multiple-210604` on [Hans5958/PreMiD-Presences](https://github.com/Hans5958/PreMiD-Presences) (2021-06-04T15:47:36Z)
 - Opened issue [#6](https://github.com/Hans5958/PreMiD-Presences-Personal/issues/6) on [Hans5958/PreMiD-Presences-Personal](https://github.com/Hans5958/PreMiD-Presences-Personal) (2021-06-04T11:26:51Z)
@@ -56,12 +58,10 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 - Created comment on issue/PR [#3883](https://github.com/PreMiD/Presences/issues/3883) on [PreMiD/Presences](https://github.com/PreMiD/Presences) (2021-06-04T01:06:43Z)
 - Created comment on issue/PR [#49](https://github.com/ScratchAddons/website-v2/issues/49) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-06-03T15:52:02Z)
 - Closed issue [#50](https://github.com/ScratchAddons/website-v2/issues/50) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-06-03T15:48:30Z)
-- Created comment on issue/PR [#50](https://github.com/ScratchAddons/website-v2/issues/50) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-06-03T15:48:26Z)
-- Created comment on a review on PR [#47](https://github.com/ScratchAddons/website-v2/issues/47) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-06-03T15:45:35Z)
 
 </details>
 
-*Last updated: 05/06/2021, 08:44:34 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
+*Last updated: 05/06/2021, 09:41:39 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
 *Commit hash:* [`f98bf63`](https://github.com/Hans5958/Hans5958/commit/f98bf63f4edc1c178f5a0062f6c1eae9d465ac8a
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/workflow/status/Hans5958/Hans5958/Build?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
