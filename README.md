@@ -4,8 +4,8 @@
 [![Website: hans5958.github.io]](https://hans5958.github.io) [![Blog: hans5958.github.io/blog]](https://hans5958.github.io/blog)  
 [![YouTube: Hans5958]](https://youtube.com/Hans5958) [![Twitter: hans5958]](https://twitter.com/Hans5958) ![Discord: Hans5958#0969] [![GitHub: hans5958]](https://github.com/Hans5958) [![GitLab: hans5958]](https://gitlab.com/Hans5958) [![dev.to: Hans5958]](https://dev.to/hans5958) [![Keybase: hans5958]](https://keybase.io/hans5958)  [![Email: go to GitHub]](https://github.com/hans5958)
 
-FYI: It is **08:xx** (**8am**) in Jakarta. :sunny:  
-*I will be online in a few hours or so.*
+FYI: It is **10:xx** (**10am**) in Jakarta. :sunny:  
+*I'm online, doing stuff, and is able to respond to inquiries.*
 </div>
 
 <details><summary>Read about me:</summary>
@@ -35,6 +35,9 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 
 ### Last ten commits
 
+- [`ea66220`](https://github.com/Hans5958/PreMiD-Presences-Personal/commit/ea662202eb910d697f6201f823420bd31f6156cb) Fix ESLint warnings and errors (Fandom, Gamepedia) ([Hans5958/PreMiD-Presences-Personal](https://github.com/Hans5958/PreMiD-Presences-Personal), [master](https://github.com/Hans5958/PreMiD-Presences-Personal/tree/master))
+- [`6adc4a3`](https://github.com/Hans5958/PreMiD-Presences-Personal/commit/6adc4a3780b769a01e21b2c26e5e55358eedbd2c) Update ESLint rules ([Hans5958/PreMiD-Presences-Personal](https://github.com/Hans5958/PreMiD-Presences-Personal), [master](https://github.com/Hans5958/PreMiD-Presences-Personal/tree/master))
+- [`24cb8ae`](https://github.com/Hans5958/PreMiD-Presences-Personal/commit/24cb8aef073ecd7188bfb6a28e80720a9d5f64d1) Update script to compensate dir changes ([Hans5958/PreMiD-Presences-Personal](https://github.com/Hans5958/PreMiD-Presences-Personal), [master](https://github.com/Hans5958/PreMiD-Presences-Personal/tree/master))
 - [`8a60fcd`](https://github.com/Hans5958/PreMiD-Presences-Personal/commit/8a60fcd1f17df9de6f216969dd010844e6ed39da) Changes for FandomDesktop skin, etc (Fandom, Gamepedia) ([Hans5958/PreMiD-Presences-Personal](https://github.com/Hans5958/PreMiD-Presences-Personal), [master](https://github.com/Hans5958/PreMiD-Presences-Personal/tree/master))
 - [`04734be`](https://github.com/Hans5958/PreMiD-Presences-Personal/commit/04734be52d33c9adb3ba29bc01ab55fdd30eb8dd) Push base updates on base only ([Hans5958/PreMiD-Presences-Personal](https://github.com/Hans5958/PreMiD-Presences-Personal), [master](https://github.com/Hans5958/PreMiD-Presences-Personal/tree/master))
 - [`143e854`](https://github.com/Hans5958/PreMiD-Presences-Personal/commit/143e854c87fa91616fb342d4c294f5625a7ef10e) Add TS scripts and move all scripts to .scripts ([Hans5958/PreMiD-Presences-Personal](https://github.com/Hans5958/PreMiD-Presences-Personal), [master](https://github.com/Hans5958/PreMiD-Presences-Personal/tree/master))
@@ -42,9 +45,6 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 - [`948ae38`](https://github.com/ScratchAddons/website-v2/commit/948ae384135ff5b78eb53df23ac9e0b18e6e4c4e) Forgot to undo testing ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 - [`37075eb`](https://github.com/ScratchAddons/website-v2/commit/37075eb03dc45d6b527af325b4cf66afa732021d) Do not cache nav partial ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 - [`160ea95`](https://github.com/ScratchAddons/website-v2/commit/160ea95fb847d64a125bacf382989a5d3411251f) Add script for hiding elements from spiders ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
-- [`47994df`](https://github.com/ScratchAddons/website-v2/commit/47994dff1a0aeba0d7e2e11f96b8e49802194b4a) Link to original en pages for Markdown pages ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
-- [`965f41b`](https://github.com/ScratchAddons/website-v2/commit/965f41bbae4187de56ba89a5d8465a6f6542057f) Add mention of the FAQ page on the feedback page ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
-- [`0dd34c9`](https://github.com/ScratchAddons/website-v2/commit/0dd34c99856cab9bcc5a6f221dcc338c798fcc84) Attempt 2 of hiding not found pages from Plausible ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 
 ### Last ten events
 
@@ -61,7 +61,7 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 
 </details>
 
-*Last updated: 05/06/2021, 01:19:44 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
+*Last updated: 05/06/2021, 03:41:06 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
 *Commit hash:* [`f98bf63`](https://github.com/Hans5958/Hans5958/commit/f98bf63f4edc1c178f5a0062f6c1eae9d465ac8a
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/workflow/status/Hans5958/Hans5958/Build?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
