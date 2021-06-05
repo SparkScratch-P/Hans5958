@@ -4,7 +4,7 @@
 [![Website: hans5958.github.io]](https://hans5958.github.io) [![Blog: hans5958.github.io/blog]](https://hans5958.github.io/blog)  
 [![YouTube: Hans5958]](https://youtube.com/Hans5958) [![Twitter: hans5958]](https://twitter.com/Hans5958) ![Discord: Hans5958#0969] [![GitHub: hans5958]](https://github.com/Hans5958) [![GitLab: hans5958]](https://gitlab.com/Hans5958) [![dev.to: Hans5958]](https://dev.to/hans5958) [![Keybase: hans5958]](https://keybase.io/hans5958)  [![Email: go to GitHub]](https://github.com/hans5958)
 
-FYI: It is **19:xx** (**7pm**) in Jakarta. :crescent_moon:  
+FYI: It is **21:xx** (**9pm**) in Jakarta. :crescent_moon:  
 *I'm online, doing stuff, and is able to respond to inquiries.*
 </div>
 
@@ -35,6 +35,9 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 
 ### Last ten commits
 
+- [`5c11352`](https://github.com/Hans5958/PreMiD-Presences/commit/5c11352b7e4448c360123a459dbbece467b0597f) Script 4 ([Hans5958/PreMiD-Presences](https://github.com/Hans5958/PreMiD-Presences), [the-great-eslint-refactor](https://github.com/Hans5958/PreMiD-Presences/tree/the-great-eslint-refactor))
+- [`ff4c91d`](https://github.com/Hans5958/PreMiD-Presences/commit/ff4c91d7c8797b0d959840e599f1e5d6fe9fef5d) Script 3 ([Hans5958/PreMiD-Presences](https://github.com/Hans5958/PreMiD-Presences), [the-great-eslint-refactor](https://github.com/Hans5958/PreMiD-Presences/tree/the-great-eslint-refactor))
+- [`665627e`](https://github.com/Hans5958/PreMiD-Presences/commit/665627ecde6b76a22cc448a4b13685570427d8c9) Script 2 ([Hans5958/PreMiD-Presences](https://github.com/Hans5958/PreMiD-Presences), [the-great-eslint-refactor](https://github.com/Hans5958/PreMiD-Presences/tree/the-great-eslint-refactor))
 - [`4f30fff`](https://github.com/Hans5958/PreMiD-Presences-Personal/commit/4f30fff040bcb40a7070965de7109e872aea511c) Do exclusions of the new ESLint rules ([Hans5958/PreMiD-Presences-Personal](https://github.com/Hans5958/PreMiD-Presences-Personal), [master](https://github.com/Hans5958/PreMiD-Presences-Personal/tree/master))
 - [`700e626`](https://github.com/Hans5958/PreMiD-Presences-Personal/commit/700e626ffe2a09da0d649874a10db68f303d3d05) Switch PR text for last changes (05/06/2021) ([Hans5958/PreMiD-Presences-Personal](https://github.com/Hans5958/PreMiD-Presences-Personal), [master](https://github.com/Hans5958/PreMiD-Presences-Personal/tree/master))
 - [`6b157d2`](https://github.com/Hans5958/PreMiD-Presences-Personal/commit/6b157d20ba39ebcf885ff1271557223e5386f8f5) Add .gitattributes ([Hans5958/PreMiD-Presences-Personal](https://github.com/Hans5958/PreMiD-Presences-Personal), [master](https://github.com/Hans5958/PreMiD-Presences-Personal/tree/master))
@@ -42,12 +45,10 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 - [`10df52e`](https://github.com/Hans5958/PreMiD-Presences/commit/10df52e2a4178b9825f2390047523243077be772) Update Gamepedia (1.2.6) ([Hans5958/PreMiD-Presences](https://github.com/Hans5958/PreMiD-Presences), [multiple-210605](https://github.com/Hans5958/PreMiD-Presences/tree/multiple-210605))
 - [`8d2a146`](https://github.com/Hans5958/PreMiD-Presences/commit/8d2a146e8b644c6fcdca6b30062db4e8fd58f592) Update Fandom (1.2.6) ([Hans5958/PreMiD-Presences](https://github.com/Hans5958/PreMiD-Presences), [multiple-210605](https://github.com/Hans5958/PreMiD-Presences/tree/multiple-210605))
 - [`c244fa8`](https://github.com/Hans5958/PreMiD-Presences-Personal/commit/c244fa84a36b957ce17b7fa353f25c95292bc8cc) Fix broken if statement (Gamepedia) ([Hans5958/PreMiD-Presences-Personal](https://github.com/Hans5958/PreMiD-Presences-Personal), [master](https://github.com/Hans5958/PreMiD-Presences-Personal/tree/master))
-- [`ea66220`](https://github.com/Hans5958/PreMiD-Presences-Personal/commit/ea662202eb910d697f6201f823420bd31f6156cb) Fix ESLint warnings and errors (Fandom, Gamepedia) ([Hans5958/PreMiD-Presences-Personal](https://github.com/Hans5958/PreMiD-Presences-Personal), [master](https://github.com/Hans5958/PreMiD-Presences-Personal/tree/master))
-- [`6adc4a3`](https://github.com/Hans5958/PreMiD-Presences-Personal/commit/6adc4a3780b769a01e21b2c26e5e55358eedbd2c) Update ESLint rules ([Hans5958/PreMiD-Presences-Personal](https://github.com/Hans5958/PreMiD-Presences-Personal), [master](https://github.com/Hans5958/PreMiD-Presences-Personal/tree/master))
-- [`24cb8ae`](https://github.com/Hans5958/PreMiD-Presences-Personal/commit/24cb8aef073ecd7188bfb6a28e80720a9d5f64d1) Update script to compensate dir changes ([Hans5958/PreMiD-Presences-Personal](https://github.com/Hans5958/PreMiD-Presences-Personal), [master](https://github.com/Hans5958/PreMiD-Presences-Personal/tree/master))
 
 ### Last ten events
 
+- Created branch `the-great-eslint-refactor` on [Hans5958/PreMiD-Presences](https://github.com/Hans5958/PreMiD-Presences) (2021-06-05T12:59:37Z)
 - Created comment on issue/PR [#3889](https://github.com/PreMiD/Presences/issues/3889) on [PreMiD/Presences](https://github.com/PreMiD/Presences) (2021-06-05T10:54:55Z)
 - Deleted branch `dependabot/npm_and_yarn/types/node-15.12.0` on [Hans5958/PreMiD-Presences](https://github.com/Hans5958/PreMiD-Presences) (2021-06-05T10:23:37Z)
 - Closed pull request [#215](https://github.com/Hans5958/PreMiD-Presences/issues/215) on [Hans5958/PreMiD-Presences](https://github.com/Hans5958/PreMiD-Presences) (2021-06-05T10:23:37Z)
@@ -57,11 +58,10 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 - Deleted branch `dependabot/github_actions/PreMiD/changed-files-v3.2.1` on [Hans5958/PreMiD-Presences](https://github.com/Hans5958/PreMiD-Presences) (2021-06-05T10:23:21Z)
 - Closed pull request [#214](https://github.com/Hans5958/PreMiD-Presences/issues/214) on [Hans5958/PreMiD-Presences](https://github.com/Hans5958/PreMiD-Presences) (2021-06-05T10:23:14Z)
 - Deleted branch `dependabot/npm_and_yarn/typescript-eslint/parser-4.26.0` on [Hans5958/PreMiD-Presences](https://github.com/Hans5958/PreMiD-Presences) (2021-06-05T10:23:13Z)
-- Closed pull request [#217](https://github.com/Hans5958/PreMiD-Presences/issues/217) on [Hans5958/PreMiD-Presences](https://github.com/Hans5958/PreMiD-Presences) (2021-06-05T10:23:01Z)
 
 </details>
 
-*Last updated: 05/06/2021, 12:48:56 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
+*Last updated: 05/06/2021, 14:04:52 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
 *Commit hash:* [`f98bf63`](https://github.com/Hans5958/Hans5958/commit/f98bf63f4edc1c178f5a0062f6c1eae9d465ac8a
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/workflow/status/Hans5958/Hans5958/Build?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
