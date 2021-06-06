@@ -4,8 +4,8 @@
 [![Website: hans5958.github.io]](https://hans5958.github.io) [![Blog: hans5958.github.io/blog]](https://hans5958.github.io/blog)  
 [![YouTube: Hans5958]](https://youtube.com/Hans5958) [![Twitter: hans5958]](https://twitter.com/Hans5958) ![Discord: Hans5958#0969] [![GitHub: hans5958]](https://github.com/Hans5958) [![GitLab: hans5958]](https://gitlab.com/Hans5958) [![dev.to: Hans5958]](https://dev.to/hans5958) [![Keybase: hans5958]](https://keybase.io/hans5958)  [![Email: go to GitHub]](https://github.com/hans5958)
 
-FYI: It is **08:xx** (**8am**) in Jakarta. :sunny:  
-*I will be online in a few hours or so.*
+FYI: It is **10:xx** (**10am**) in Jakarta. :sunny:  
+*I'm online, doing stuff, and is able to respond to inquiries.*
 </div>
 
 <details><summary>Read about me:</summary>
@@ -35,6 +35,7 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 
 ### Last ten commits
 
+- [`82e026f`](https://github.com/Hans5958/PreMiD-Presences/commit/82e026fc60ca5ac53510b60056ad7e39bdd4fc99) Script Final ([Hans5958/PreMiD-Presences](https://github.com/Hans5958/PreMiD-Presences), [the-great-eslint-refactor](https://github.com/Hans5958/PreMiD-Presences/tree/the-great-eslint-refactor))
 - [`e3ea1e5`](https://github.com/Hans5958/PreMiD-Presences/commit/e3ea1e51dc268b3f0d7414baa7877484da549b8c) The Great ESLint Refactor: First Attemp ([Hans5958/PreMiD-Presences](https://github.com/Hans5958/PreMiD-Presences), [the-great-eslint-refactor](https://github.com/Hans5958/PreMiD-Presences/tree/the-great-eslint-refactor))
 - [`7671fac`](https://github.com/Hans5958/PreMiD-Presences/commit/7671facdb43e56a060bf650cc8bfea461edd32d8) Script 5 ([Hans5958/PreMiD-Presences](https://github.com/Hans5958/PreMiD-Presences), [the-great-eslint-refactor](https://github.com/Hans5958/PreMiD-Presences/tree/the-great-eslint-refactor))
 - [`5c11352`](https://github.com/Hans5958/PreMiD-Presences/commit/5c11352b7e4448c360123a459dbbece467b0597f) Script 4 ([Hans5958/PreMiD-Presences](https://github.com/Hans5958/PreMiD-Presences), [the-great-eslint-refactor](https://github.com/Hans5958/PreMiD-Presences/tree/the-great-eslint-refactor))
@@ -44,10 +45,12 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 - [`700e626`](https://github.com/Hans5958/PreMiD-Presences-Personal/commit/700e626ffe2a09da0d649874a10db68f303d3d05) Switch PR text for last changes (05/06/2021) ([Hans5958/PreMiD-Presences-Personal](https://github.com/Hans5958/PreMiD-Presences-Personal), [master](https://github.com/Hans5958/PreMiD-Presences-Personal/tree/master))
 - [`6b157d2`](https://github.com/Hans5958/PreMiD-Presences-Personal/commit/6b157d20ba39ebcf885ff1271557223e5386f8f5) Add .gitattributes ([Hans5958/PreMiD-Presences-Personal](https://github.com/Hans5958/PreMiD-Presences-Personal), [master](https://github.com/Hans5958/PreMiD-Presences-Personal/tree/master))
 - [`1e166a9`](https://github.com/Hans5958/PreMiD-Presences-Personal/commit/1e166a9cc69d9838018ad05a7c8e185f1037ac7a) Multiple updates for TMX and MX (05/06/2021) ([Hans5958/PreMiD-Presences-Personal](https://github.com/Hans5958/PreMiD-Presences-Personal), [master](https://github.com/Hans5958/PreMiD-Presences-Personal/tree/master))
-- [`10df52e`](https://github.com/Hans5958/PreMiD-Presences/commit/10df52e2a4178b9825f2390047523243077be772) Update Gamepedia (1.2.6) ([Hans5958/PreMiD-Presences](https://github.com/Hans5958/PreMiD-Presences), [multiple-210605](https://github.com/Hans5958/PreMiD-Presences/tree/multiple-210605))
 
 ### Last ten events
 
+- Created branch `the-great-eslint-refactor/base` on [Hans5958/PreMiD-Presences](https://github.com/Hans5958/PreMiD-Presences) (2021-06-06T02:31:53Z)
+- Created branch `the-great-eslint-refactor/attempt-1` on [Hans5958/PreMiD-Presences](https://github.com/Hans5958/PreMiD-Presences) (2021-06-06T02:30:21Z)
+- Deleted branch `the-great-eslint-refactor` on [Hans5958/PreMiD-Presences](https://github.com/Hans5958/PreMiD-Presences) (2021-06-06T02:30:03Z)
 - Created branch `the-great-eslint-refactor` on [Hans5958/PreMiD-Presences](https://github.com/Hans5958/PreMiD-Presences) (2021-06-05T12:59:37Z)
 - Created comment on issue/PR [#3889](https://github.com/PreMiD/Presences/issues/3889) on [PreMiD/Presences](https://github.com/PreMiD/Presences) (2021-06-05T10:54:55Z)
 - Deleted branch `dependabot/npm_and_yarn/types/node-15.12.0` on [Hans5958/PreMiD-Presences](https://github.com/Hans5958/PreMiD-Presences) (2021-06-05T10:23:37Z)
@@ -55,13 +58,10 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 - Closed pull request [#216](https://github.com/Hans5958/PreMiD-Presences/issues/216) on [Hans5958/PreMiD-Presences](https://github.com/Hans5958/PreMiD-Presences) (2021-06-05T10:23:29Z)
 - Deleted branch `dependabot/npm_and_yarn/typescript-eslint/eslint-plugin-4.26.0` on [Hans5958/PreMiD-Presences](https://github.com/Hans5958/PreMiD-Presences) (2021-06-05T10:23:29Z)
 - Closed pull request [#157](https://github.com/Hans5958/PreMiD-Presences/issues/157) on [Hans5958/PreMiD-Presences](https://github.com/Hans5958/PreMiD-Presences) (2021-06-05T10:23:22Z)
-- Deleted branch `dependabot/github_actions/PreMiD/changed-files-v3.2.1` on [Hans5958/PreMiD-Presences](https://github.com/Hans5958/PreMiD-Presences) (2021-06-05T10:23:21Z)
-- Closed pull request [#214](https://github.com/Hans5958/PreMiD-Presences/issues/214) on [Hans5958/PreMiD-Presences](https://github.com/Hans5958/PreMiD-Presences) (2021-06-05T10:23:14Z)
-- Deleted branch `dependabot/npm_and_yarn/typescript-eslint/parser-4.26.0` on [Hans5958/PreMiD-Presences](https://github.com/Hans5958/PreMiD-Presences) (2021-06-05T10:23:13Z)
 
 </details>
 
-*Last updated: 06/06/2021, 01:13:56 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
+*Last updated: 06/06/2021, 03:34:13 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
 *Commit hash:* [`f98bf63`](https://github.com/Hans5958/Hans5958/commit/f98bf63f4edc1c178f5a0062f6c1eae9d465ac8a
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/workflow/status/Hans5958/Hans5958/Build?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
