@@ -4,7 +4,7 @@
 [![Website: hans5958.github.io]](https://hans5958.github.io) [![Blog: hans5958.github.io/blog]](https://hans5958.github.io/blog)  
 [![YouTube: Hans5958]](https://youtube.com/Hans5958) [![Twitter: hans5958]](https://twitter.com/Hans5958) ![Discord: Hans5958#0969] [![GitHub: hans5958]](https://github.com/Hans5958) [![GitLab: hans5958]](https://gitlab.com/Hans5958) [![dev.to: Hans5958]](https://dev.to/hans5958) [![Keybase: hans5958]](https://keybase.io/hans5958)  [![Email: go to GitHub]](https://github.com/hans5958)
 
-FYI: It is **20:xx** (**8pm**) in Jakarta. :crescent_moon:  
+FYI: It is **21:xx** (**9pm**) in Jakarta. :crescent_moon:  
 *I'm online, doing stuff, and is able to respond to inquiries.*
 </div>
 
@@ -35,6 +35,7 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 
 ### Last ten commits
 
+- [`6d226d6`](https://github.com/ScratchAddons/website-v2/commit/6d226d6f22b82637edd77a15ae4c13f716df5d63) Remove outdated update changelog workflow ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [changelog](https://github.com/ScratchAddons/website-v2/tree/changelog))
 - [`f06c14e`](https://github.com/Hans5958/iptv/commit/f06c14e7c378d2f473754d997d45e7d037f51b6d) Add missing tvg-country ([Hans5958/iptv](https://github.com/Hans5958/iptv), [master](https://github.com/Hans5958/iptv/tree/master))
 - [`0240abf`](https://github.com/Hans5958/iptv/commit/0240abfeebd4c5d9ec788dd790733a542cd2a50c) Add metadata for some countries ([Hans5958/iptv](https://github.com/Hans5958/iptv), [master](https://github.com/Hans5958/iptv/tree/master))
 - [`acde6c1`](https://github.com/Hans5958/iptv/commit/acde6c1e94d6668f89c90d8b39e00da8d210ffe7) Fix capitalization ([Hans5958/iptv](https://github.com/Hans5958/iptv), [master](https://github.com/Hans5958/iptv/tree/master))
@@ -44,10 +45,12 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 - [`d5156a1`](https://github.com/Hans5958/iptv/commit/d5156a112d8723489e1b9b2040ebc13705821382) Avoid using Imgur (blocked in Indonesia) ([Hans5958/iptv](https://github.com/Hans5958/iptv), [master](https://github.com/Hans5958/iptv/tree/master))
 - [`36cf086`](https://github.com/Hans5958/iptv/commit/36cf086428b153937f4a56c616126b996066d550) Add more TVR Parlemen and TVRI ([Hans5958/iptv](https://github.com/Hans5958/iptv), [master](https://github.com/Hans5958/iptv/tree/master))
 - [`8e563a8`](https://github.com/Hans5958/iptv/commit/8e563a8b151604c424d105de29534a4b48db2dda) Add TVR Parlemen ([Hans5958/iptv](https://github.com/Hans5958/iptv), [master](https://github.com/Hans5958/iptv/tree/master))
-- [`eaa30a2`](https://github.com/Hans5958/iptv/commit/eaa30a2645d8a9aeae3c7f995c08a4afbf12e5f9) Rename BeritaSatu channels ([Hans5958/iptv](https://github.com/Hans5958/iptv), [master](https://github.com/Hans5958/iptv/tree/master))
 
 ### Last ten events
 
+- Created comment on issue/PR [#53](https://github.com/ScratchAddons/website-v2/issues/53) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-06-09T14:07:27Z)
+- Created comment on issue/PR [#53](https://github.com/ScratchAddons/website-v2/issues/53) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-06-09T13:48:02Z)
+- Opened issue [#53](https://github.com/ScratchAddons/website-v2/issues/53) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-06-09T13:45:49Z)
 - Created comment on issue/PR [#3092](https://github.com/iptv-org/iptv/issues/3092) on [iptv-org/iptv](https://github.com/iptv-org/iptv) (2021-06-09T13:09:26Z)
 - Created comment on issue/PR [#3092](https://github.com/iptv-org/iptv/issues/3092) on [iptv-org/iptv](https://github.com/iptv-org/iptv) (2021-06-09T12:35:33Z)
 - Opened pull request [#3092](https://github.com/iptv-org/iptv/issues/3092) on [iptv-org/iptv](https://github.com/iptv-org/iptv) (2021-06-09T07:06:53Z)
@@ -55,13 +58,10 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 - Created branch `master` on [Hans5958/PreMiD-Presences-Personal](https://github.com/Hans5958/PreMiD-Presences-Personal) (2021-06-08T16:06:44Z)
 - Opened issue [#1](https://github.com/Hans5958/PreMiD-Presences-Personal/issues/1) on [Hans5958/PreMiD-Presences-Personal](https://github.com/Hans5958/PreMiD-Presences-Personal) (2021-06-08T16:03:18Z)
 - Created repository [Hans5958/PreMiD-Presences-Personal-Assets](https://github.com/Hans5958/PreMiD-Presences-Personal-Assets) (2021-06-08T15:58:05Z)
-- Created repository [Hans5958/PreMiD-Presences-Personal](https://github.com/Hans5958/PreMiD-Presences-Personal) (2021-06-08T15:57:56Z)
-- CommitCommentEvent on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-06-08T10:49:15Z)
-- Created comment on a review on PR [#47](https://github.com/ScratchAddons/website-v2/issues/47) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-06-08T03:54:50Z)
 
 </details>
 
-*Last updated: 09/06/2021, 13:30:31 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
+*Last updated: 09/06/2021, 14:21:41 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
 *Commit hash:* [`f98bf63`](https://github.com/Hans5958/Hans5958/commit/f98bf63f4edc1c178f5a0062f6c1eae9d465ac8a
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/workflow/status/Hans5958/Hans5958/Build?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
