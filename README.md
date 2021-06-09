@@ -4,7 +4,7 @@
 [![Website: hans5958.github.io]](https://hans5958.github.io) [![Blog: hans5958.github.io/blog]](https://hans5958.github.io/blog)  
 [![YouTube: Hans5958]](https://youtube.com/Hans5958) [![Twitter: hans5958]](https://twitter.com/Hans5958) ![Discord: Hans5958#0969] [![GitHub: hans5958]](https://github.com/Hans5958) [![GitLab: hans5958]](https://gitlab.com/Hans5958) [![dev.to: Hans5958]](https://dev.to/hans5958) [![Keybase: hans5958]](https://keybase.io/hans5958)  [![Email: go to GitHub]](https://github.com/hans5958)
 
-FYI: It is **12:xx** (**12pm**) in Jakarta. :sunny:  
+FYI: It is **13:xx** (**1pm**) in Jakarta. :sunny:  
 *I'm online, doing stuff, and is able to respond to inquiries.*
 </div>
 
@@ -35,6 +35,7 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 
 ### Last ten commits
 
+- [`1a33f84`](https://github.com/Hans5958/iptv/commit/1a33f848f55c3c1f79a9360762ba768c6effa183) Avoid using Imgur (blocked in Indonesia) ([Hans5958/iptv](https://github.com/Hans5958/iptv), [master](https://github.com/Hans5958/iptv/tree/master))
 - [`3dbdf8a`](https://github.com/Hans5958/PreMiD-Presences-Personal/commit/3dbdf8abf1824c193c26962597c385e9a9059d55) Switch PR text for last changes (07/06/2021) ([Hans5958/PreMiD-Presences-Personal](https://github.com/Hans5958/PreMiD-Presences-Personal), [master](https://github.com/Hans5958/PreMiD-Presences-Personal/tree/master))
 - [`a397c5a`](https://github.com/Hans5958/PreMiD-Presences-Personal/commit/a397c5a6782b7b3954e3f90d4ec7f7d3e0f3f94b) Another updates for TMX and MX (07/06/2021) ([Hans5958/PreMiD-Presences-Personal](https://github.com/Hans5958/PreMiD-Presences-Personal), [master](https://github.com/Hans5958/PreMiD-Presences-Personal/tree/master))
 - [`cf5d6a5`](https://github.com/Hans5958/PreMiD-Presences-Personal/commit/cf5d6a5c41b507c73316a1af0f5445d94fdd5506) Do exclusions of the new ESLint rules ([Hans5958/PreMiD-Presences-Personal](https://github.com/Hans5958/PreMiD-Presences-Personal), [master](https://github.com/Hans5958/PreMiD-Presences-Personal/tree/master))
@@ -44,7 +45,6 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 - [`d8b0f05`](https://github.com/Hans5958/PreMiD-Presences/commit/d8b0f050940e5ad6b0d07159748a85d61cca5d20) Update multiple presences (FandomDesktop skin) (#3889) ([Hans5958/PreMiD-Presences](https://github.com/Hans5958/PreMiD-Presences), [master](https://github.com/Hans5958/PreMiD-Presences/tree/master))
 - [`82e026f`](https://github.com/Hans5958/PreMiD-Presences/commit/82e026fc60ca5ac53510b60056ad7e39bdd4fc99) Script Final ([Hans5958/PreMiD-Presences](https://github.com/Hans5958/PreMiD-Presences), [the-great-eslint-refactor](https://github.com/Hans5958/PreMiD-Presences/tree/the-great-eslint-refactor))
 - [`e3ea1e5`](https://github.com/Hans5958/PreMiD-Presences/commit/e3ea1e51dc268b3f0d7414baa7877484da549b8c) The Great ESLint Refactor: First Attemp ([Hans5958/PreMiD-Presences](https://github.com/Hans5958/PreMiD-Presences), [the-great-eslint-refactor](https://github.com/Hans5958/PreMiD-Presences/tree/the-great-eslint-refactor))
-- [`7671fac`](https://github.com/Hans5958/PreMiD-Presences/commit/7671facdb43e56a060bf650cc8bfea461edd32d8) Script 5 ([Hans5958/PreMiD-Presences](https://github.com/Hans5958/PreMiD-Presences), [the-great-eslint-refactor](https://github.com/Hans5958/PreMiD-Presences/tree/the-great-eslint-refactor))
 
 ### Last ten events
 
@@ -61,7 +61,7 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 
 </details>
 
-*Last updated: 09/06/2021, 05:37:44 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
+*Last updated: 09/06/2021, 06:27:13 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
 *Commit hash:* [`f98bf63`](https://github.com/Hans5958/Hans5958/commit/f98bf63f4edc1c178f5a0062f6c1eae9d465ac8a
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/workflow/status/Hans5958/Hans5958/Build?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
