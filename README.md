@@ -4,8 +4,8 @@
 [![Website: hans5958.github.io]](https://hans5958.github.io) [![Blog: hans5958.github.io/blog]](https://hans5958.github.io/blog)  
 [![YouTube: Hans5958]](https://youtube.com/Hans5958) [![Twitter: hans5958]](https://twitter.com/Hans5958) ![Discord: Hans5958#0969] [![GitHub: hans5958]](https://github.com/Hans5958) [![GitLab: hans5958]](https://gitlab.com/Hans5958) [![dev.to: Hans5958]](https://dev.to/hans5958) [![Keybase: hans5958]](https://keybase.io/hans5958)  [![Email: go to GitHub]](https://github.com/hans5958)
 
-FYI: It is **21:xx** (**9pm**) in Jakarta. :crescent_moon:  
-*I'm online, doing stuff, and is able to respond to inquiries.*
+FYI: It is **22:xx** (**10pm**) in Jakarta. :crescent_moon:  
+*I'm online, but only if I'm on a weekend, or there's nothing to do tommorow morning.*
 </div>
 
 <details><summary>Read about me:</summary>
@@ -35,33 +35,29 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 
 ### Last ten commits
 
+- [`64f5b16`](https://github.com/ScratchAddons/website-v2/commit/64f5b1670b01f86e33ec164fb8355c9013d74281) Fix broken links ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
+- [`194593d`](https://github.com/ScratchAddons/website-v2/commit/194593d664df8168a86d8400f7eaf3e43c8bc213) Merge pull request #47 from thecrewmate876/docs-installing-page-update-1 ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 - [`33698dc`](https://github.com/ScratchAddons/website-i18n/commit/33698dcab837b0d094ec6c664adf5cf5f87125b9) Change link to docs from renaming ([ScratchAddons/website-i18n](https://github.com/ScratchAddons/website-i18n), [master](https://github.com/ScratchAddons/website-i18n/tree/master))
 - [`1071308`](https://github.com/ScratchAddons/website-v2/commit/107130804c45311e5bdf7ad3e614f44a24a639f1) Remove the mysterious "share" text ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [credits-page](https://github.com/ScratchAddons/website-v2/tree/credits-page))
 - [`7781442`](https://github.com/ScratchAddons/website-v2/commit/778144282778db76bb863838ede9457d1155c767) Remove commit count fetching ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [credits-page](https://github.com/ScratchAddons/website-v2/tree/credits-page))
 - [`239116a`](https://github.com/ScratchAddons/website-v2/commit/239116a14527cd1eba69d97488be02376f6fe021) Add dependencies and special thanks on the credits ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [credits-page](https://github.com/ScratchAddons/website-v2/tree/credits-page))
-- [`6d226d6`](https://github.com/ScratchAddons/website-v2/commit/6d226d6f22b82637edd77a15ae4c13f716df5d63) Remove outdated update changelog workflow ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [changelog](https://github.com/ScratchAddons/website-v2/tree/changelog))
-- [`f06c14e`](https://github.com/Hans5958/iptv/commit/f06c14e7c378d2f473754d997d45e7d037f51b6d) Add missing tvg-country ([Hans5958/iptv](https://github.com/Hans5958/iptv), [master](https://github.com/Hans5958/iptv/tree/master))
-- [`0240abf`](https://github.com/Hans5958/iptv/commit/0240abfeebd4c5d9ec788dd790733a542cd2a50c) Add metadata for some countries ([Hans5958/iptv](https://github.com/Hans5958/iptv), [master](https://github.com/Hans5958/iptv/tree/master))
-- [`acde6c1`](https://github.com/Hans5958/iptv/commit/acde6c1e94d6668f89c90d8b39e00da8d210ffe7) Fix capitalization ([Hans5958/iptv](https://github.com/Hans5958/iptv), [master](https://github.com/Hans5958/iptv/tree/master))
-- [`a40db29`](https://github.com/Hans5958/iptv/commit/a40db29acf9f1300ab889dcedca4cc8c3251268a) Add Not 24/7 for select channels ([Hans5958/iptv](https://github.com/Hans5958/iptv), [master](https://github.com/Hans5958/iptv/tree/master))
-- [`f51ef0d`](https://github.com/Hans5958/iptv/commit/f51ef0def1166ef92e07af2ebf9b1b90012d0149) Rename BeritaSatu channels ([Hans5958/iptv](https://github.com/Hans5958/iptv), [master](https://github.com/Hans5958/iptv/tree/master))
 
 ### Last ten events
 
+- Closed issue [#54](https://github.com/ScratchAddons/website-v2/issues/54) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-06-10T14:29:12Z)
+- Closed issue [#51](https://github.com/ScratchAddons/website-v2/issues/51) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-06-10T14:29:12Z)
+- Closed pull request [#47](https://github.com/ScratchAddons/website-v2/issues/47) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-06-10T14:26:55Z)
+- Created comment on issue/PR [#54](https://github.com/ScratchAddons/website-v2/issues/54) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-06-10T14:26:18Z)
 - Created comment on issue/PR [#53](https://github.com/ScratchAddons/website-v2/issues/53) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-06-10T14:05:46Z)
 - Updated wiki on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-06-10T13:55:25Z)
 - Updated wiki on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-06-10T13:53:05Z)
 - Updated wiki on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-06-10T13:51:31Z)
 - Updated wiki on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-06-10T12:32:00Z)
 - Updated wiki on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-06-10T12:31:37Z)
-- Created comment on issue/PR [#53](https://github.com/ScratchAddons/website-v2/issues/53) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-06-10T12:20:46Z)
-- Created comment on issue/PR [#71](https://github.com/ScratchAddons/contributors/issues/71) on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2021-06-09T23:35:35Z)
-- Created review on PR [#47](https://github.com/ScratchAddons/website-v2/issues/47) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-06-09T15:24:33Z)
-- Created comment on issue/PR [#48](https://github.com/ScratchAddons/website-v2/issues/48) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-06-09T15:22:09Z)
 
 </details>
 
-*Last updated: 10/06/2021, 14:16:57 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
+*Last updated: 10/06/2021, 15:22:24 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
 *Commit hash:* [`f98bf63`](https://github.com/Hans5958/Hans5958/commit/f98bf63f4edc1c178f5a0062f6c1eae9d465ac8a
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/workflow/status/Hans5958/Hans5958/Build?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
