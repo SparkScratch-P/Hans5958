@@ -4,8 +4,8 @@
 [![Website: hans5958.github.io]](https://hans5958.github.io) [![Blog: hans5958.github.io/blog]](https://hans5958.github.io/blog)  
 [![YouTube: Hans5958]](https://youtube.com/Hans5958) [![Twitter: hans5958]](https://twitter.com/Hans5958) ![Discord: Hans5958#0969] [![GitHub: hans5958]](https://github.com/Hans5958) [![GitLab: hans5958]](https://gitlab.com/Hans5958) [![dev.to: Hans5958]](https://dev.to/hans5958) [![Keybase: hans5958]](https://keybase.io/hans5958)  [![Email: go to GitHub]](https://github.com/hans5958)
 
-FYI: It is **07:xx** (**7am**) in Jakarta. :sunny:  
-*I will be online in a few hours or so.*
+FYI: It is **09:xx** (**9am**) in Jakarta. :sunny:  
+*I'm online, doing stuff, and is able to respond to inquiries.*
 </div>
 
 <details><summary>Read about me:</summary>
@@ -48,20 +48,20 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 
 ### Last ten events
 
+- Created comment on issue/PR [#34](https://github.com/ScratchAddons/website-v2/issues/34) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-06-11T02:07:01Z)
+- Created comment on issue/PR [#55](https://github.com/ScratchAddons/website-v2/issues/55) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-06-11T02:05:51Z)
+- Created comment on issue/PR [#745](https://github.com/ScratchAddons/ScratchAddons/issues/745) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-06-11T01:53:09Z)
+- Created comment on issue/PR [#49](https://github.com/ScratchAddons/website-v2/issues/49) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-06-11T01:51:35Z)
 - Closed issue [#54](https://github.com/ScratchAddons/website-v2/issues/54) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-06-10T14:29:12Z)
 - Closed issue [#51](https://github.com/ScratchAddons/website-v2/issues/51) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-06-10T14:29:12Z)
 - Closed pull request [#47](https://github.com/ScratchAddons/website-v2/issues/47) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-06-10T14:26:55Z)
 - Created comment on issue/PR [#54](https://github.com/ScratchAddons/website-v2/issues/54) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-06-10T14:26:18Z)
 - Created comment on issue/PR [#53](https://github.com/ScratchAddons/website-v2/issues/53) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-06-10T14:05:46Z)
 - Updated wiki on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-06-10T13:55:25Z)
-- Updated wiki on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-06-10T13:53:05Z)
-- Updated wiki on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-06-10T13:51:31Z)
-- Updated wiki on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-06-10T12:32:00Z)
-- Updated wiki on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-06-10T12:31:37Z)
 
 </details>
 
-*Last updated: 11/06/2021, 00:46:15 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
+*Last updated: 11/06/2021, 02:07:14 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
 *Commit hash:* [`f98bf63`](https://github.com/Hans5958/Hans5958/commit/f98bf63f4edc1c178f5a0062f6c1eae9d465ac8a
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/workflow/status/Hans5958/Hans5958/Build?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
