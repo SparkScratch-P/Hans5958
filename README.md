@@ -4,7 +4,7 @@
 [![Website: hans5958.github.io]](https://hans5958.github.io) [![Blog: hans5958.github.io/blog]](https://hans5958.github.io/blog)  
 [![YouTube: Hans5958]](https://youtube.com/Hans5958) [![Twitter: hans5958]](https://twitter.com/Hans5958) ![Discord: Hans5958#0969] [![GitHub: hans5958]](https://github.com/Hans5958) [![GitLab: hans5958]](https://gitlab.com/Hans5958) [![dev.to: Hans5958]](https://dev.to/hans5958) [![Keybase: hans5958]](https://keybase.io/hans5958)  [![Email: go to GitHub]](https://github.com/hans5958)
 
-FYI: It is **10:xx** (**10am**) in Jakarta. :sunny:  
+FYI: It is **11:xx** (**11am**) in Jakarta. :sunny:  
 *I'm online, doing stuff, and is able to respond to inquiries.*
 </div>
 
@@ -35,6 +35,9 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 
 ### Last ten commits
 
+- [`5284812`](https://github.com/ScratchAddons/website-v2/commit/52848120d5f70b397276150a57659d29db172886) Add x padding on intro heading ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
+- [`6aa2cc5`](https://github.com/ScratchAddons/website-v2/commit/6aa2cc51604b3636b102ac8e2293b41e27bef296) Fix broken link to docs images ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
+- [`ac2fe9a`](https://github.com/ScratchAddons/website-v2/commit/ac2fe9ace6d23904b48d8db5c51ffe5bb2bc9dca) Update 404 page ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 - [`e72f085`](https://github.com/ScratchAddons/website-v2/commit/e72f08585ada2fee31a1c5984298aa0c85665e92) Merge commit of smart 404 changes (2) ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 - [`db188a4`](https://github.com/ScratchAddons/website-v2/commit/db188a4071918f2be09e78c94e7e3f5d7034fd8f) Forgot to add return ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 - [`69e5176`](https://github.com/ScratchAddons/website-v2/commit/69e5176a2ff26b1f373737cbd5c3c4f5d30d05e9) Forgot to get target ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
@@ -42,12 +45,10 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 - [`45eedf7`](https://github.com/ScratchAddons/website-v2/commit/45eedf76aff1fe5c17cb36e798c09cf19a54d429) Fix smart 404 ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 - [`a17034a`](https://github.com/ScratchAddons/website-v2/commit/a17034abe451f4a6143da60d4527770e1379861b) Implement initial version of smart 404 ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 - [`64f5b16`](https://github.com/ScratchAddons/website-v2/commit/64f5b1670b01f86e33ec164fb8355c9013d74281) Fix broken links ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
-- [`194593d`](https://github.com/ScratchAddons/website-v2/commit/194593d664df8168a86d8400f7eaf3e43c8bc213) Merge pull request #47 from thecrewmate876/docs-installing-page-update-1 ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
-- [`33698dc`](https://github.com/ScratchAddons/website-i18n/commit/33698dcab837b0d094ec6c664adf5cf5f87125b9) Change link to docs from renaming ([ScratchAddons/website-i18n](https://github.com/ScratchAddons/website-i18n), [master](https://github.com/ScratchAddons/website-i18n/tree/master))
-- [`1071308`](https://github.com/ScratchAddons/website-v2/commit/107130804c45311e5bdf7ad3e614f44a24a639f1) Remove the mysterious "share" text ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [credits-page](https://github.com/ScratchAddons/website-v2/tree/credits-page))
 
 ### Last ten events
 
+- Closed issue [#55](https://github.com/ScratchAddons/website-v2/issues/55) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-06-11T04:09:25Z)
 - Created comment on issue/PR [#34](https://github.com/ScratchAddons/website-v2/issues/34) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-06-11T02:07:01Z)
 - Created comment on issue/PR [#55](https://github.com/ScratchAddons/website-v2/issues/55) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-06-11T02:05:51Z)
 - Created comment on issue/PR [#745](https://github.com/ScratchAddons/ScratchAddons/issues/745) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-06-11T01:53:09Z)
@@ -57,11 +58,10 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 - Closed pull request [#47](https://github.com/ScratchAddons/website-v2/issues/47) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-06-10T14:26:55Z)
 - Created comment on issue/PR [#54](https://github.com/ScratchAddons/website-v2/issues/54) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-06-10T14:26:18Z)
 - Created comment on issue/PR [#53](https://github.com/ScratchAddons/website-v2/issues/53) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-06-10T14:05:46Z)
-- Updated wiki on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-06-10T13:55:25Z)
 
 </details>
 
-*Last updated: 11/06/2021, 03:23:02 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
+*Last updated: 11/06/2021, 04:20:26 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
 *Commit hash:* [`f98bf63`](https://github.com/Hans5958/Hans5958/commit/f98bf63f4edc1c178f5a0062f6c1eae9d465ac8a
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/workflow/status/Hans5958/Hans5958/Build?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
