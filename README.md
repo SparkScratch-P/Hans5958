@@ -4,7 +4,7 @@
 [![Website: hans5958.github.io]](https://hans5958.github.io) [![Blog: hans5958.github.io/blog]](https://hans5958.github.io/blog)  
 [![YouTube: Hans5958]](https://youtube.com/Hans5958) [![Twitter: hans5958]](https://twitter.com/Hans5958) ![Discord: Hans5958#0969] [![GitHub: hans5958]](https://github.com/Hans5958) [![GitLab: hans5958]](https://gitlab.com/Hans5958) [![dev.to: Hans5958]](https://dev.to/hans5958) [![Keybase: hans5958]](https://keybase.io/hans5958)  [![Email: go to GitHub]](https://github.com/hans5958)
 
-FYI: It is **13:xx** (**1pm**) in Jakarta. :sunny:  
+FYI: It is **14:xx** (**2pm**) in Jakarta. :sunny:  
 *I'm online, doing stuff, and is able to respond to inquiries.*
 </div>
 
@@ -35,6 +35,8 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 
 ### Last ten commits
 
+- [`0438299`](https://github.com/Hans5958/Domino-English-Translation/commit/0438299e5075e12d3d32d515aad58d2b8d2c68f8) Do not set to prerelase on release deployment ([Hans5958/Domino-English-Translation](https://github.com/Hans5958/Domino-English-Translation), [master](https://github.com/Hans5958/Domino-English-Translation/tree/master))
+- [`d87589a`](https://github.com/Hans5958/Domino-English-Translation/commit/d87589ad75b271aa369963aba8ff7e83ccd4efb5) Use outcomes instead of outputs for nightly deployment ([Hans5958/Domino-English-Translation](https://github.com/Hans5958/Domino-English-Translation), [master](https://github.com/Hans5958/Domino-English-Translation/tree/master))
 - [`fb42b44`](https://github.com/Hans5958/Domino-English-Translation/commit/fb42b44d5138d8caedc4a8574a0474869b4bfdf1) Empty release notes ([Hans5958/Domino-English-Translation](https://github.com/Hans5958/Domino-English-Translation), [master](https://github.com/Hans5958/Domino-English-Translation/tree/master))
 - [`b7eb255`](https://github.com/Hans5958/Domino-English-Translation/commit/b7eb255cb8605b717a00659e75cfbc0bda675235) Update release body on deployment ([Hans5958/Domino-English-Translation](https://github.com/Hans5958/Domino-English-Translation), [master](https://github.com/Hans5958/Domino-English-Translation/tree/master))
 - [`90de1e9`](https://github.com/ScratchAddons/website-v2/commit/90de1e91df49ea7217db5d17edfba462e977e2c3) Merge commit of smart 404 changes (3) ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
@@ -43,8 +45,6 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 - [`5284812`](https://github.com/ScratchAddons/website-v2/commit/52848120d5f70b397276150a57659d29db172886) Add x padding on intro heading ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 - [`6aa2cc5`](https://github.com/ScratchAddons/website-v2/commit/6aa2cc51604b3636b102ac8e2293b41e27bef296) Fix broken link to docs images ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 - [`ac2fe9a`](https://github.com/ScratchAddons/website-v2/commit/ac2fe9ace6d23904b48d8db5c51ffe5bb2bc9dca) Update 404 page ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
-- [`e72f085`](https://github.com/ScratchAddons/website-v2/commit/e72f08585ada2fee31a1c5984298aa0c85665e92) Merge commit of smart 404 changes (2) ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
-- [`db188a4`](https://github.com/ScratchAddons/website-v2/commit/db188a4071918f2be09e78c94e7e3f5d7034fd8f) Forgot to add return ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 
 ### Last ten events
 
@@ -61,7 +61,7 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 
 </details>
 
-*Last updated: 11/06/2021, 06:17:58 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
+*Last updated: 11/06/2021, 07:17:28 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
 *Commit hash:* [`f98bf63`](https://github.com/Hans5958/Hans5958/commit/f98bf63f4edc1c178f5a0062f6c1eae9d465ac8a
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/workflow/status/Hans5958/Hans5958/Build?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
