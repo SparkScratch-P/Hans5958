@@ -4,8 +4,8 @@
 [![Website: hans5958.github.io]](https://hans5958.github.io) [![Blog: hans5958.github.io/blog]](https://hans5958.github.io/blog)  
 [![YouTube: Hans5958]](https://youtube.com/Hans5958) [![Twitter: hans5958]](https://twitter.com/Hans5958) ![Discord: Hans5958#0969] [![GitHub: hans5958]](https://github.com/Hans5958) [![GitLab: hans5958]](https://gitlab.com/Hans5958) [![dev.to: Hans5958]](https://dev.to/hans5958) [![Keybase: hans5958]](https://keybase.io/hans5958)  [![Email: go to GitHub]](https://github.com/hans5958)
 
-FYI: It is **23:xx** (**11pm**) in Jakarta. :crescent_moon:  
-*I'm online, but only if I'm on a weekend, or there's nothing to do tommorow morning.*
+FYI: It is **00:xx** (**12am**) in Jakarta. :crescent_moon:  
+*There is a great chance that I'm offline, so I'm sorry that I can't respond to you currently.*
 </div>
 
 <details><summary>Read about me:</summary>
@@ -35,6 +35,7 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 
 ### Last ten commits
 
+- [`ccaa9c2`](https://github.com/Hans5958/Domino-English-Translation/commit/ccaa9c2d5a951cd1655ce48a19599ad0bb2220ea) Use the proper way to do exit codes ([Hans5958/Domino-English-Translation](https://github.com/Hans5958/Domino-English-Translation), [master](https://github.com/Hans5958/Domino-English-Translation/tree/master))
 - [`13d7770`](https://github.com/ScratchAddons/contributors/commit/13d7770566ac827e5e5a60b23956ff57b1afce71) Sync README with config file ([ScratchAddons/contributors](https://github.com/ScratchAddons/contributors), [master](https://github.com/ScratchAddons/contributors/tree/master))
 - [`89f925d`](https://github.com/ScratchAddons/manifest-schema/commit/89f925db248dc13ec02a823b55b3becd9032d596) Merge remote-tracking branch 'origin/master' into master ([ScratchAddons/manifest-schema](https://github.com/ScratchAddons/manifest-schema), [master](https://github.com/ScratchAddons/manifest-schema/tree/master))
 - [`c7cbb2b`](https://github.com/ScratchAddons/manifest-schema/commit/c7cbb2b9f848e5810e39327eb0a30d08ed64a3ec) Start version 1.11 ([ScratchAddons/manifest-schema](https://github.com/ScratchAddons/manifest-schema), [master](https://github.com/ScratchAddons/manifest-schema/tree/master))
@@ -43,7 +44,6 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 - [`fb42b44`](https://github.com/Hans5958/Domino-English-Translation/commit/fb42b44d5138d8caedc4a8574a0474869b4bfdf1) Empty release notes ([Hans5958/Domino-English-Translation](https://github.com/Hans5958/Domino-English-Translation), [master](https://github.com/Hans5958/Domino-English-Translation/tree/master))
 - [`b7eb255`](https://github.com/Hans5958/Domino-English-Translation/commit/b7eb255cb8605b717a00659e75cfbc0bda675235) Update release body on deployment ([Hans5958/Domino-English-Translation](https://github.com/Hans5958/Domino-English-Translation), [master](https://github.com/Hans5958/Domino-English-Translation/tree/master))
 - [`90de1e9`](https://github.com/ScratchAddons/website-v2/commit/90de1e91df49ea7217db5d17edfba462e977e2c3) Merge commit of smart 404 changes (3) ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
-- [`4fada14`](https://github.com/ScratchAddons/website-v2/commit/4fada14209f0cd9e3b54254e33f874c3d736e216) Fix bugs on smart 404 ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 
 ### Last ten events
 
@@ -60,7 +60,7 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 
 </details>
 
-*Last updated: 12/06/2021, 16:24:29 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
+*Last updated: 12/06/2021, 17:27:53 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
 *Commit hash:* [`f98bf63`](https://github.com/Hans5958/Hans5958/commit/f98bf63f4edc1c178f5a0062f6c1eae9d465ac8a
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/workflow/status/Hans5958/Hans5958/Build?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
