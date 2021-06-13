@@ -4,7 +4,7 @@
 [![Website: hans5958.github.io]](https://hans5958.github.io) [![Blog: hans5958.github.io/blog]](https://hans5958.github.io/blog)  
 [![YouTube: Hans5958]](https://youtube.com/Hans5958) [![Twitter: hans5958]](https://twitter.com/Hans5958) ![Discord: Hans5958#0969] [![GitHub: hans5958]](https://github.com/Hans5958) [![GitLab: hans5958]](https://gitlab.com/Hans5958) [![dev.to: Hans5958]](https://dev.to/hans5958) [![Keybase: hans5958]](https://keybase.io/hans5958)  [![Email: go to GitHub]](https://github.com/hans5958)
 
-FYI: It is **18:xx** (**6pm**) in Jakarta. :sunny:  
+FYI: It is **19:xx** (**7pm**) in Jakarta. :crescent_moon:  
 *I'm online, doing stuff, and is able to respond to inquiries.*
 </div>
 
@@ -39,11 +39,11 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 - [`13d7770`](https://github.com/ScratchAddons/contributors/commit/13d7770566ac827e5e5a60b23956ff57b1afce71) Sync README with config file ([ScratchAddons/contributors](https://github.com/ScratchAddons/contributors), [master](https://github.com/ScratchAddons/contributors/tree/master))
 - [`89f925d`](https://github.com/ScratchAddons/manifest-schema/commit/89f925db248dc13ec02a823b55b3becd9032d596) Merge remote-tracking branch 'origin/master' into master ([ScratchAddons/manifest-schema](https://github.com/ScratchAddons/manifest-schema), [master](https://github.com/ScratchAddons/manifest-schema/tree/master))
 - [`c7cbb2b`](https://github.com/ScratchAddons/manifest-schema/commit/c7cbb2b9f848e5810e39327eb0a30d08ed64a3ec) Start version 1.11 ([ScratchAddons/manifest-schema](https://github.com/ScratchAddons/manifest-schema), [master](https://github.com/ScratchAddons/manifest-schema/tree/master))
-- [`0438299`](https://github.com/Hans5958/Domino-English-Translation/commit/0438299e5075e12d3d32d515aad58d2b8d2c68f8) Do not set to prerelase on release deployment ([Hans5958/Domino-English-Translation](https://github.com/Hans5958/Domino-English-Translation), [master](https://github.com/Hans5958/Domino-English-Translation/tree/master))
-- [`d87589a`](https://github.com/Hans5958/Domino-English-Translation/commit/d87589ad75b271aa369963aba8ff7e83ccd4efb5) Use outcomes instead of outputs for nightly deployment ([Hans5958/Domino-English-Translation](https://github.com/Hans5958/Domino-English-Translation), [master](https://github.com/Hans5958/Domino-English-Translation/tree/master))
 
 ### Last ten events
 
+- Closed pull request [#1](https://github.com/ScratchAddons/test-repo-for-danger/issues/1) on [ScratchAddons/test-repo-for-danger](https://github.com/ScratchAddons/test-repo-for-danger) (2021-06-13T11:38:47Z)
+- Closed pull request [#5](https://github.com/Hans5958/GitHub-API-Testing/issues/5) on [Hans5958/GitHub-API-Testing](https://github.com/Hans5958/GitHub-API-Testing) (2021-06-13T11:38:30Z)
 - Deleted tag `1.43-en.3-nightly.20200612` on [Hans5958/Domino-English-Translation](https://github.com/Hans5958/Domino-English-Translation) (2021-06-12T17:33:13Z)
 - Deleted tag `en.4-nightly.20210612` on [Hans5958/Domino-English-Translation](https://github.com/Hans5958/Domino-English-Translation) (2021-06-12T17:31:51Z)
 - Created comment on issue/PR [#62](https://github.com/all-contributors/app/issues/62) on [all-contributors/app](https://github.com/all-contributors/app) (2021-06-12T13:51:33Z)
@@ -52,12 +52,10 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 - Created review on PR [#129](https://github.com/ScratchAddons/contributors/issues/129) on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2021-06-12T13:40:33Z)
 - Deleted branch `all-contributors/add-CST1229` on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2021-06-12T13:40:03Z)
 - Closed pull request [#131](https://github.com/ScratchAddons/contributors/issues/131) on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2021-06-12T13:40:03Z)
-- Created review on PR [#131](https://github.com/ScratchAddons/contributors/issues/131) on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2021-06-12T13:39:56Z)
-- Created comment on issue/PR [#56](https://github.com/ScratchAddons/website-v2/issues/56) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-06-11T16:19:43Z)
 
 </details>
 
-*Last updated: 13/06/2021, 11:12:10 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
+*Last updated: 13/06/2021, 12:22:07 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
 *Commit hash:* [`f98bf63`](https://github.com/Hans5958/Hans5958/commit/f98bf63f4edc1c178f5a0062f6c1eae9d465ac8a
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/workflow/status/Hans5958/Hans5958/Build?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
