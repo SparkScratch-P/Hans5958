@@ -4,7 +4,7 @@
 [![Website: hans5958.github.io]](https://hans5958.github.io) [![Blog: hans5958.github.io/blog]](https://hans5958.github.io/blog)  
 [![YouTube: Hans5958]](https://youtube.com/Hans5958) [![Twitter: hans5958]](https://twitter.com/Hans5958) ![Discord: Hans5958#0969] [![GitHub: hans5958]](https://github.com/Hans5958) [![GitLab: hans5958]](https://gitlab.com/Hans5958) [![dev.to: Hans5958]](https://dev.to/hans5958) [![Keybase: hans5958]](https://keybase.io/hans5958)  [![Email: go to GitHub]](https://github.com/hans5958)
 
-FYI: It is **14:xx** (**2pm**) in Jakarta. :sunny:  
+FYI: It is **15:xx** (**3pm**) in Jakarta. :sunny:  
 *I'm online, doing stuff, and is able to respond to inquiries.*
 </div>
 
@@ -42,20 +42,20 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 
 ### Last ten events
 
+- Started [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52) (2021-06-20T07:26:32Z
+- Opened issue [#2892](https://github.com/JonathanGin52/JonathanGin52/issues/2892) on [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52) (2021-06-20T07:26:28Z)
+- Opened issue [#946](https://github.com/rossjrw/rossjrw/issues/946) on [rossjrw/rossjrw](https://github.com/rossjrw/rossjrw) (2021-06-20T07:25:43Z)
+- Started [rossjrw/rossjrw](https://github.com/rossjrw/rossjrw) (2021-06-20T07:25:27Z
+- Started [ninjamuffin99/Funkin](https://github.com/ninjamuffin99/Funkin) (2021-06-20T07:25:15Z
+- Started [KadeDev/Kade-Engine](https://github.com/KadeDev/Kade-Engine) (2021-06-20T07:24:17Z
+- Created comment on issue/PR [#1264](https://github.com/ninjamuffin99/Funkin/issues/1264) on [ninjamuffin99/Funkin](https://github.com/ninjamuffin99/Funkin) (2021-06-20T07:18:49Z)
 - CommitCommentEvent on [ninjamuffin99/Funkin](https://github.com/ninjamuffin99/Funkin) (2021-06-20T07:00:09Z)
 - Deleted branch `all-contributors/add-ShermanYeung` on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2021-06-19T06:51:37Z)
 - Closed pull request [#130](https://github.com/ScratchAddons/contributors/issues/130) on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2021-06-19T06:51:36Z)
-- Created review on PR [#130](https://github.com/ScratchAddons/contributors/issues/130) on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2021-06-19T06:51:30Z)
-- Created comment on issue/PR [#133](https://github.com/ScratchAddons/contributors/issues/133) on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2021-06-19T06:45:49Z)
-- Created comment on issue/PR [#132](https://github.com/ScratchAddons/contributors/issues/132) on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2021-06-19T06:43:09Z)
-- Created comment on issue/PR [#2243](https://github.com/ScratchAddons/ScratchAddons/issues/2243) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-06-19T06:40:33Z)
-- Reopened issue [#2773](https://github.com/ScratchAddons/ScratchAddons/issues/2773) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-06-14T16:59:29Z)
-- Created comment on issue/PR [#2774](https://github.com/ScratchAddons/ScratchAddons/issues/2774) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-06-14T16:58:47Z)
-- Created comment on issue/PR [#2764](https://github.com/ScratchAddons/ScratchAddons/issues/2764) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-06-13T14:15:21Z)
 
 </details>
 
-*Last updated: 20/06/2021, 07:16:28 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
+*Last updated: 20/06/2021, 08:15:30 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
 *Commit hash:* [`f98bf63`](https://github.com/Hans5958/Hans5958/commit/f98bf63f4edc1c178f5a0062f6c1eae9d465ac8a
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/workflow/status/Hans5958/Hans5958/Build?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
