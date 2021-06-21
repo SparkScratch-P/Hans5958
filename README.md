@@ -4,7 +4,7 @@
 [![Website: hans5958.github.io]](https://hans5958.github.io) [![Blog: hans5958.github.io/blog]](https://hans5958.github.io/blog)  
 [![YouTube: Hans5958]](https://youtube.com/Hans5958) [![Twitter: hans5958]](https://twitter.com/Hans5958) ![Discord: Hans5958#0969] [![GitHub: hans5958]](https://github.com/Hans5958) [![GitLab: hans5958]](https://gitlab.com/Hans5958) [![dev.to: Hans5958]](https://dev.to/hans5958) [![Keybase: hans5958]](https://keybase.io/hans5958)  [![Email: go to GitHub]](https://github.com/hans5958)
 
-FYI: It is **09:xx** (**9am**) in Jakarta. :sunny:  
+FYI: It is **10:xx** (**10am**) in Jakarta. :sunny:  
 *I'm online, doing stuff, and is able to respond to inquiries.*
 </div>
 
@@ -35,11 +35,11 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 
 ### Last ten commits
 
+- [`8c1c51a`](https://github.com/ScratchAddons/website-v2-script/commit/8c1c51a6fb92d197782de10ad9ff869356db813c) Forgot to async and await ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
 - [`7238e4f`](https://github.com/ScratchAddons/website-v2-script/commit/7238e4fe0f733138d070bb4cb7921e2eb6a56592) Forgot to add require ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
 - [`af3a28a`](https://github.com/ScratchAddons/website-v2-script/commit/af3a28ab9d079129462fda50fb27382e48aa8914) Add pulling using API 3 (instead of transifex-client) ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
 - [`5f14f90`](https://github.com/ScratchAddons/contributors/commit/5f14f90ddb29706f695ad28d8afa941999bf9521)  Add @ShermanYeung as a contributor ([ScratchAddons/contributors](https://github.com/ScratchAddons/contributors), [all-contributors/add-ShermanYeung](https://github.com/ScratchAddons/contributors/tree/all-contributors/add-ShermanYeung))
 - [`13d7770`](https://github.com/ScratchAddons/contributors/commit/13d7770566ac827e5e5a60b23956ff57b1afce71) Sync README with config file ([ScratchAddons/contributors](https://github.com/ScratchAddons/contributors), [all-contributors/add-ShermanYeung](https://github.com/ScratchAddons/contributors/tree/all-contributors/add-ShermanYeung))
-- [`ccaa9c2`](https://github.com/Hans5958/Domino-English-Translation/commit/ccaa9c2d5a951cd1655ce48a19599ad0bb2220ea) Use the proper way to do exit codes ([Hans5958/Domino-English-Translation](https://github.com/Hans5958/Domino-English-Translation), [master](https://github.com/Hans5958/Domino-English-Translation/tree/master))
 
 ### Last ten events
 
@@ -56,7 +56,7 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 
 </details>
 
-*Last updated: 21/06/2021, 02:08:56 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
+*Last updated: 21/06/2021, 03:18:01 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
 *Commit hash:* [`f98bf63`](https://github.com/Hans5958/Hans5958/commit/f98bf63f4edc1c178f5a0062f6c1eae9d465ac8a
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/workflow/status/Hans5958/Hans5958/Build?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
