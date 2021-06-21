@@ -4,7 +4,7 @@
 [![Website: hans5958.github.io]](https://hans5958.github.io) [![Blog: hans5958.github.io/blog]](https://hans5958.github.io/blog)  
 [![YouTube: Hans5958]](https://youtube.com/Hans5958) [![Twitter: hans5958]](https://twitter.com/Hans5958) ![Discord: Hans5958#0969] [![GitHub: hans5958]](https://github.com/Hans5958) [![GitLab: hans5958]](https://gitlab.com/Hans5958) [![dev.to: Hans5958]](https://dev.to/hans5958) [![Keybase: hans5958]](https://keybase.io/hans5958)  [![Email: go to GitHub]](https://github.com/hans5958)
 
-FYI: It is **18:xx** (**6pm**) in Jakarta. :sunny:  
+FYI: It is **19:xx** (**7pm**) in Jakarta. :crescent_moon:  
 *I'm online, doing stuff, and is able to respond to inquiries.*
 </div>
 
@@ -43,6 +43,8 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 
 ### Last ten events
 
+- Reopened issue [#2853](https://github.com/ScratchAddons/ScratchAddons/issues/2853) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-06-21T12:02:49Z)
+- Created comment on issue/PR [#2853](https://github.com/ScratchAddons/ScratchAddons/issues/2853) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-06-21T12:02:49Z)
 - Created comment on issue/PR [#57](https://github.com/ScratchAddons/website-v2/issues/57) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-06-20T13:07:30Z)
 - Started [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52) (2021-06-20T07:26:32Z
 - Opened issue [#2892](https://github.com/JonathanGin52/JonathanGin52/issues/2892) on [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52) (2021-06-20T07:26:28Z)
@@ -51,12 +53,10 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 - Started [ninjamuffin99/Funkin](https://github.com/ninjamuffin99/Funkin) (2021-06-20T07:25:15Z
 - Started [KadeDev/Kade-Engine](https://github.com/KadeDev/Kade-Engine) (2021-06-20T07:24:17Z
 - Created comment on issue/PR [#1264](https://github.com/ninjamuffin99/Funkin/issues/1264) on [ninjamuffin99/Funkin](https://github.com/ninjamuffin99/Funkin) (2021-06-20T07:18:49Z)
-- CommitCommentEvent on [ninjamuffin99/Funkin](https://github.com/ninjamuffin99/Funkin) (2021-06-20T07:00:09Z)
-- Deleted branch `all-contributors/add-ShermanYeung` on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2021-06-19T06:51:37Z)
 
 </details>
 
-*Last updated: 21/06/2021, 11:12:45 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
+*Last updated: 21/06/2021, 12:27:27 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
 *Commit hash:* [`f98bf63`](https://github.com/Hans5958/Hans5958/commit/f98bf63f4edc1c178f5a0062f6c1eae9d465ac8a
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/workflow/status/Hans5958/Hans5958/Build?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
