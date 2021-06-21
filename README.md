@@ -4,7 +4,7 @@
 [![Website: hans5958.github.io]](https://hans5958.github.io) [![Blog: hans5958.github.io/blog]](https://hans5958.github.io/blog)  
 [![YouTube: Hans5958]](https://youtube.com/Hans5958) [![Twitter: hans5958]](https://twitter.com/Hans5958) ![Discord: Hans5958#0969] [![GitHub: hans5958]](https://github.com/Hans5958) [![GitLab: hans5958]](https://gitlab.com/Hans5958) [![dev.to: Hans5958]](https://dev.to/hans5958) [![Keybase: hans5958]](https://keybase.io/hans5958)  [![Email: go to GitHub]](https://github.com/hans5958)
 
-FYI: It is **00:xx** (**12am**) in Jakarta. :crescent_moon:  
+FYI: It is **01:xx** (**1am**) in Jakarta. :crescent_moon:  
 *There is a great chance that I'm offline, so I'm sorry that I can't respond to you currently.*
 </div>
 
@@ -35,6 +35,10 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 
 ### Last ten commits
 
+- [`4847608`](https://github.com/Hans5958/mini-htmls/commit/4847608af6bbcc82d689e04318f3add95fb1e7b2) Multiple changes on TNKB Analyzer ([Hans5958/mini-htmls](https://github.com/Hans5958/mini-htmls), [master](https://github.com/Hans5958/mini-htmls/tree/master))
+- [`61bd464`](https://github.com/Hans5958/mini-htmls/commit/61bd464189ace081db93829d61e48e13a75d5392) Merge branch 'pmd-portrait-repo-stats' into master ([Hans5958/mini-htmls](https://github.com/Hans5958/mini-htmls), [master](https://github.com/Hans5958/mini-htmls/tree/master))
+- [`c6cd9d0`](https://github.com/Hans5958/mini-htmls/commit/c6cd9d060cfd4cfd8412cdfc10ccab6ab6e583f3) Final changes before release ([Hans5958/mini-htmls](https://github.com/Hans5958/mini-htmls), [master](https://github.com/Hans5958/mini-htmls/tree/master))
+- [`8e671f1`](https://github.com/Hans5958/mini-htmls/commit/8e671f157ed38d189275443667a3c482558d6e10) Initial version ([Hans5958/mini-htmls](https://github.com/Hans5958/mini-htmls), [master](https://github.com/Hans5958/mini-htmls/tree/master))
 - [`8c1c51a`](https://github.com/ScratchAddons/website-v2-script/commit/8c1c51a6fb92d197782de10ad9ff869356db813c) Forgot to async and await ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
 - [`7238e4f`](https://github.com/ScratchAddons/website-v2-script/commit/7238e4fe0f733138d070bb4cb7921e2eb6a56592) Forgot to add require ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
 - [`af3a28a`](https://github.com/ScratchAddons/website-v2-script/commit/af3a28ab9d079129462fda50fb27382e48aa8914) Add pulling using API 3 (instead of transifex-client) ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
@@ -56,7 +60,7 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 
 </details>
 
-*Last updated: 21/06/2021, 17:28:19 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
+*Last updated: 21/06/2021, 18:17:33 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
 *Commit hash:* [`f98bf63`](https://github.com/Hans5958/Hans5958/commit/f98bf63f4edc1c178f5a0062f6c1eae9d465ac8a
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/workflow/status/Hans5958/Hans5958/Build?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
