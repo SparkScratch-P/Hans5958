@@ -4,7 +4,7 @@
 [![Website: hans5958.github.io]](https://hans5958.github.io) [![Blog: hans5958.github.io/blog]](https://hans5958.github.io/blog)  
 [![YouTube: Hans5958]](https://youtube.com/Hans5958) [![Twitter: hans5958]](https://twitter.com/Hans5958) ![Discord: Hans5958#0969] [![GitHub: hans5958]](https://github.com/Hans5958) [![GitLab: hans5958]](https://gitlab.com/Hans5958) [![dev.to: Hans5958]](https://dev.to/hans5958) [![Keybase: hans5958]](https://keybase.io/hans5958)  [![Email: go to GitHub]](https://github.com/hans5958)
 
-FYI: It is **12:xx** (**12pm**) in Jakarta. :sunny:  
+FYI: It is **13:xx** (**1pm**) in Jakarta. :sunny:  
 *I'm online, doing stuff, and is able to respond to inquiries.*
 </div>
 
@@ -35,16 +35,16 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 
 ### Last ten commits
 
+- [`433f6db`](https://github.com/ScratchAddons/website-v2-script/commit/433f6dbf57914b01ce28aa3a45cc42040f983baa) Forgot to handle where there are no HTML, front matter that have been translated ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
+- [`53a4e82`](https://github.com/ScratchAddons/website-v2-script/commit/53a4e8202b9080bd9bc7284248bc7073be970d02) Do not remove all untranslated YML files to save requests ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
+- [`9b6d8bf`](https://github.com/ScratchAddons/website-v2-script/commit/9b6d8bf7f53a7eae96a5c2a72d98a50126961e5d) Fix untranslated HTML, front content not being deleted ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
+- [`679418d`](https://github.com/ScratchAddons/website-v2-script/commit/679418d89f6dae2040b1ca5d5ad485c264d32d68) Do a list of languages that have the index "translated" ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
+- [`fd30554`](https://github.com/ScratchAddons/website-v2-script/commit/fd30554884d3c3fbd84b8df66d920ff08b5e30de) Remove untranslated strings from HTML, front matter ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
 - [`73d07ab`](https://github.com/ScratchAddons/website-v2-script/commit/73d07ab8218fff7f7f74a799cff7311d0505d843) Remove mentions of unused language.json ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
 - [`a428f78`](https://github.com/ScratchAddons/website-v2-script/commit/a428f78335c7ef5fd58e48637ca36fdd540d372d) Fix script not using the static on the en folder ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
 - [`10c9f28`](https://github.com/ScratchAddons/website-v2-script/commit/10c9f2858083cb90dc466c5eb0e91e3f41a21c6a) Fix script to clear untranslated addons data ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
 - [`2045d33`](https://github.com/ScratchAddons/website-v2-script/commit/2045d33718fef8757969ab4c6a639b440fde7545) Remove untranslated strings for Hugo i18n strings ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
 - [`4e15226`](https://github.com/ScratchAddons/website-v2-script/commit/4e15226664afedc5d985f3e2996e43212aea0b2b) Download with considering Git timestamps and threshold ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
-- [`4847608`](https://github.com/Hans5958/mini-htmls/commit/4847608af6bbcc82d689e04318f3add95fb1e7b2) Multiple changes on TNKB Analyzer ([Hans5958/mini-htmls](https://github.com/Hans5958/mini-htmls), [master](https://github.com/Hans5958/mini-htmls/tree/master))
-- [`61bd464`](https://github.com/Hans5958/mini-htmls/commit/61bd464189ace081db93829d61e48e13a75d5392) Merge branch 'pmd-portrait-repo-stats' into master ([Hans5958/mini-htmls](https://github.com/Hans5958/mini-htmls), [master](https://github.com/Hans5958/mini-htmls/tree/master))
-- [`c6cd9d0`](https://github.com/Hans5958/mini-htmls/commit/c6cd9d060cfd4cfd8412cdfc10ccab6ab6e583f3) Final changes before release ([Hans5958/mini-htmls](https://github.com/Hans5958/mini-htmls), [master](https://github.com/Hans5958/mini-htmls/tree/master))
-- [`8e671f1`](https://github.com/Hans5958/mini-htmls/commit/8e671f157ed38d189275443667a3c482558d6e10) Initial version ([Hans5958/mini-htmls](https://github.com/Hans5958/mini-htmls), [master](https://github.com/Hans5958/mini-htmls/tree/master))
-- [`8c1c51a`](https://github.com/ScratchAddons/website-v2-script/commit/8c1c51a6fb92d197782de10ad9ff869356db813c) Forgot to async and await ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
 
 ### Last ten events
 
@@ -61,7 +61,7 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 
 </details>
 
-*Last updated: 22/06/2021, 05:16:45 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
+*Last updated: 22/06/2021, 06:18:42 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
 *Commit hash:* [`f98bf63`](https://github.com/Hans5958/Hans5958/commit/f98bf63f4edc1c178f5a0062f6c1eae9d465ac8a
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/workflow/status/Hans5958/Hans5958/Build?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
