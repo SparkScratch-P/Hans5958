@@ -4,7 +4,7 @@
 [![Website: hans5958.github.io]](https://hans5958.github.io) [![Blog: hans5958.github.io/blog]](https://hans5958.github.io/blog)  
 [![YouTube: Hans5958]](https://youtube.com/Hans5958) [![Twitter: hans5958]](https://twitter.com/Hans5958) ![Discord: Hans5958#0969] [![GitHub: hans5958]](https://github.com/Hans5958) [![GitLab: hans5958]](https://gitlab.com/Hans5958) [![dev.to: Hans5958]](https://dev.to/hans5958) [![Keybase: hans5958]](https://keybase.io/hans5958)  [![Email: go to GitHub]](https://github.com/hans5958)
 
-FYI: It is **14:xx** (**2pm**) in Jakarta. :sunny:  
+FYI: It is **15:xx** (**3pm**) in Jakarta. :sunny:  
 *I'm online, doing stuff, and is able to respond to inquiries.*
 </div>
 
@@ -35,16 +35,16 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 
 ### Last ten commits
 
+- [`bd663e9`](https://github.com/ScratchAddons/website-v2/commit/bd663e94519722086b7f3b7d5cac12e6cad922e3) Hide un-"translated" pages on index 2 ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
+- [`4d1206e`](https://github.com/ScratchAddons/website-v2-script/commit/4d1206e4dc091cbfe6e48ccb457cdec3aa0ee348) Apparently I didn't learn my lesson ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
+- [`1cb2263`](https://github.com/ScratchAddons/website-v2-script/commit/1cb22634a558db21c7172282404c369b22e16d53) Forgot to handle when there are no Hugo i18n strings ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
+- [`05f4d76`](https://github.com/ScratchAddons/website-v2/commit/05f4d76a8c082c2cdd75218d4d4aab1d5c10efa4) Hide un-"translated" pages on index ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
+- [`5a4d2ed`](https://github.com/ScratchAddons/website-v2-script/commit/5a4d2edd14535286f98f9ac98f895283d2ee64c3) Fix typo 3 ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
+- [`7e76693`](https://github.com/ScratchAddons/website-v2-script/commit/7e7669370fa57d67f4d3078629353ff3a26c3147) Fix typo 2 ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
 - [`aa0a43d`](https://github.com/ScratchAddons/website-v2-script/commit/aa0a43d9534813d58872d80ae574c2fb4d669c7c) Fix typo ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
 - [`f4ab48e`](https://github.com/ScratchAddons/website-i18n/commit/f4ab48e53c1fbfdc1a765190241d8dae2d14e038) Remove Chinese ([ScratchAddons/website-i18n](https://github.com/ScratchAddons/website-i18n), [master](https://github.com/ScratchAddons/website-i18n/tree/master))
 - [`2f29663`](https://github.com/ScratchAddons/website-v2-script/commit/2f296633ee748302a037d2ca491156387a9dd8e6) Fix cleaning source not working ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
 - [`5c6b490`](https://github.com/ScratchAddons/website-v2-script/commit/5c6b49003c3958a6d604032dd4c4809f8a418217) Fix another bug 2 ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
-- [`e4f47aa`](https://github.com/ScratchAddons/website-v2-script/commit/e4f47aa974dab8633fa46f19574ea1de9fccf70b) Fix another bug ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
-- [`ad5771c`](https://github.com/ScratchAddons/website-v2-script/commit/ad5771c3bb94f2c5e3d8f312360d95f9ffd9e962) Try again ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
-- [`433f6db`](https://github.com/ScratchAddons/website-v2-script/commit/433f6dbf57914b01ce28aa3a45cc42040f983baa) Forgot to handle where there are no HTML, front matter that have been translated ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
-- [`53a4e82`](https://github.com/ScratchAddons/website-v2-script/commit/53a4e8202b9080bd9bc7284248bc7073be970d02) Do not remove all untranslated YML files to save requests ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
-- [`9b6d8bf`](https://github.com/ScratchAddons/website-v2-script/commit/9b6d8bf7f53a7eae96a5c2a72d98a50126961e5d) Fix untranslated HTML, front content not being deleted ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
-- [`679418d`](https://github.com/ScratchAddons/website-v2-script/commit/679418d89f6dae2040b1ca5d5ad485c264d32d68) Do a list of languages that have the index "translated" ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
 
 ### Last ten events
 
@@ -54,14 +54,10 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 - Started [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52) (2021-06-20T07:26:32Z
 - Opened issue [#2892](https://github.com/JonathanGin52/JonathanGin52/issues/2892) on [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52) (2021-06-20T07:26:28Z)
 - Opened issue [#946](https://github.com/rossjrw/rossjrw/issues/946) on [rossjrw/rossjrw](https://github.com/rossjrw/rossjrw) (2021-06-20T07:25:43Z)
-- Started [rossjrw/rossjrw](https://github.com/rossjrw/rossjrw) (2021-06-20T07:25:27Z
-- Started [ninjamuffin99/Funkin](https://github.com/ninjamuffin99/Funkin) (2021-06-20T07:25:15Z
-- Started [KadeDev/Kade-Engine](https://github.com/KadeDev/Kade-Engine) (2021-06-20T07:24:17Z
-- Created comment on issue/PR [#1264](https://github.com/ninjamuffin99/Funkin/issues/1264) on [ninjamuffin99/Funkin](https://github.com/ninjamuffin99/Funkin) (2021-06-20T07:18:49Z)
 
 </details>
 
-*Last updated: 22/06/2021, 07:17:22 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
+*Last updated: 22/06/2021, 08:16:18 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
 *Commit hash:* [`f98bf63`](https://github.com/Hans5958/Hans5958/commit/f98bf63f4edc1c178f5a0062f6c1eae9d465ac8a
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/workflow/status/Hans5958/Hans5958/Build?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
