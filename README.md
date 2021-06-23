@@ -4,7 +4,7 @@
 [![Website: hans5958.github.io]](https://hans5958.github.io) [![Blog: hans5958.github.io/blog]](https://hans5958.github.io/blog)  
 [![YouTube: Hans5958]](https://youtube.com/Hans5958) [![Twitter: hans5958]](https://twitter.com/Hans5958) ![Discord: Hans5958#0969] [![GitHub: hans5958]](https://github.com/Hans5958) [![GitLab: hans5958]](https://gitlab.com/Hans5958) [![dev.to: Hans5958]](https://dev.to/hans5958) [![Keybase: hans5958]](https://keybase.io/hans5958)  [![Email: go to GitHub]](https://github.com/hans5958)
 
-FYI: It is **13:xx** (**1pm**) in Jakarta. :sunny:  
+FYI: It is **14:xx** (**2pm**) in Jakarta. :sunny:  
 *I'm online, doing stuff, and is able to respond to inquiries.*
 </div>
 
@@ -35,28 +35,29 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 
 ### Last ten commits
 
-- [`69e5176`](https://github.com/ScratchAddons/website-v2/commit/69e5176a2ff26b1f373737cbd5c3c4f5d30d05e9) Forgot to get target ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [changelog](https://github.com/ScratchAddons/website-v2/tree/changelog))
-- [`f221d45`](https://github.com/ScratchAddons/website-v2/commit/f221d45883346b43864d06d701cfbc0811a39de0) Merge commit of smart 404 changes ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [changelog](https://github.com/ScratchAddons/website-v2/tree/changelog))
-- [`45eedf7`](https://github.com/ScratchAddons/website-v2/commit/45eedf76aff1fe5c17cb36e798c09cf19a54d429) Fix smart 404 ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [changelog](https://github.com/ScratchAddons/website-v2/tree/changelog))
-- [`a17034a`](https://github.com/ScratchAddons/website-v2/commit/a17034abe451f4a6143da60d4527770e1379861b) Implement initial version of smart 404 ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [changelog](https://github.com/ScratchAddons/website-v2/tree/changelog))
-- [`64f5b16`](https://github.com/ScratchAddons/website-v2/commit/64f5b1670b01f86e33ec164fb8355c9013d74281) Fix broken links ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [changelog](https://github.com/ScratchAddons/website-v2/tree/changelog))
-- [`194593d`](https://github.com/ScratchAddons/website-v2/commit/194593d664df8168a86d8400f7eaf3e43c8bc213) Merge pull request #47 from thecrewmate876/docs-installing-page-update-1 ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [changelog](https://github.com/ScratchAddons/website-v2/tree/changelog))
-- [`560383e`](https://github.com/ScratchAddons/website-v2/commit/560383e85ab8bae519d5978888a558bc859ea587) Fix missing bracket ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [changelog](https://github.com/ScratchAddons/website-v2/tree/changelog))
-- [`948ae38`](https://github.com/ScratchAddons/website-v2/commit/948ae384135ff5b78eb53df23ac9e0b18e6e4c4e) Forgot to undo testing ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [changelog](https://github.com/ScratchAddons/website-v2/tree/changelog))
-- [`37075eb`](https://github.com/ScratchAddons/website-v2/commit/37075eb03dc45d6b527af325b4cf66afa732021d) Do not cache nav partial ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [changelog](https://github.com/ScratchAddons/website-v2/tree/changelog))
-- [`160ea95`](https://github.com/ScratchAddons/website-v2/commit/160ea95fb847d64a125bacf382989a5d3411251f) Add script for hiding elements from spiders ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [changelog](https://github.com/ScratchAddons/website-v2/tree/changelog))
+- [`a43b600`](https://github.com/ScratchAddons/website-v2/commit/a43b600c5b36e5483b68863b240fdd7a3f68ecb9) Merge pull request #68 from ScratchAddons/changelog ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
+- [`97e474f`](https://github.com/ScratchAddons/website-v2/commit/97e474f0f94dac979d1ad1284065d4b872bc29a0) Specify script to only work on YouTube modals ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
+- [`3fcbaf1`](https://github.com/ScratchAddons/website-v2/commit/3fcbaf130e3cebac6d9a8bc97ecd5d9349d0a70d) Fix wrong year ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
+- [`f496870`](https://github.com/ScratchAddons/website-v2/commit/f496870988683dfa8795a173ac66a5bfefd0a018) Add support for versionname without a v in the end ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
+- [`13302f3`](https://github.com/ScratchAddons/website-v2/commit/13302f3197625e52ada5445c7917260d11dbcfe3) A little swap ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
+- [`17f77eb`](https://github.com/ScratchAddons/website-v2/commit/17f77eb8644f4e5e77df7d3bdbb9d2b0358b1b07) Add forgotten support for additional links ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
+- [`800949b`](https://github.com/ScratchAddons/website-v2/commit/800949bd109fef7596aed745b40feb15b63b3f48) Anchor links ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
+- [`1a2fdbe`](https://github.com/ScratchAddons/website-v2/commit/1a2fdbebccaabb6014e5243a681583d28882101d) Update to v1.16.3, rework player modals, localized dates ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
+- [`2be0cd2`](https://github.com/ScratchAddons/website-v2/commit/2be0cd26286933a68eefde11b720c52e4bd794cd) Add i18n strings ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
+- [`1197f98`](https://github.com/ScratchAddons/website-v2/commit/1197f984c5166e150591ac7595dcb95507eb39a8) Merge branch 'master' into changelog ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 
 ### Last ten events
 
+- Deleted branch `changelog` on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-06-23T06:58:11Z)
+- Closed pull request [#68](https://github.com/ScratchAddons/website-v2/issues/68) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-06-23T06:58:09Z)
+- Closed issue [#53](https://github.com/ScratchAddons/website-v2/issues/53) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-06-23T06:58:09Z)
+- Created comment on issue/PR [#68](https://github.com/ScratchAddons/website-v2/issues/68) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-06-23T06:57:29Z)
+- Created comment on issue/PR [#68](https://github.com/ScratchAddons/website-v2/issues/68) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-06-23T06:31:30Z)
 - Opened pull request [#68](https://github.com/ScratchAddons/website-v2/issues/68) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-06-22T15:54:57Z)
-- Reopened issue [#2853](https://github.com/ScratchAddons/ScratchAddons/issues/2853) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-06-21T12:02:49Z)
-- Created comment on issue/PR [#2853](https://github.com/ScratchAddons/ScratchAddons/issues/2853) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-06-21T12:02:49Z)
-- Created comment on issue/PR [#57](https://github.com/ScratchAddons/website-v2/issues/57) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-06-20T13:07:30Z)
-- Started [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52) (2021-06-20T07:26:32Z
 
 </details>
 
-*Last updated: 23/06/2021, 06:17:22 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
+*Last updated: 23/06/2021, 07:12:16 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
 *Commit hash:* [`f98bf63`](https://github.com/Hans5958/Hans5958/commit/f98bf63f4edc1c178f5a0062f6c1eae9d465ac8a
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/workflow/status/Hans5958/Hans5958/Build?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
