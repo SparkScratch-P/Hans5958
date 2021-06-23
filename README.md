@@ -4,8 +4,8 @@
 [![Website: hans5958.github.io]](https://hans5958.github.io) [![Blog: hans5958.github.io/blog]](https://hans5958.github.io/blog)  
 [![YouTube: Hans5958]](https://youtube.com/Hans5958) [![Twitter: hans5958]](https://twitter.com/Hans5958) ![Discord: Hans5958#0969] [![GitHub: hans5958]](https://github.com/Hans5958) [![GitLab: hans5958]](https://gitlab.com/Hans5958) [![dev.to: Hans5958]](https://dev.to/hans5958) [![Keybase: hans5958]](https://keybase.io/hans5958)  [![Email: go to GitHub]](https://github.com/hans5958)
 
-FYI: It is **21:xx** (**9pm**) in Jakarta. :crescent_moon:  
-*I'm online, doing stuff, and is able to respond to inquiries.*
+FYI: It is **22:xx** (**10pm**) in Jakarta. :crescent_moon:  
+*I'm online, but only if I'm on a weekend, or there's nothing to do tommorow morning.*
 </div>
 
 <details><summary>Read about me:</summary>
@@ -35,16 +35,16 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 
 ### Last ten commits
 
+- [`abeff24`](https://github.com/ScratchAddons/website-v2-script/commit/abeff24643f01d3bada1690f47f610fb71bd79f6) Updaye yaml lib to 2.0.0-6 ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
+- [`cca1bd8`](https://github.com/ScratchAddons/website-v2-script/commit/cca1bd8b427e3043ea2f78f901a1d324d61feead) Add PROPER support for HTML and Markdown w/o front matter ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
+- [`6051da9`](https://github.com/ScratchAddons/website-v2-script/commit/6051da92e9901bd3c895f9830c62fb896ba3226f) Extend translatable pages ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
+- [`bfe5716`](https://github.com/ScratchAddons/website-v2-script/commit/bfe5716cafaa028bfb50ed32fc2d6210f48064c4) Fix to make exclude glob work, add support for HTML w/o front-matter ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
+- [`f06e858`](https://github.com/ScratchAddons/website-v2-script/commit/f06e858d8c535baa90da667b58fb84cabdb4d9f3) Disable line width limitation for YAML files ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
 - [`9f064f9`](https://github.com/ScratchAddons/website-v2/commit/9f064f918dc12553dbda90ba9089e8a5faa1ee08) Revise strings and add strings for changelog status ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 - [`e755cb4`](https://github.com/ScratchAddons/website-v2/commit/e755cb42fba96712d17e7af9d6681b8a8cc0fe6e) Specify script to only work on YouTube modals 2 ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 - [`a43b600`](https://github.com/ScratchAddons/website-v2/commit/a43b600c5b36e5483b68863b240fdd7a3f68ecb9) Merge pull request #68 from ScratchAddons/changelog ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 - [`97e474f`](https://github.com/ScratchAddons/website-v2/commit/97e474f0f94dac979d1ad1284065d4b872bc29a0) Specify script to only work on YouTube modals ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 - [`3fcbaf1`](https://github.com/ScratchAddons/website-v2/commit/3fcbaf130e3cebac6d9a8bc97ecd5d9349d0a70d) Fix wrong year ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
-- [`f496870`](https://github.com/ScratchAddons/website-v2/commit/f496870988683dfa8795a173ac66a5bfefd0a018) Add support for versionname without a v in the end ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
-- [`13302f3`](https://github.com/ScratchAddons/website-v2/commit/13302f3197625e52ada5445c7917260d11dbcfe3) A little swap ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
-- [`17f77eb`](https://github.com/ScratchAddons/website-v2/commit/17f77eb8644f4e5e77df7d3bdbb9d2b0358b1b07) Add forgotten support for additional links ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
-- [`800949b`](https://github.com/ScratchAddons/website-v2/commit/800949bd109fef7596aed745b40feb15b63b3f48) Anchor links ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
-- [`1a2fdbe`](https://github.com/ScratchAddons/website-v2/commit/1a2fdbebccaabb6014e5243a681583d28882101d) Update to v1.16.3, rework player modals, localized dates ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 
 ### Last ten events
 
@@ -61,7 +61,7 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 
 </details>
 
-*Last updated: 23/06/2021, 14:12:24 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
+*Last updated: 23/06/2021, 15:16:31 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
 *Commit hash:* [`f98bf63`](https://github.com/Hans5958/Hans5958/commit/f98bf63f4edc1c178f5a0062f6c1eae9d465ac8a
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/workflow/status/Hans5958/Hans5958/Build?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
