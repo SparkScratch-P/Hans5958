@@ -4,8 +4,8 @@
 [![Website: hans5958.github.io]](https://hans5958.github.io) [![Blog: hans5958.github.io/blog]](https://hans5958.github.io/blog)  
 [![YouTube: Hans5958]](https://youtube.com/Hans5958) [![Twitter: hans5958]](https://twitter.com/Hans5958) ![Discord: Hans5958#0969] [![GitHub: hans5958]](https://github.com/Hans5958) [![GitLab: hans5958]](https://gitlab.com/Hans5958) [![dev.to: Hans5958]](https://dev.to/hans5958) [![Keybase: hans5958]](https://keybase.io/hans5958)  [![Email: go to GitHub]](https://github.com/hans5958)
 
-FYI: It is **23:xx** (**11pm**) in Jakarta. :crescent_moon:  
-*I'm online, but only if I'm on a weekend, or there's nothing to do tommorow morning.*
+FYI: It is **00:xx** (**12am**) in Jakarta. :crescent_moon:  
+*There is a great chance that I'm offline, so I'm sorry that I can't respond to you currently.*
 </div>
 
 <details><summary>Read about me:</summary>
@@ -35,6 +35,7 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 
 ### Last ten commits
 
+- [`6bef5db`](https://github.com/ScratchAddons/website-i18n/commit/6bef5db8a312ae0bf7d1cbf9add7385002164200) Remove contributors ([ScratchAddons/website-i18n](https://github.com/ScratchAddons/website-i18n), [master](https://github.com/ScratchAddons/website-i18n/tree/master))
 - [`b051007`](https://github.com/ScratchAddons/website-v2-script/commit/b051007ad2ac09a00da7c6398b024d4810fdf0ba) Fix typo ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
 - [`abeff24`](https://github.com/ScratchAddons/website-v2-script/commit/abeff24643f01d3bada1690f47f610fb71bd79f6) Updaye yaml lib to 2.0.0-6 ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
 - [`cca1bd8`](https://github.com/ScratchAddons/website-v2-script/commit/cca1bd8b427e3043ea2f78f901a1d324d61feead) Add PROPER support for HTML and Markdown w/o front matter ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
@@ -44,24 +45,23 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 - [`9f064f9`](https://github.com/ScratchAddons/website-v2/commit/9f064f918dc12553dbda90ba9089e8a5faa1ee08) Revise strings and add strings for changelog status ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 - [`e755cb4`](https://github.com/ScratchAddons/website-v2/commit/e755cb42fba96712d17e7af9d6681b8a8cc0fe6e) Specify script to only work on YouTube modals 2 ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 - [`a43b600`](https://github.com/ScratchAddons/website-v2/commit/a43b600c5b36e5483b68863b240fdd7a3f68ecb9) Merge pull request #68 from ScratchAddons/changelog ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
-- [`97e474f`](https://github.com/ScratchAddons/website-v2/commit/97e474f0f94dac979d1ad1284065d4b872bc29a0) Specify script to only work on YouTube modals ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 
 ### Last ten events
 
+- Created comment on a review on PR [#2799](https://github.com/ScratchAddons/ScratchAddons/issues/2799) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-06-23T16:48:18Z)
+- Created review on PR [#2799](https://github.com/ScratchAddons/ScratchAddons/issues/2799) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-06-23T16:48:18Z)
+- Created comment on a review on PR [#2799](https://github.com/ScratchAddons/ScratchAddons/issues/2799) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-06-23T16:45:59Z)
+- Created review on PR [#2799](https://github.com/ScratchAddons/ScratchAddons/issues/2799) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-06-23T16:46:00Z)
+- Created comment on a review on PR [#2799](https://github.com/ScratchAddons/ScratchAddons/issues/2799) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-06-23T16:43:49Z)
+- Created review on PR [#2799](https://github.com/ScratchAddons/ScratchAddons/issues/2799) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-06-23T16:43:50Z)
+- Created comment on issue/PR [#2764](https://github.com/ScratchAddons/ScratchAddons/issues/2764) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-06-23T16:39:36Z)
 - Deleted branch `imgbot` on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-06-23T12:18:35Z)
 - Closed pull request [#69](https://github.com/ScratchAddons/website-v2/issues/69) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-06-23T12:18:33Z)
 - Created review on PR [#69](https://github.com/ScratchAddons/website-v2/issues/69) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-06-23T12:17:45Z)
-- Updated wiki on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-06-23T07:33:23Z)
-- Updated wiki on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-06-23T07:17:37Z)
-- Updated wiki on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-06-23T07:17:09Z)
-- Deleted branch `changelog` on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-06-23T06:58:11Z)
-- Closed pull request [#68](https://github.com/ScratchAddons/website-v2/issues/68) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-06-23T06:58:09Z)
-- Closed issue [#53](https://github.com/ScratchAddons/website-v2/issues/53) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-06-23T06:58:09Z)
-- Created comment on issue/PR [#68](https://github.com/ScratchAddons/website-v2/issues/68) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-06-23T06:57:29Z)
 
 </details>
 
-*Last updated: 23/06/2021, 16:19:30 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
+*Last updated: 23/06/2021, 17:18:14 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
 *Commit hash:* [`f98bf63`](https://github.com/Hans5958/Hans5958/commit/f98bf63f4edc1c178f5a0062f6c1eae9d465ac8a
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/workflow/status/Hans5958/Hans5958/Build?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
