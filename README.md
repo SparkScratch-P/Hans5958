@@ -4,7 +4,7 @@
 [![Website: hans5958.github.io]](https://hans5958.github.io) [![Blog: hans5958.github.io/blog]](https://hans5958.github.io/blog)  
 [![YouTube: Hans5958]](https://youtube.com/Hans5958) [![Twitter: hans5958]](https://twitter.com/Hans5958) ![Discord: Hans5958#0969] [![GitHub: hans5958]](https://github.com/Hans5958) [![GitLab: hans5958]](https://gitlab.com/Hans5958) [![dev.to: Hans5958]](https://dev.to/hans5958) [![Keybase: hans5958]](https://keybase.io/hans5958)  [![Email: go to GitHub]](https://github.com/hans5958)
 
-FYI: It is **14:xx** (**2pm**) in Jakarta. :sunny:  
+FYI: It is **15:xx** (**3pm**) in Jakarta. :sunny:  
 *I'm online, doing stuff, and is able to respond to inquiries.*
 </div>
 
@@ -35,6 +35,8 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 
 ### Last ten commits
 
+- [`c2bbf34`](https://github.com/ScratchAddons/website-v2/commit/c2bbf34d2c7879deb630df9306d237076df276e4) Put the anchor picrow inside the shortcode ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
+- [`c7b77bf`](https://github.com/ScratchAddons/website-v2-script/commit/c7b77bfd7c585b6126f6c5af56487bc5197d0340) Revamp to fallback using API 3 if client fails, fix bugs ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
 - [`0b6bb05`](https://github.com/ScratchAddons/website-v2-script/commit/0b6bb050980ff1c96bd6bb9c19ac079e11f61881) Bugfix 19 ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
 - [`6edaf88`](https://github.com/ScratchAddons/website-v2-script/commit/6edaf88d7b13dfc01714199e26cc3c1483665be1) Bugfix 18 ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
 - [`b86b52e`](https://github.com/ScratchAddons/website-v2-script/commit/b86b52eab8c94a9393845ae14bc68e4a163267f1) Bugfix 17 ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
@@ -43,21 +45,17 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 - [`1c699bc`](https://github.com/ScratchAddons/website-v2-script/commit/1c699bc20afe6e45162e385832cf8baf900c84b4) Bugfix 14 ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
 - [`156ecb1`](https://github.com/ScratchAddons/website-v2-script/commit/156ecb19f2f50e178b3247513f07850e80927c6d) Bugfix 13 ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
 - [`0e385c1`](https://github.com/ScratchAddons/website-v2-script/commit/0e385c1df563e488607825fe0bb17d0ca46c62f5) Bugfix 12 ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
-- [`8c62b65`](https://github.com/ScratchAddons/website-v2-script/commit/8c62b6566c558b49fe88e64337da26231d944b17) Bugfix 11 ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
-- [`cd1b6a2`](https://github.com/ScratchAddons/website-v2-script/commit/cd1b6a213b5c27a1bd0e123cb820102cc07a686b) Bugfix 10 ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
 
 ### Last ten events
 
+- Created comment on issue/PR [#2799](https://github.com/ScratchAddons/ScratchAddons/issues/2799) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-06-24T08:16:34Z)
 - Created comment on a review on PR [#2799](https://github.com/ScratchAddons/ScratchAddons/issues/2799) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-06-23T16:48:18Z)
 - Created review on PR [#2799](https://github.com/ScratchAddons/ScratchAddons/issues/2799) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-06-23T16:48:18Z)
 - Created comment on a review on PR [#2799](https://github.com/ScratchAddons/ScratchAddons/issues/2799) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-06-23T16:45:59Z)
-- Created review on PR [#2799](https://github.com/ScratchAddons/ScratchAddons/issues/2799) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-06-23T16:46:00Z)
-- Created comment on a review on PR [#2799](https://github.com/ScratchAddons/ScratchAddons/issues/2799) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-06-23T16:43:49Z)
-- Created review on PR [#2799](https://github.com/ScratchAddons/ScratchAddons/issues/2799) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-06-23T16:43:50Z)
 
 </details>
 
-*Last updated: 24/06/2021, 07:13:25 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
+*Last updated: 24/06/2021, 08:21:21 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
 *Commit hash:* [`f98bf63`](https://github.com/Hans5958/Hans5958/commit/f98bf63f4edc1c178f5a0062f6c1eae9d465ac8a
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/workflow/status/Hans5958/Hans5958/Build?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
