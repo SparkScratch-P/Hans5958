@@ -4,7 +4,7 @@
 [![Website: hans5958.github.io]](https://hans5958.github.io) [![Blog: hans5958.github.io/blog]](https://hans5958.github.io/blog)  
 [![YouTube: Hans5958]](https://youtube.com/Hans5958) [![Twitter: hans5958]](https://twitter.com/Hans5958) ![Discord: Hans5958#0969] [![GitHub: hans5958]](https://github.com/Hans5958) [![GitLab: hans5958]](https://gitlab.com/Hans5958) [![dev.to: Hans5958]](https://dev.to/hans5958) [![Keybase: hans5958]](https://keybase.io/hans5958)  [![Email: go to GitHub]](https://github.com/hans5958)
 
-FYI: It is **09:xx** (**9am**) in Jakarta. :sunny:  
+FYI: It is **10:xx** (**10am**) in Jakarta. :sunny:  
 *I'm online, doing stuff, and is able to respond to inquiries.*
 </div>
 
@@ -35,6 +35,7 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 
 ### Last ten commits
 
+- [`04a9443`](https://github.com/ScratchAddons/website-v2-script/commit/04a94430f92f19ea7aa614c7c389f8f563fa82ae) Attempt a bugfix ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
 - [`6bef5db`](https://github.com/ScratchAddons/website-i18n/commit/6bef5db8a312ae0bf7d1cbf9add7385002164200) Remove contributors ([ScratchAddons/website-i18n](https://github.com/ScratchAddons/website-i18n), [master](https://github.com/ScratchAddons/website-i18n/tree/master))
 - [`b051007`](https://github.com/ScratchAddons/website-v2-script/commit/b051007ad2ac09a00da7c6398b024d4810fdf0ba) Fix typo ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
 - [`abeff24`](https://github.com/ScratchAddons/website-v2-script/commit/abeff24643f01d3bada1690f47f610fb71bd79f6) Updaye yaml lib to 2.0.0-6 ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
@@ -44,7 +45,6 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 - [`f06e858`](https://github.com/ScratchAddons/website-v2-script/commit/f06e858d8c535baa90da667b58fb84cabdb4d9f3) Disable line width limitation for YAML files ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
 - [`9f064f9`](https://github.com/ScratchAddons/website-v2/commit/9f064f918dc12553dbda90ba9089e8a5faa1ee08) Revise strings and add strings for changelog status ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 - [`e755cb4`](https://github.com/ScratchAddons/website-v2/commit/e755cb42fba96712d17e7af9d6681b8a8cc0fe6e) Specify script to only work on YouTube modals 2 ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
-- [`a43b600`](https://github.com/ScratchAddons/website-v2/commit/a43b600c5b36e5483b68863b240fdd7a3f68ecb9) Merge pull request #68 from ScratchAddons/changelog ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 
 ### Last ten events
 
@@ -61,7 +61,7 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 
 </details>
 
-*Last updated: 24/06/2021, 02:24:37 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
+*Last updated: 24/06/2021, 03:17:21 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
 *Commit hash:* [`f98bf63`](https://github.com/Hans5958/Hans5958/commit/f98bf63f4edc1c178f5a0062f6c1eae9d465ac8a
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/workflow/status/Hans5958/Hans5958/Build?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
