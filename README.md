@@ -4,7 +4,7 @@
 [![Website: hans5958.github.io]](https://hans5958.github.io) [![Blog: hans5958.github.io/blog]](https://hans5958.github.io/blog)  
 [![YouTube: Hans5958]](https://youtube.com/Hans5958) [![Twitter: hans5958]](https://twitter.com/Hans5958) ![Discord: Hans5958#0969] [![GitHub: hans5958]](https://github.com/Hans5958) [![GitLab: hans5958]](https://gitlab.com/Hans5958) [![dev.to: Hans5958]](https://dev.to/hans5958) [![Keybase: hans5958]](https://keybase.io/hans5958)  [![Email: go to GitHub]](https://github.com/hans5958)
 
-FYI: It is **22:xx** (**10pm**) in Jakarta. :crescent_moon:  
+FYI: It is **23:xx** (**11pm**) in Jakarta. :crescent_moon:  
 *I'm online, but only if I'm on a weekend, or there's nothing to do tommorow morning.*
 </div>
 
@@ -35,6 +35,8 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 
 ### Last ten commits
 
+- [`4a322ec`](https://github.com/ScratchAddons/website-v2-script/commit/4a322ecffe61518a717f1e0bc19a2460678f8ddd) Remove test code ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
+- [`1fb0b31`](https://github.com/ScratchAddons/website-v2-script/commit/1fb0b31c198837d1791ce506beb85de753be10d9) Do exports for better recursive obj funcs, add delay on requests ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
 - [`c2bbf34`](https://github.com/ScratchAddons/website-v2/commit/c2bbf34d2c7879deb630df9306d237076df276e4) Put the anchor picrow inside the shortcode ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 - [`c7b77bf`](https://github.com/ScratchAddons/website-v2-script/commit/c7b77bfd7c585b6126f6c5af56487bc5197d0340) Revamp to fallback using API 3 if client fails, fix bugs ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
 - [`0b6bb05`](https://github.com/ScratchAddons/website-v2-script/commit/0b6bb050980ff1c96bd6bb9c19ac079e11f61881) Bugfix 19 ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
@@ -43,8 +45,6 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 - [`36e0c74`](https://github.com/ScratchAddons/website-v2-script/commit/36e0c7475f4f895ff4937d41a4d20ca655bdbb20) Bugfix 16 ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
 - [`8c63558`](https://github.com/ScratchAddons/website-v2-script/commit/8c6355861fc6fdf9a56a482275389ec679e71bb4) Bugfix 15 ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
 - [`1c699bc`](https://github.com/ScratchAddons/website-v2-script/commit/1c699bc20afe6e45162e385832cf8baf900c84b4) Bugfix 14 ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
-- [`156ecb1`](https://github.com/ScratchAddons/website-v2-script/commit/156ecb19f2f50e178b3247513f07850e80927c6d) Bugfix 13 ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
-- [`0e385c1`](https://github.com/ScratchAddons/website-v2-script/commit/0e385c1df563e488607825fe0bb17d0ca46c62f5) Bugfix 12 ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
 
 ### Last ten events
 
@@ -61,7 +61,7 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 
 </details>
 
-*Last updated: 25/06/2021, 15:17:21 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
+*Last updated: 25/06/2021, 16:22:57 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
 *Commit hash:* [`f98bf63`](https://github.com/Hans5958/Hans5958/commit/f98bf63f4edc1c178f5a0062f6c1eae9d465ac8a
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/workflow/status/Hans5958/Hans5958/Build?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
