@@ -4,7 +4,7 @@
 [![Website: hans5958.github.io]](https://hans5958.github.io) [![Blog: hans5958.github.io/blog]](https://hans5958.github.io/blog)  
 [![YouTube: Hans5958]](https://youtube.com/Hans5958) [![Twitter: hans5958]](https://twitter.com/Hans5958) ![Discord: Hans5958#0969] [![GitHub: hans5958]](https://github.com/Hans5958) [![GitLab: hans5958]](https://gitlab.com/Hans5958) [![dev.to: Hans5958]](https://dev.to/hans5958) [![Keybase: hans5958]](https://keybase.io/hans5958)  [![Email: go to GitHub]](https://github.com/hans5958)
 
-FYI: It is **16:xx** (**4pm**) in Jakarta. :sunny:  
+FYI: It is **17:xx** (**5pm**) in Jakarta. :sunny:  
 *I'm online, doing stuff, and is able to respond to inquiries.*
 </div>
 
@@ -35,6 +35,8 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 
 ### Last ten commits
 
+- [`b86ec64`](https://github.com/Hans5958/ScratchAddons/commit/b86ec64bd6a82ccf305bd0aab36cd230d79646af) Format code ([Hans5958/ScratchAddons](https://github.com/Hans5958/ScratchAddons), [infinite-scrolling/improvements](https://github.com/Hans5958/ScratchAddons/tree/infinite-scrolling/improvements))
+- [`863c548`](https://github.com/Hans5958/ScratchAddons/commit/863c548b8677052b554bc577be51bd7211cbe561) Add credits ([Hans5958/ScratchAddons](https://github.com/Hans5958/ScratchAddons), [infinite-scrolling/improvements](https://github.com/Hans5958/ScratchAddons/tree/infinite-scrolling/improvements))
 - [`d4f49f3`](https://github.com/ScratchAddons/website-v2/commit/d4f49f3fdd075cc463ad1d185d734290772bfc88) Make changes on README badges ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 - [`4a322ec`](https://github.com/ScratchAddons/website-v2-script/commit/4a322ecffe61518a717f1e0bc19a2460678f8ddd) Remove test code ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
 - [`1fb0b31`](https://github.com/ScratchAddons/website-v2-script/commit/1fb0b31c198837d1791ce506beb85de753be10d9) Do exports for better recursive obj funcs, add delay on requests ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
@@ -43,11 +45,11 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 - [`0b6bb05`](https://github.com/ScratchAddons/website-v2-script/commit/0b6bb050980ff1c96bd6bb9c19ac079e11f61881) Bugfix 19 ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
 - [`6edaf88`](https://github.com/ScratchAddons/website-v2-script/commit/6edaf88d7b13dfc01714199e26cc3c1483665be1) Bugfix 18 ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
 - [`b86b52e`](https://github.com/ScratchAddons/website-v2-script/commit/b86b52eab8c94a9393845ae14bc68e4a163267f1) Bugfix 17 ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
-- [`36e0c74`](https://github.com/ScratchAddons/website-v2-script/commit/36e0c7475f4f895ff4937d41a4d20ca655bdbb20) Bugfix 16 ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
-- [`8c63558`](https://github.com/ScratchAddons/website-v2-script/commit/8c6355861fc6fdf9a56a482275389ec679e71bb4) Bugfix 15 ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
 
 ### Last ten events
 
+- Opened pull request [#2879](https://github.com/ScratchAddons/ScratchAddons/issues/2879) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-06-29T09:53:07Z)
+- Created branch `infinite-scrolling/improvements` on [Hans5958/ScratchAddons](https://github.com/Hans5958/ScratchAddons) (2021-06-29T09:41:04Z)
 - Started [yeun/open-color](https://github.com/yeun/open-color) (2021-06-26T12:21:54Z
 - Created comment on issue/PR [#2764](https://github.com/ScratchAddons/ScratchAddons/issues/2764) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-06-25T13:39:38Z)
 - Created comment on issue/PR [#1106](https://github.com/ninjamuffin99/Funkin/issues/1106) on [ninjamuffin99/Funkin](https://github.com/ninjamuffin99/Funkin) (2021-06-25T13:08:50Z)
@@ -56,12 +58,10 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 - Created comment on issue/PR [#2764](https://github.com/ScratchAddons/ScratchAddons/issues/2764) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-06-24T13:05:37Z)
 - Created review on PR [#2799](https://github.com/ScratchAddons/ScratchAddons/issues/2799) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-06-24T12:58:45Z)
 - Created comment on a review on PR [#2799](https://github.com/ScratchAddons/ScratchAddons/issues/2799) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-06-24T12:57:29Z)
-- Created comment on a review on PR [#2799](https://github.com/ScratchAddons/ScratchAddons/issues/2799) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-06-24T12:57:12Z)
-- Created comment on a review on PR [#2799](https://github.com/ScratchAddons/ScratchAddons/issues/2799) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-06-24T12:58:09Z)
 
 </details>
 
-*Last updated: 29/06/2021, 09:20:21 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
+*Last updated: 29/06/2021, 10:20:44 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
 *Commit hash:* [`f98bf63`](https://github.com/Hans5958/Hans5958/commit/f98bf63f4edc1c178f5a0062f6c1eae9d465ac8a
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/workflow/status/Hans5958/Hans5958/Build?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
