@@ -4,8 +4,8 @@
 [![Website: hans5958.github.io]](https://hans5958.github.io) [![Blog: hans5958.github.io/blog]](https://hans5958.github.io/blog)  
 [![YouTube: Hans5958]](https://youtube.com/Hans5958) [![Twitter: hans5958]](https://twitter.com/Hans5958) ![Discord: Hans5958#0969] [![GitHub: hans5958]](https://github.com/Hans5958) [![GitLab: hans5958]](https://gitlab.com/Hans5958) [![dev.to: Hans5958]](https://dev.to/hans5958) [![Keybase: hans5958]](https://keybase.io/hans5958)  [![Email: go to GitHub]](https://github.com/hans5958)
 
-FYI: It is **23:xx** (**11pm**) in Jakarta. :crescent_moon:  
-*I'm online, but only if I'm on a weekend, or there's nothing to do tommorow morning.*
+FYI: It is **00:xx** (**12am**) in Jakarta. :crescent_moon:  
+*There is a great chance that I'm offline, so I'm sorry that I can't respond to you currently.*
 </div>
 
 <details><summary>Read about me:</summary>
@@ -35,6 +35,7 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 
 ### Last ten commits
 
+- [`f97cf94`](https://github.com/ScratchAddons/website-v2/commit/f97cf947175f2ff8e4fc0a4fc3b9244d9932567b) Minor changes ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [credits-page](https://github.com/ScratchAddons/website-v2/tree/credits-page))
 - [`005945a`](https://github.com/ScratchAddons/website-v2/commit/005945a04f337abc750749ae5a4c1b081f0d6870) Make "Section Pages" translatable, fix TOC button not appearing ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 - [`0fc2412`](https://github.com/Hans5958/ScratchAddons/commit/0fc2412cf91d21115f1e1db2c503d160832d3e36) Trigger Prettier on Actions ([Hans5958/ScratchAddons](https://github.com/Hans5958/ScratchAddons), [infinite-scrolling/improvements](https://github.com/Hans5958/ScratchAddons/tree/infinite-scrolling/improvements))
 - [`b86ec64`](https://github.com/Hans5958/ScratchAddons/commit/b86ec64bd6a82ccf305bd0aab36cd230d79646af) Format code ([Hans5958/ScratchAddons](https://github.com/Hans5958/ScratchAddons), [infinite-scrolling/improvements](https://github.com/Hans5958/ScratchAddons/tree/infinite-scrolling/improvements))
@@ -43,7 +44,6 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 - [`4a322ec`](https://github.com/ScratchAddons/website-v2-script/commit/4a322ecffe61518a717f1e0bc19a2460678f8ddd) Remove test code ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
 - [`1fb0b31`](https://github.com/ScratchAddons/website-v2-script/commit/1fb0b31c198837d1791ce506beb85de753be10d9) Do exports for better recursive obj funcs, add delay on requests ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
 - [`c2bbf34`](https://github.com/ScratchAddons/website-v2/commit/c2bbf34d2c7879deb630df9306d237076df276e4) Put the anchor picrow inside the shortcode ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
-- [`c7b77bf`](https://github.com/ScratchAddons/website-v2-script/commit/c7b77bfd7c585b6126f6c5af56487bc5197d0340) Revamp to fallback using API 3 if client fails, fix bugs ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
 
 ### Last ten events
 
@@ -60,7 +60,7 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 
 </details>
 
-*Last updated: 30/06/2021, 16:22:52 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
+*Last updated: 30/06/2021, 17:23:55 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
 *Commit hash:* [`f98bf63`](https://github.com/Hans5958/Hans5958/commit/f98bf63f4edc1c178f5a0062f6c1eae9d465ac8a
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/workflow/status/Hans5958/Hans5958/Build?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
