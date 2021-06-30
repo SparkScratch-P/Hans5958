@@ -4,8 +4,8 @@
 [![Website: hans5958.github.io]](https://hans5958.github.io) [![Blog: hans5958.github.io/blog]](https://hans5958.github.io/blog)  
 [![YouTube: Hans5958]](https://youtube.com/Hans5958) [![Twitter: hans5958]](https://twitter.com/Hans5958) ![Discord: Hans5958#0969] [![GitHub: hans5958]](https://github.com/Hans5958) [![GitLab: hans5958]](https://gitlab.com/Hans5958) [![dev.to: Hans5958]](https://dev.to/hans5958) [![Keybase: hans5958]](https://keybase.io/hans5958)  [![Email: go to GitHub]](https://github.com/hans5958)
 
-FYI: It is **21:xx** (**9pm**) in Jakarta. :crescent_moon:  
-*I'm online, doing stuff, and is able to respond to inquiries.*
+FYI: It is **22:xx** (**10pm**) in Jakarta. :crescent_moon:  
+*I'm online, but only if I'm on a weekend, or there's nothing to do tommorow morning.*
 </div>
 
 <details><summary>Read about me:</summary>
@@ -35,6 +35,7 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 
 ### Last ten commits
 
+- [`005945a`](https://github.com/ScratchAddons/website-v2/commit/005945a04f337abc750749ae5a4c1b081f0d6870) Make "Section Pages" translatable, fix TOC button not appearing ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 - [`0fc2412`](https://github.com/Hans5958/ScratchAddons/commit/0fc2412cf91d21115f1e1db2c503d160832d3e36) Trigger Prettier on Actions ([Hans5958/ScratchAddons](https://github.com/Hans5958/ScratchAddons), [infinite-scrolling/improvements](https://github.com/Hans5958/ScratchAddons/tree/infinite-scrolling/improvements))
 - [`b86ec64`](https://github.com/Hans5958/ScratchAddons/commit/b86ec64bd6a82ccf305bd0aab36cd230d79646af) Format code ([Hans5958/ScratchAddons](https://github.com/Hans5958/ScratchAddons), [infinite-scrolling/improvements](https://github.com/Hans5958/ScratchAddons/tree/infinite-scrolling/improvements))
 - [`863c548`](https://github.com/Hans5958/ScratchAddons/commit/863c548b8677052b554bc577be51bd7211cbe561) Add credits ([Hans5958/ScratchAddons](https://github.com/Hans5958/ScratchAddons), [infinite-scrolling/improvements](https://github.com/Hans5958/ScratchAddons/tree/infinite-scrolling/improvements))
@@ -43,25 +44,23 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 - [`1fb0b31`](https://github.com/ScratchAddons/website-v2-script/commit/1fb0b31c198837d1791ce506beb85de753be10d9) Do exports for better recursive obj funcs, add delay on requests ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
 - [`c2bbf34`](https://github.com/ScratchAddons/website-v2/commit/c2bbf34d2c7879deb630df9306d237076df276e4) Put the anchor picrow inside the shortcode ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 - [`c7b77bf`](https://github.com/ScratchAddons/website-v2-script/commit/c7b77bfd7c585b6126f6c5af56487bc5197d0340) Revamp to fallback using API 3 if client fails, fix bugs ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
-- [`0b6bb05`](https://github.com/ScratchAddons/website-v2-script/commit/0b6bb050980ff1c96bd6bb9c19ac079e11f61881) Bugfix 19 ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
-- [`6edaf88`](https://github.com/ScratchAddons/website-v2-script/commit/6edaf88d7b13dfc01714199e26cc3c1483665be1) Bugfix 18 ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
 
 ### Last ten events
 
+- Opened issue [#73](https://github.com/ScratchAddons/website-v2/issues/73) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-06-30T15:04:38Z)
+- Closed pull request [#9](https://github.com/ScratchAddons/website-v2/issues/9) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-06-30T15:01:51Z)
+- Created comment on issue/PR [#70](https://github.com/ScratchAddons/website-v2/issues/70) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-06-30T15:01:14Z)
+- Created comment on issue/PR [#72](https://github.com/ScratchAddons/website-v2/issues/72) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-06-30T14:59:17Z)
+- Closed issue [#72](https://github.com/ScratchAddons/website-v2/issues/72) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-06-30T14:59:17Z)
+- Created comment on issue/PR [#71](https://github.com/ScratchAddons/website-v2/issues/71) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-06-30T14:49:36Z)
+- Deleted branch `create-pull-request/changelog` on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-06-30T14:39:01Z)
 - Opened pull request [#2879](https://github.com/ScratchAddons/ScratchAddons/issues/2879) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-06-29T09:53:07Z)
 - Created branch `infinite-scrolling/improvements` on [Hans5958/ScratchAddons](https://github.com/Hans5958/ScratchAddons) (2021-06-29T09:41:04Z)
 - Started [yeun/open-color](https://github.com/yeun/open-color) (2021-06-26T12:21:54Z
-- Created comment on issue/PR [#2764](https://github.com/ScratchAddons/ScratchAddons/issues/2764) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-06-25T13:39:38Z)
-- Created comment on issue/PR [#1106](https://github.com/ninjamuffin99/Funkin/issues/1106) on [ninjamuffin99/Funkin](https://github.com/ninjamuffin99/Funkin) (2021-06-25T13:08:50Z)
-- Created comment on a review on PR [#2799](https://github.com/ScratchAddons/ScratchAddons/issues/2799) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-06-24T13:08:33Z)
-- Created review on PR [#2799](https://github.com/ScratchAddons/ScratchAddons/issues/2799) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-06-24T13:08:33Z)
-- Created comment on issue/PR [#2764](https://github.com/ScratchAddons/ScratchAddons/issues/2764) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-06-24T13:05:37Z)
-- Created review on PR [#2799](https://github.com/ScratchAddons/ScratchAddons/issues/2799) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-06-24T12:58:45Z)
-- Created comment on a review on PR [#2799](https://github.com/ScratchAddons/ScratchAddons/issues/2799) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-06-24T12:57:29Z)
 
 </details>
 
-*Last updated: 30/06/2021, 14:14:00 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
+*Last updated: 30/06/2021, 15:17:20 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
 *Commit hash:* [`f98bf63`](https://github.com/Hans5958/Hans5958/commit/f98bf63f4edc1c178f5a0062f6c1eae9d465ac8a
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/workflow/status/Hans5958/Hans5958/Build?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
