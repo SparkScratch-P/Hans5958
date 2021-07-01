@@ -4,7 +4,7 @@
 [![Website: hans5958.github.io]](https://hans5958.github.io) [![Blog: hans5958.github.io/blog]](https://hans5958.github.io/blog)  
 [![YouTube: Hans5958]](https://youtube.com/Hans5958) [![Twitter: hans5958]](https://twitter.com/Hans5958) ![Discord: Hans5958#0969] [![GitHub: hans5958]](https://github.com/Hans5958) [![GitLab: hans5958]](https://gitlab.com/Hans5958) [![dev.to: Hans5958]](https://dev.to/hans5958) [![Keybase: hans5958]](https://keybase.io/hans5958)  [![Email: go to GitHub]](https://github.com/hans5958)
 
-FYI: It is **13:xx** (**1pm**) in Jakarta. :sunny:  
+FYI: It is **14:xx** (**2pm**) in Jakarta. :sunny:  
 *I'm online, doing stuff, and is able to respond to inquiries.*
 </div>
 
@@ -43,10 +43,12 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 - [`d4f49f3`](https://github.com/ScratchAddons/website-v2/commit/d4f49f3fdd075cc463ad1d185d734290772bfc88) Make changes on README badges ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 - [`4a322ec`](https://github.com/ScratchAddons/website-v2-script/commit/4a322ecffe61518a717f1e0bc19a2460678f8ddd) Remove test code ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
 - [`1fb0b31`](https://github.com/ScratchAddons/website-v2-script/commit/1fb0b31c198837d1791ce506beb85de753be10d9) Do exports for better recursive obj funcs, add delay on requests ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
-- [`c2bbf34`](https://github.com/ScratchAddons/website-v2/commit/c2bbf34d2c7879deb630df9306d237076df276e4) Put the anchor picrow inside the shortcode ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 
 ### Last ten events
 
+- CommitCommentEvent on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-07-01T07:02:03Z)
+- Created comment on issue/PR [#74](https://github.com/ScratchAddons/website-v2/issues/74) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-07-01T06:59:58Z)
+- Created comment on issue/PR [#74](https://github.com/ScratchAddons/website-v2/issues/74) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-07-01T06:59:06Z)
 - Opened issue [#73](https://github.com/ScratchAddons/website-v2/issues/73) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-06-30T15:04:38Z)
 - Closed pull request [#9](https://github.com/ScratchAddons/website-v2/issues/9) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-06-30T15:01:51Z)
 - Created comment on issue/PR [#70](https://github.com/ScratchAddons/website-v2/issues/70) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-06-30T15:01:14Z)
@@ -54,13 +56,10 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 - Closed issue [#72](https://github.com/ScratchAddons/website-v2/issues/72) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-06-30T14:59:17Z)
 - Created comment on issue/PR [#71](https://github.com/ScratchAddons/website-v2/issues/71) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-06-30T14:49:36Z)
 - Deleted branch `create-pull-request/changelog` on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-06-30T14:39:01Z)
-- Opened pull request [#2879](https://github.com/ScratchAddons/ScratchAddons/issues/2879) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-06-29T09:53:07Z)
-- Created branch `infinite-scrolling/improvements` on [Hans5958/ScratchAddons](https://github.com/Hans5958/ScratchAddons) (2021-06-29T09:41:04Z)
-- Started [yeun/open-color](https://github.com/yeun/open-color) (2021-06-26T12:21:54Z
 
 </details>
 
-*Last updated: 01/07/2021, 06:19:21 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
+*Last updated: 01/07/2021, 07:13:59 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
 *Commit hash:* [`f98bf63`](https://github.com/Hans5958/Hans5958/commit/f98bf63f4edc1c178f5a0062f6c1eae9d465ac8a
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/workflow/status/Hans5958/Hans5958/Build?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
