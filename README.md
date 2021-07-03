@@ -4,7 +4,7 @@
 [![Website: hans5958.github.io]](https://hans5958.github.io) [![Blog: hans5958.github.io/blog]](https://hans5958.github.io/blog)  
 [![YouTube: Hans5958]](https://youtube.com/Hans5958) [![Twitter: hans5958]](https://twitter.com/Hans5958) ![Discord: Hans5958#0969] [![GitHub: hans5958]](https://github.com/Hans5958) [![GitLab: hans5958]](https://gitlab.com/Hans5958) [![dev.to: Hans5958]](https://dev.to/hans5958) [![Keybase: hans5958]](https://keybase.io/hans5958)  [![Email: go to GitHub]](https://github.com/hans5958)
 
-FYI: It is **10:xx** (**10am**) in Jakarta. :sunny:  
+FYI: It is **11:xx** (**11am**) in Jakarta. :sunny:  
 *I'm online, doing stuff, and is able to respond to inquiries.*
 </div>
 
@@ -43,11 +43,11 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 - [`f97cf94`](https://github.com/ScratchAddons/website-v2/commit/f97cf947175f2ff8e4fc0a4fc3b9244d9932567b) Minor changes ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [credits-page](https://github.com/ScratchAddons/website-v2/tree/credits-page))
 - [`005945a`](https://github.com/ScratchAddons/website-v2/commit/005945a04f337abc750749ae5a4c1b081f0d6870) Make "Section Pages" translatable, fix TOC button not appearing ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 - [`0fc2412`](https://github.com/Hans5958/ScratchAddons/commit/0fc2412cf91d21115f1e1db2c503d160832d3e36) Trigger Prettier on Actions ([Hans5958/ScratchAddons](https://github.com/Hans5958/ScratchAddons), [infinite-scrolling/improvements](https://github.com/Hans5958/ScratchAddons/tree/infinite-scrolling/improvements))
-- [`b86ec64`](https://github.com/Hans5958/ScratchAddons/commit/b86ec64bd6a82ccf305bd0aab36cd230d79646af) Format code ([Hans5958/ScratchAddons](https://github.com/Hans5958/ScratchAddons), [infinite-scrolling/improvements](https://github.com/Hans5958/ScratchAddons/tree/infinite-scrolling/improvements))
-- [`863c548`](https://github.com/Hans5958/ScratchAddons/commit/863c548b8677052b554bc577be51bd7211cbe561) Add credits ([Hans5958/ScratchAddons](https://github.com/Hans5958/ScratchAddons), [infinite-scrolling/improvements](https://github.com/Hans5958/ScratchAddons/tree/infinite-scrolling/improvements))
 
 ### Last ten events
 
+- Opened issue [#75](https://github.com/ScratchAddons/website-v2/issues/75) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-07-03T04:02:53Z)
+- Created comment on issue/PR [#40](https://github.com/ScratchAddons/manifest-schema/issues/40) on [ScratchAddons/manifest-schema](https://github.com/ScratchAddons/manifest-schema) (2021-07-03T03:58:06Z)
 - Created comment on issue/PR [#2879](https://github.com/ScratchAddons/ScratchAddons/issues/2879) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-07-03T03:13:02Z)
 - Created comment on issue/PR [#4](https://github.com/ScratchAddons/website-v2/issues/4) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-07-02T13:13:58Z)
 - Created comment on issue/PR [#40](https://github.com/ScratchAddons/manifest-schema/issues/40) on [ScratchAddons/manifest-schema](https://github.com/ScratchAddons/manifest-schema) (2021-07-02T02:27:48Z)
@@ -56,12 +56,10 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 - Closed pull request [#134](https://github.com/ScratchAddons/contributors/issues/134) on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2021-07-01T16:58:53Z)
 - Created comment on issue/PR [#134](https://github.com/ScratchAddons/contributors/issues/134) on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2021-07-01T16:58:50Z)
 - Created comment on a review on PR [#2799](https://github.com/ScratchAddons/ScratchAddons/issues/2799) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-07-01T08:50:47Z)
-- Created review on PR [#2799](https://github.com/ScratchAddons/ScratchAddons/issues/2799) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-07-01T08:50:48Z)
-- Created comment on a review on PR [#2799](https://github.com/ScratchAddons/ScratchAddons/issues/2799) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-07-01T08:49:04Z)
 
 </details>
 
-*Last updated: 03/07/2021, 03:16:24 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
+*Last updated: 03/07/2021, 04:18:26 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
 *Commit hash:* [`f98bf63`](https://github.com/Hans5958/Hans5958/commit/f98bf63f4edc1c178f5a0062f6c1eae9d465ac8a
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/workflow/status/Hans5958/Hans5958/Build?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
