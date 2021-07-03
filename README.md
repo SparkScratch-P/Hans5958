@@ -4,7 +4,7 @@
 [![Website: hans5958.github.io]](https://hans5958.github.io) [![Blog: hans5958.github.io/blog]](https://hans5958.github.io/blog)  
 [![YouTube: Hans5958]](https://youtube.com/Hans5958) [![Twitter: hans5958]](https://twitter.com/Hans5958) ![Discord: Hans5958#0969] [![GitHub: hans5958]](https://github.com/Hans5958) [![GitLab: hans5958]](https://gitlab.com/Hans5958) [![dev.to: Hans5958]](https://dev.to/hans5958) [![Keybase: hans5958]](https://keybase.io/hans5958)  [![Email: go to GitHub]](https://github.com/hans5958)
 
-FYI: It is **16:xx** (**4pm**) in Jakarta. :sunny:  
+FYI: It is **17:xx** (**5pm**) in Jakarta. :sunny:  
 *I'm online, doing stuff, and is able to respond to inquiries.*
 </div>
 
@@ -35,6 +35,7 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 
 ### Last ten commits
 
+- [`44dd66b`](https://github.com/ScratchAddons/website-v2/commit/44dd66bd5e74018f4f5c14090eac304d46e6bb26) Wording changes ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [credits-page](https://github.com/ScratchAddons/website-v2/tree/credits-page))
 - [`646327f`](https://github.com/Hans5958/ScratchAddons/commit/646327fe1908294e843af665e8aabd190e562a62) Use manifest match instead of checking the pathname ([Hans5958/ScratchAddons](https://github.com/Hans5958/ScratchAddons), [infinite-scrolling/improvements](https://github.com/Hans5958/ScratchAddons/tree/infinite-scrolling/improvements))
 - [`2c1fc9d`](https://github.com/Hans5958/ScratchAddons/commit/2c1fc9dcc45c1582c2b9daf4c72ce11f3dd4f030) Whoops ([Hans5958/ScratchAddons](https://github.com/Hans5958/ScratchAddons), [infinite-scrolling/improvements](https://github.com/Hans5958/ScratchAddons/tree/infinite-scrolling/improvements))
 - [`86ea0a3`](https://github.com/Hans5958/ScratchAddons/commit/86ea0a3bcab5af279831c13a7307f054b675a91d) Fix styles ([Hans5958/ScratchAddons](https://github.com/Hans5958/ScratchAddons), [infinite-scrolling/improvements](https://github.com/Hans5958/ScratchAddons/tree/infinite-scrolling/improvements))
@@ -60,7 +61,7 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 
 </details>
 
-*Last updated: 03/07/2021, 09:15:12 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
+*Last updated: 03/07/2021, 10:15:20 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
 *Commit hash:* [`f98bf63`](https://github.com/Hans5958/Hans5958/commit/f98bf63f4edc1c178f5a0062f6c1eae9d465ac8a
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/workflow/status/Hans5958/Hans5958/Build?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
