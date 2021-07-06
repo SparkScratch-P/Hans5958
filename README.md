@@ -4,7 +4,7 @@
 [![Website: hans5958.github.io]](https://hans5958.github.io) [![Blog: hans5958.github.io/blog]](https://hans5958.github.io/blog)  
 [![YouTube: Hans5958]](https://youtube.com/Hans5958) [![Twitter: hans5958]](https://twitter.com/Hans5958) ![Discord: Hans5958#0969] [![GitHub: hans5958]](https://github.com/Hans5958) [![GitLab: hans5958]](https://gitlab.com/Hans5958) [![dev.to: Hans5958]](https://dev.to/hans5958) [![Keybase: hans5958]](https://keybase.io/hans5958)  [![Email: go to GitHub]](https://github.com/hans5958)
 
-FYI: It is **19:xx** (**7pm**) in Jakarta. :crescent_moon:  
+FYI: It is **20:xx** (**8pm**) in Jakarta. :crescent_moon:  
 *I'm online, doing stuff, and is able to respond to inquiries.*
 </div>
 
@@ -43,10 +43,11 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 - [`0199b96`](https://github.com/ScratchAddons/manifest-schema/commit/0199b963b31cd59347fcfd7cffd55f4f7298e593) Remove traps property ([ScratchAddons/manifest-schema](https://github.com/ScratchAddons/manifest-schema), [master](https://github.com/ScratchAddons/manifest-schema/tree/master))
 - [`686854d`](https://github.com/ScratchAddons/manifest-schema/commit/686854d7e45666b748fdf154e568ddb4bd692a3f) Add table type on settings property ([ScratchAddons/manifest-schema](https://github.com/ScratchAddons/manifest-schema), [table-settings](https://github.com/ScratchAddons/manifest-schema/tree/table-settings))
 - [`d62bb6d`](https://github.com/ScratchAddons/manifest-schema/commit/d62bb6d614d513cb3ad961810fc018e3d00e33f2) Remove traps property ([ScratchAddons/manifest-schema](https://github.com/ScratchAddons/manifest-schema), [table-settings](https://github.com/ScratchAddons/manifest-schema/tree/table-settings))
-- [`d62bb6d`](https://github.com/ScratchAddons/manifest-schema/commit/d62bb6d614d513cb3ad961810fc018e3d00e33f2) Remove traps property ([ScratchAddons/manifest-schema](https://github.com/ScratchAddons/manifest-schema), [master](https://github.com/ScratchAddons/manifest-schema/tree/master))
 
 ### Last ten events
 
+- Created review on PR [#77](https://github.com/ScratchAddons/website-v2/issues/77) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-07-06T12:32:53Z)
+- Created comment on a review on PR [#77](https://github.com/ScratchAddons/website-v2/issues/77) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-07-06T12:32:53Z)
 - Started [audacity/audacity](https://github.com/audacity/audacity) (2021-07-06T11:48:31Z
 - Created comment on a review on PR [#43](https://github.com/ScratchAddons/manifest-schema/issues/43) on [ScratchAddons/manifest-schema](https://github.com/ScratchAddons/manifest-schema) (2021-07-06T11:45:16Z)
 - Created review on PR [#43](https://github.com/ScratchAddons/manifest-schema/issues/43) on [ScratchAddons/manifest-schema](https://github.com/ScratchAddons/manifest-schema) (2021-07-06T11:45:16Z)
@@ -55,12 +56,10 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 - Created comment on a review on PR [#77](https://github.com/ScratchAddons/website-v2/issues/77) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-07-05T01:34:44Z)
 - Created comment on a review on PR [#77](https://github.com/ScratchAddons/website-v2/issues/77) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-07-05T01:36:45Z)
 - Created review on PR [#77](https://github.com/ScratchAddons/website-v2/issues/77) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-07-05T01:37:06Z)
-- Created review on PR [#77](https://github.com/ScratchAddons/website-v2/issues/77) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-07-05T01:37:06Z)
-- Created comment on issue/PR [#77](https://github.com/ScratchAddons/website-v2/issues/77) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-07-05T01:31:46Z)
 
 </details>
 
-*Last updated: 06/07/2021, 12:27:26 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
+*Last updated: 06/07/2021, 13:24:20 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
 *Commit hash:* [`f98bf63`](https://github.com/Hans5958/Hans5958/commit/f98bf63f4edc1c178f5a0062f6c1eae9d465ac8a
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/workflow/status/Hans5958/Hans5958/Build?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
