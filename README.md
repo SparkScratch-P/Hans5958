@@ -4,7 +4,7 @@
 [![Website: hans5958.github.io]](https://hans5958.github.io) [![Blog: hans5958.github.io/blog]](https://hans5958.github.io/blog)  
 [![YouTube: Hans5958]](https://youtube.com/Hans5958) [![Twitter: hans5958]](https://twitter.com/Hans5958) ![Discord: Hans5958#0969] [![GitHub: hans5958]](https://github.com/Hans5958) [![GitLab: hans5958]](https://gitlab.com/Hans5958) [![dev.to: Hans5958]](https://dev.to/hans5958) [![Keybase: hans5958]](https://keybase.io/hans5958)  [![Email: go to GitHub]](https://github.com/hans5958)
 
-FYI: It is **11:xx** (**11am**) in Jakarta. :sunny:  
+FYI: It is **12:xx** (**12pm**) in Jakarta. :sunny:  
 *I'm online, doing stuff, and is able to respond to inquiries.*
 </div>
 
@@ -35,15 +35,17 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 
 ### Last ten commits
 
+- [`2b965c5`](https://github.com/Hans5958/ScratchAddons/commit/2b965c54d04c596323257c4973e949e54f5e2baf) Add improvements on infinite scrolling (#2879) ([Hans5958/ScratchAddons](https://github.com/Hans5958/ScratchAddons), [master](https://github.com/Hans5958/ScratchAddons/tree/master))
 - [`6ed1761`](https://github.com/Hans5958/ScratchAddons/commit/6ed1761d9ac88987dcd22f64fbe7c1d21efc567e) Another round of updates again ([Hans5958/ScratchAddons](https://github.com/Hans5958/ScratchAddons), [tooltips](https://github.com/Hans5958/ScratchAddons/tree/tooltips))
 - [`56f0e98`](https://github.com/ScratchAddons/manifest-schema/commit/56f0e983dc5a71da26e87541073f6562c0f036c8) Add table type on settings property ([ScratchAddons/manifest-schema](https://github.com/ScratchAddons/manifest-schema), [setting-type/table](https://github.com/ScratchAddons/manifest-schema/tree/setting-type/table))
 - [`0ad4b1d`](https://github.com/Hans5958/ScratchAddons/commit/0ad4b1d900065347dc6939573d55b714d8020795) Another round of updates ([Hans5958/ScratchAddons](https://github.com/Hans5958/ScratchAddons), [tooltips](https://github.com/Hans5958/ScratchAddons/tree/tooltips))
 - [`53e24e1`](https://github.com/Hans5958/ScratchAddons/commit/53e24e1941813eb3eadff3d93886c476555d00bd) Lots of updates ([Hans5958/ScratchAddons](https://github.com/Hans5958/ScratchAddons), [tooltips](https://github.com/Hans5958/ScratchAddons/tree/tooltips))
-- [`6573efc`](https://github.com/ScratchAddons/manifest-schema/commit/6573efcc9f53eb4f2fbe0f529446eb96cf683965) Add table type on settings property ([ScratchAddons/manifest-schema](https://github.com/ScratchAddons/manifest-schema), [table-settings](https://github.com/ScratchAddons/manifest-schema/tree/table-settings))
-- [`0199b96`](https://github.com/ScratchAddons/manifest-schema/commit/0199b963b31cd59347fcfd7cffd55f4f7298e593) Remove traps property ([ScratchAddons/manifest-schema](https://github.com/ScratchAddons/manifest-schema), [table-settings](https://github.com/ScratchAddons/manifest-schema/tree/table-settings))
 
 ### Last ten events
 
+- Deleted branch `infinite-scrolling/improvements` on [Hans5958/ScratchAddons](https://github.com/Hans5958/ScratchAddons) (2021-07-07T05:11:22Z)
+- Created comment on issue/PR [#2919](https://github.com/ScratchAddons/ScratchAddons/issues/2919) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-07-07T04:50:50Z)
+- Created comment on issue/PR [#2908](https://github.com/ScratchAddons/ScratchAddons/issues/2908) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-07-07T04:47:13Z)
 - Created comment on issue/PR [#2908](https://github.com/ScratchAddons/ScratchAddons/issues/2908) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-07-06T14:55:57Z)
 - Created review on PR [#77](https://github.com/ScratchAddons/website-v2/issues/77) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-07-06T12:32:53Z)
 - Created comment on a review on PR [#77](https://github.com/ScratchAddons/website-v2/issues/77) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-07-06T12:32:53Z)
@@ -51,13 +53,10 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 - Created comment on a review on PR [#43](https://github.com/ScratchAddons/manifest-schema/issues/43) on [ScratchAddons/manifest-schema](https://github.com/ScratchAddons/manifest-schema) (2021-07-06T11:45:16Z)
 - Created review on PR [#43](https://github.com/ScratchAddons/manifest-schema/issues/43) on [ScratchAddons/manifest-schema](https://github.com/ScratchAddons/manifest-schema) (2021-07-06T11:45:16Z)
 - Created review on PR [#77](https://github.com/ScratchAddons/website-v2/issues/77) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-07-05T03:19:30Z)
-- Created comment on a review on PR [#77](https://github.com/ScratchAddons/website-v2/issues/77) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-07-05T03:19:29Z)
-- Created comment on a review on PR [#77](https://github.com/ScratchAddons/website-v2/issues/77) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-07-05T01:34:44Z)
-- Created comment on a review on PR [#77](https://github.com/ScratchAddons/website-v2/issues/77) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-07-05T01:36:45Z)
 
 </details>
 
-*Last updated: 07/07/2021, 04:18:56 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
+*Last updated: 07/07/2021, 05:12:28 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
 *Commit hash:* [`f98bf63`](https://github.com/Hans5958/Hans5958/commit/f98bf63f4edc1c178f5a0062f6c1eae9d465ac8a
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/workflow/status/Hans5958/Hans5958/Build?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
