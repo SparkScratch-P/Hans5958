@@ -4,8 +4,8 @@
 [![Website: hans5958.github.io]](https://hans5958.github.io) [![Blog: hans5958.github.io/blog]](https://hans5958.github.io/blog)  
 [![YouTube: Hans5958]](https://youtube.com/Hans5958) [![Twitter: hans5958]](https://twitter.com/Hans5958) ![Discord: Hans5958#0969] [![GitHub: hans5958]](https://github.com/Hans5958) [![GitLab: hans5958]](https://gitlab.com/Hans5958) [![dev.to: Hans5958]](https://dev.to/hans5958) [![Keybase: hans5958]](https://keybase.io/hans5958)  [![Email: go to GitHub]](https://github.com/hans5958)
 
-FYI: It is **21:xx** (**9pm**) in Jakarta. :crescent_moon:  
-*I'm online, doing stuff, and is able to respond to inquiries.*
+FYI: It is **22:xx** (**10pm**) in Jakarta. :crescent_moon:  
+*I'm online, but only if I'm on a weekend, or there's nothing to do tommorow morning.*
 </div>
 
 <details><summary>Read about me:</summary>
@@ -35,6 +35,7 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 
 ### Last ten commits
 
+- [`7636576`](https://github.com/ScratchAddons/website-v2-script/commit/7636576b8897c4d6d0dcf76b063c8c4c61b31c86) Add support for shortcodes around HTML tags ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
 - [`1b153d2`](https://github.com/ScratchAddons/contributors/commit/1b153d2297819551eb690d9f5666deede73f3438)  Add @TheBugCoder as a contributor ([ScratchAddons/contributors](https://github.com/ScratchAddons/contributors), [all-contributors/add-TheBugCoder](https://github.com/ScratchAddons/contributors/tree/all-contributors/add-TheBugCoder))
 - [`acdd8d6`](https://github.com/ScratchAddons/contributors/commit/acdd8d660c32f4f8d022f73d6245d67a009d9a3d) Add config for Gitpod ([ScratchAddons/contributors](https://github.com/ScratchAddons/contributors), [all-contributors/add-TheBugCoder](https://github.com/ScratchAddons/contributors/tree/all-contributors/add-TheBugCoder))
 - [`db1dc0d`](https://github.com/ScratchAddons/contributors/commit/db1dc0dbbcd9b9482d0e6f863c70ce22ef151577) Rename CuriousG2 to RedLight-Scratch ([ScratchAddons/contributors](https://github.com/ScratchAddons/contributors), [all-contributors/add-TheBugCoder](https://github.com/ScratchAddons/contributors/tree/all-contributors/add-TheBugCoder))
@@ -59,7 +60,7 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 
 </details>
 
-*Last updated: 09/07/2021, 14:18:27 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
+*Last updated: 09/07/2021, 15:19:13 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
 *Commit hash:* [`f98bf63`](https://github.com/Hans5958/Hans5958/commit/f98bf63f4edc1c178f5a0062f6c1eae9d465ac8a
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/workflow/status/Hans5958/Hans5958/Build?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
