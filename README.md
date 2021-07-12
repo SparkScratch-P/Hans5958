@@ -4,8 +4,8 @@
 [![Website: hans5958.github.io]](https://hans5958.github.io) [![Blog: hans5958.github.io/blog]](https://hans5958.github.io/blog)  
 [![YouTube: Hans5958]](https://youtube.com/Hans5958) [![Twitter: hans5958]](https://twitter.com/Hans5958) ![Discord: Hans5958#0969] [![GitHub: hans5958]](https://github.com/Hans5958) [![GitLab: hans5958]](https://gitlab.com/Hans5958) [![dev.to: Hans5958]](https://dev.to/hans5958) [![Keybase: hans5958]](https://keybase.io/hans5958)  [![Email: go to GitHub]](https://github.com/hans5958)
 
-FYI: It is **23:xx** (**11pm**) in Jakarta. :crescent_moon:  
-*I'm online, but only if I'm on a weekend, or there's nothing to do tommorow morning.*
+FYI: It is **00:xx** (**12am**) in Jakarta. :crescent_moon:  
+*There is a great chance that I'm offline, so I'm sorry that I can't respond to you currently.*
 </div>
 
 <details><summary>Read about me:</summary>
@@ -35,6 +35,8 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 
 ### Last ten commits
 
+- [`5452883`](https://github.com/ScratchAddons/website-v2/commit/54528831261f2e926574a99951b5a6528f9b3ccc) Fix player being too small on small width displays ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
+- [`63a2501`](https://github.com/ScratchAddons/website-v2/commit/63a250154302c0c784c0bfb235c9196e4eb8e45a) Add an addon image (@CST1229) ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 - [`7e46e2f`](https://github.com/ScratchAddons/website-v2/commit/7e46e2fac3f3d8052c19e7ce40c7f4d19bfc1dfd) Add an addon image (@CST1229) ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [jsdoc-like-manifest](https://github.com/ScratchAddons/website-v2/tree/jsdoc-like-manifest))
 - [`ef367fa`](https://github.com/ScratchAddons/website-v2/commit/ef367fa470e5d10f80b6bb98d01991c40d7e1aad) Add outdated note and fix typo on addon manifest 2 ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 - [`b33496a`](https://github.com/ScratchAddons/website-v2/commit/b33496a2fb8b1dd54cc23436a601e6ce95f5a419) Add outdated note and fix typo on addon manifest ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
@@ -43,8 +45,6 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 - [`d86c51a`](https://github.com/ScratchAddons/website-v2/commit/d86c51a591056dbffede9bac531f3d0babd8cdeb) Add support to customize H1 title with markdown support ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 - [`45e26af`](https://github.com/ScratchAddons/website-v2/commit/45e26af7a8df1e8977b2da2a515e5d3523d4e186) Change SCSS shortcode into a partial ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 - [`1773aba`](https://github.com/ScratchAddons/website-v2/commit/1773aba5b7c4d38d7508e7722555329a2b7da713) Modularize some parts of stylesheets ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
-- [`b5303a9`](https://github.com/ScratchAddons/website-v2/commit/b5303a9294e09beafca3c1fbad9a79113549e308) Fix empty th borders on other themes ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
-- [`eddc104`](https://github.com/ScratchAddons/website-v2/commit/eddc104a26dbc37adfcac9baf2a7ba426d994838) Make the player modal bigger if possible ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 
 ### Last ten events
 
@@ -61,7 +61,7 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 
 </details>
 
-*Last updated: 12/07/2021, 16:22:51 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
+*Last updated: 12/07/2021, 17:22:40 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
 *Commit hash:* [`f98bf63`](https://github.com/Hans5958/Hans5958/commit/f98bf63f4edc1c178f5a0062f6c1eae9d465ac8a
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/workflow/status/Hans5958/Hans5958/Build?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
