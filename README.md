@@ -4,7 +4,7 @@
 [![Website: hans5958.github.io]](https://hans5958.github.io) [![Blog: hans5958.github.io/blog]](https://hans5958.github.io/blog)  
 [![YouTube: Hans5958]](https://youtube.com/Hans5958) [![Twitter: hans5958]](https://twitter.com/Hans5958) ![Discord: Hans5958#0969] [![GitHub: hans5958]](https://github.com/Hans5958) [![GitLab: hans5958]](https://gitlab.com/Hans5958) [![dev.to: Hans5958]](https://dev.to/hans5958) [![Keybase: hans5958]](https://keybase.io/hans5958)  [![Email: go to GitHub]](https://github.com/hans5958)
 
-FYI: It is **09:xx** (**9am**) in Jakarta. :sunny:  
+FYI: It is **10:xx** (**10am**) in Jakarta. :sunny:  
 *I'm online, doing stuff, and is able to respond to inquiries.*
 </div>
 
@@ -35,6 +35,9 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 
 ### Last ten commits
 
+- [`b7b80ed`](https://github.com/ScratchAddons/website-v2/commit/b7b80ed1fe2ab523ac84381a69df818f2c35e943) Use English addon manifests for unsupported languages ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [en-addons-in-unsupported-langs](https://github.com/ScratchAddons/website-v2/tree/en-addons-in-unsupported-langs))
+- [`70d3246`](https://github.com/ScratchAddons/website-v2/commit/70d32462764c1305c801e2a7a0b37db4a9c49d95) Use English addon manifests for unsupported languages ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [en-addons-in-unsupported-langs](https://github.com/ScratchAddons/website-v2/tree/en-addons-in-unsupported-langs))
+- [`c12046e`](https://github.com/ScratchAddons/website-v2/commit/c12046e883d1dd27be6294984d66cd27e743f382) Use English addon manifests for unsupported languages ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [en-addons-in-unsupported-langs](https://github.com/ScratchAddons/website-v2/tree/en-addons-in-unsupported-langs))
 - [`02bf8c9`](https://github.com/ScratchAddons/website-v2/commit/02bf8c9288d503adbf8eabe0e6e56e5445daff96) Add and update addon images (@TheColaber, @CST1229, @mxmou) ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 - [`5452883`](https://github.com/ScratchAddons/website-v2/commit/54528831261f2e926574a99951b5a6528f9b3ccc) Fix player being too small on small width displays ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 - [`63a2501`](https://github.com/ScratchAddons/website-v2/commit/63a250154302c0c784c0bfb235c9196e4eb8e45a) Add an addon image (@CST1229) ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
@@ -42,12 +45,11 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 - [`ef367fa`](https://github.com/ScratchAddons/website-v2/commit/ef367fa470e5d10f80b6bb98d01991c40d7e1aad) Add outdated note and fix typo on addon manifest 2 ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 - [`b33496a`](https://github.com/ScratchAddons/website-v2/commit/b33496a2fb8b1dd54cc23436a601e6ce95f5a419) Add outdated note and fix typo on addon manifest ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 - [`5015033`](https://github.com/ScratchAddons/website-v2/commit/50150336a1d237656bc8b75fdf0f6c4ece36cd4e) Wrap all addon manifest examples with curly braces ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
-- [`d07183b`](https://github.com/ScratchAddons/website-v2/commit/d07183ba626a310d3379ad9c5c79e683211eeb96) Wrap all Addon API properties in code blocks ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
-- [`d86c51a`](https://github.com/ScratchAddons/website-v2/commit/d86c51a591056dbffede9bac531f3d0babd8cdeb) Add support to customize H1 title with markdown support ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
-- [`45e26af`](https://github.com/ScratchAddons/website-v2/commit/45e26af7a8df1e8977b2da2a515e5d3523d4e186) Change SCSS shortcode into a partial ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 
 ### Last ten events
 
+- Opened pull request [#86](https://github.com/ScratchAddons/website-v2/issues/86) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-07-13T02:38:47Z)
+- Created branch `en-addons-in-unsupported-langs` on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-07-13T02:37:14Z)
 - Deleted branch `imgbot` on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-07-13T02:24:43Z)
 - Closed pull request [#85](https://github.com/ScratchAddons/website-v2/issues/85) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-07-13T02:24:42Z)
 - Created comment on issue/PR [#4](https://github.com/ScratchAddons/website-v2/issues/4) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-07-13T02:14:20Z)
@@ -56,12 +58,10 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 - Created comment on issue/PR [#77](https://github.com/ScratchAddons/website-v2/issues/77) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-07-10T16:00:04Z)
 - Updated wiki on [ScratchAddons/manifest-schema](https://github.com/ScratchAddons/manifest-schema) (2021-07-10T15:58:39Z)
 - Created comment on issue/PR [#84](https://github.com/ScratchAddons/website-v2/issues/84) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-07-10T15:54:41Z)
-- Created comment on issue/PR [#75](https://github.com/ScratchAddons/website-v2/issues/75) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-07-10T15:50:55Z)
-- Deleted branch `addon-manifest-updates` on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-07-10T15:49:22Z)
 
 </details>
 
-*Last updated: 13/07/2021, 02:32:16 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
+*Last updated: 13/07/2021, 03:16:48 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
 *Commit hash:* [`f98bf63`](https://github.com/Hans5958/Hans5958/commit/f98bf63f4edc1c178f5a0062f6c1eae9d465ac8a
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/workflow/status/Hans5958/Hans5958/Build?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
