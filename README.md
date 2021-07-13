@@ -4,7 +4,7 @@
 [![Website: hans5958.github.io]](https://hans5958.github.io) [![Blog: hans5958.github.io/blog]](https://hans5958.github.io/blog)  
 [![YouTube: Hans5958]](https://youtube.com/Hans5958) [![Twitter: hans5958]](https://twitter.com/Hans5958) ![Discord: Hans5958#0969] [![GitHub: hans5958]](https://github.com/Hans5958) [![GitLab: hans5958]](https://gitlab.com/Hans5958) [![dev.to: Hans5958]](https://dev.to/hans5958) [![Keybase: hans5958]](https://keybase.io/hans5958)  [![Email: go to GitHub]](https://github.com/hans5958)
 
-FYI: It is **12:xx** (**12pm**) in Jakarta. :sunny:  
+FYI: It is **13:xx** (**1pm**) in Jakarta. :sunny:  
 *I'm online, doing stuff, and is able to respond to inquiries.*
 </div>
 
@@ -35,6 +35,8 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 
 ### Last ten commits
 
+- [`a3a66bf`](https://github.com/ScratchAddons/website-v2/commit/a3a66bfbd693a8e86916ec4cae2e89b62717d77c) For docs, embed JS/CSS using front matter instead of HTML tags ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
+- [`7aaa893`](https://github.com/ScratchAddons/website-v2-script/commit/7aaa893b0caafd622d24ac23c3c891fb079d6c26) Implement tag filtering on markdown files 4 ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
 - [`172ae20`](https://github.com/ScratchAddons/website-v2-script/commit/172ae2003ee3fdbf31e82d18c252132c7c156158) Implement tag filtering on markdown files 3 ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
 - [`3afff67`](https://github.com/ScratchAddons/website-v2-script/commit/3afff67d331fbc0b355d4f1cb38b070058b7a4e1) Implement tag filtering on markdown files 2 ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
 - [`4a90342`](https://github.com/ScratchAddons/website-v2-script/commit/4a903424c8bd00f8c2626cafeaef50748770e8f2) Implement tag filtering on markdown files ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
@@ -43,8 +45,6 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 - [`b7b80ed`](https://github.com/ScratchAddons/website-v2/commit/b7b80ed1fe2ab523ac84381a69df818f2c35e943) Use English addon manifests for unsupported languages ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [en-addons-in-unsupported-langs](https://github.com/ScratchAddons/website-v2/tree/en-addons-in-unsupported-langs))
 - [`70d3246`](https://github.com/ScratchAddons/website-v2/commit/70d32462764c1305c801e2a7a0b37db4a9c49d95) Use English addon manifests for unsupported languages ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [en-addons-in-unsupported-langs](https://github.com/ScratchAddons/website-v2/tree/en-addons-in-unsupported-langs))
 - [`c12046e`](https://github.com/ScratchAddons/website-v2/commit/c12046e883d1dd27be6294984d66cd27e743f382) Use English addon manifests for unsupported languages ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [en-addons-in-unsupported-langs](https://github.com/ScratchAddons/website-v2/tree/en-addons-in-unsupported-langs))
-- [`02bf8c9`](https://github.com/ScratchAddons/website-v2/commit/02bf8c9288d503adbf8eabe0e6e56e5445daff96) Add and update addon images (@TheColaber, @CST1229, @mxmou) ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
-- [`5452883`](https://github.com/ScratchAddons/website-v2/commit/54528831261f2e926574a99951b5a6528f9b3ccc) Fix player being too small on small width displays ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 
 ### Last ten events
 
@@ -61,7 +61,7 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 
 </details>
 
-*Last updated: 13/07/2021, 05:12:35 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
+*Last updated: 13/07/2021, 06:18:29 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
 *Commit hash:* [`f98bf63`](https://github.com/Hans5958/Hans5958/commit/f98bf63f4edc1c178f5a0062f6c1eae9d465ac8a
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/workflow/status/Hans5958/Hans5958/Build?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
