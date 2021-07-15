@@ -4,7 +4,7 @@
 [![Website: hans5958.github.io]](https://hans5958.github.io) [![Blog: hans5958.github.io/blog]](https://hans5958.github.io/blog)  
 [![YouTube: Hans5958]](https://youtube.com/Hans5958) [![Twitter: hans5958]](https://twitter.com/Hans5958) ![Discord: Hans5958#0969] [![GitHub: hans5958]](https://github.com/Hans5958) [![GitLab: hans5958]](https://gitlab.com/Hans5958) [![dev.to: Hans5958]](https://dev.to/hans5958) [![Keybase: hans5958]](https://keybase.io/hans5958)  [![Email: go to GitHub]](https://github.com/hans5958)
 
-FYI: It is **12:xx** (**12pm**) in Jakarta. :sunny:  
+FYI: It is **13:xx** (**1pm**) in Jakarta. :sunny:  
 *I'm online, doing stuff, and is able to respond to inquiries.*
 </div>
 
@@ -35,6 +35,8 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 
 ### Last ten commits
 
+- [`bef2517`](https://github.com/ScratchAddons/website-v2/commit/bef2517309c4548dbf49975de46104e0ba575662) Add and update addon images (@TheColaber, @CST1229) ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
+- [`caba43d`](https://github.com/ScratchAddons/website-v2/commit/caba43d6aa69aef6d7aa75ac3b92d6d1caa6ae22) Use UTC timezone for localised date and time ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 - [`a3a66bf`](https://github.com/ScratchAddons/website-v2/commit/a3a66bfbd693a8e86916ec4cae2e89b62717d77c) For docs, embed JS/CSS using front matter instead of HTML tags ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 - [`7aaa893`](https://github.com/ScratchAddons/website-v2-script/commit/7aaa893b0caafd622d24ac23c3c891fb079d6c26) Implement tag filtering on markdown files 4 ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
 - [`172ae20`](https://github.com/ScratchAddons/website-v2-script/commit/172ae2003ee3fdbf31e82d18c252132c7c156158) Implement tag filtering on markdown files 3 ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
@@ -43,11 +45,12 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 - [`a1658ab`](https://github.com/ScratchAddons/website-v2/commit/a1658ab3a49ba7af92728ffd8a0490044d0f0e0e) Use English addon manifests for unsupported languages ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 - [`840a630`](https://github.com/ScratchAddons/website-v2/commit/840a63024fa116cbf5820daa566c464021ebbabf) Use English addon manifests for unsupported languages ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [en-addons-in-unsupported-langs](https://github.com/ScratchAddons/website-v2/tree/en-addons-in-unsupported-langs))
 - [`b7b80ed`](https://github.com/ScratchAddons/website-v2/commit/b7b80ed1fe2ab523ac84381a69df818f2c35e943) Use English addon manifests for unsupported languages ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [en-addons-in-unsupported-langs](https://github.com/ScratchAddons/website-v2/tree/en-addons-in-unsupported-langs))
-- [`70d3246`](https://github.com/ScratchAddons/website-v2/commit/70d32462764c1305c801e2a7a0b37db4a9c49d95) Use English addon manifests for unsupported languages ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [en-addons-in-unsupported-langs](https://github.com/ScratchAddons/website-v2/tree/en-addons-in-unsupported-langs))
-- [`c12046e`](https://github.com/ScratchAddons/website-v2/commit/c12046e883d1dd27be6294984d66cd27e743f382) Use English addon manifests for unsupported languages ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [en-addons-in-unsupported-langs](https://github.com/ScratchAddons/website-v2/tree/en-addons-in-unsupported-langs))
 
 ### Last ten events
 
+- Created comment on issue/PR [#4](https://github.com/ScratchAddons/website-v2/issues/4) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-07-15T06:03:40Z)
+- Closed pull request [#88](https://github.com/ScratchAddons/website-v2/issues/88) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-07-15T05:56:11Z)
+- Created review on PR [#88](https://github.com/ScratchAddons/website-v2/issues/88) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-07-15T05:54:20Z)
 - Created comment on a review on PR [#2799](https://github.com/ScratchAddons/ScratchAddons/issues/2799) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-07-15T03:42:02Z)
 - Created review on PR [#2799](https://github.com/ScratchAddons/ScratchAddons/issues/2799) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-07-15T03:42:02Z)
 - CommitCommentEvent on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-07-15T00:56:29Z)
@@ -55,13 +58,10 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 - Created comment on issue/PR [#2961](https://github.com/ScratchAddons/ScratchAddons/issues/2961) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-07-13T13:31:16Z)
 - CommitCommentEvent on [ScratchAddons/website-i18n](https://github.com/ScratchAddons/website-i18n) (2021-07-13T04:58:53Z)
 - Created comment on issue/PR [#4](https://github.com/ScratchAddons/website-v2/issues/4) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-07-13T04:12:20Z)
-- Closed issue [#5](https://github.com/ScratchAddons/website-v2/issues/5) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-07-13T03:49:40Z)
-- Created comment on issue/PR [#5](https://github.com/ScratchAddons/website-v2/issues/5) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-07-13T03:49:35Z)
-- Updated wiki on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-07-13T03:44:03Z)
 
 </details>
 
-*Last updated: 15/07/2021, 05:12:36 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
+*Last updated: 15/07/2021, 06:18:39 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
 *Commit hash:* [`f98bf63`](https://github.com/Hans5958/Hans5958/commit/f98bf63f4edc1c178f5a0062f6c1eae9d465ac8a
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/workflow/status/Hans5958/Hans5958/Build?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
