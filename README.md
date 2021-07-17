@@ -4,7 +4,7 @@
 [![Website: hans5958.github.io]](https://hans5958.github.io) [![Blog: hans5958.github.io/blog]](https://hans5958.github.io/blog)  
 [![YouTube: Hans5958]](https://youtube.com/Hans5958) [![Twitter: hans5958]](https://twitter.com/Hans5958) ![Discord: Hans5958#0969] [![GitHub: hans5958]](https://github.com/Hans5958) [![GitLab: hans5958]](https://gitlab.com/Hans5958) [![dev.to: Hans5958]](https://dev.to/hans5958) [![Keybase: hans5958]](https://keybase.io/hans5958)  [![Email: go to GitHub]](https://github.com/hans5958)
 
-FYI: It is **11:xx** (**11am**) in Jakarta. :sunny:  
+FYI: It is **12:xx** (**12pm**) in Jakarta. :sunny:  
 *I'm online, doing stuff, and is able to respond to inquiries.*
 </div>
 
@@ -35,16 +35,16 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 
 ### Last ten commits
 
+- [`3910965`](https://github.com/Hans5958/b5-result-text/commit/391096542f14d0b188a0a8e72299e0be2e9973a0) id: Fixes from last commits ([Hans5958/b5-result-text](https://github.com/Hans5958/b5-result-text), [id](https://github.com/Hans5958/b5-result-text/tree/id))
+- [`29a207a`](https://github.com/Hans5958/b5-result-text/commit/29a207aa4356836cf088c48421e1719b3ade03b2) id: Neuroticism done ([Hans5958/b5-result-text](https://github.com/Hans5958/b5-result-text), [id](https://github.com/Hans5958/b5-result-text/tree/id))
+- [`273801a`](https://github.com/Hans5958/b5-result-text/commit/273801a9f40c111e0671f43c44ffa8cf2419511e) id: Extraversion done ([Hans5958/b5-result-text](https://github.com/Hans5958/b5-result-text), [id](https://github.com/Hans5958/b5-result-text/tree/id))
+- [`e843739`](https://github.com/Hans5958/b5-result-text/commit/e8437399be64cae49492e4fcd822bff674bb9e36) id: Conscientiousness done ([Hans5958/b5-result-text](https://github.com/Hans5958/b5-result-text), [id](https://github.com/Hans5958/b5-result-text/tree/id))
 - [`05eb764`](https://github.com/Hans5958/b5-result-text/commit/05eb764ddd90c81ad89b5b4bf40c3982c0517124) id: Openness To Experience done ([Hans5958/b5-result-text](https://github.com/Hans5958/b5-result-text), [id](https://github.com/Hans5958/b5-result-text/tree/id))
 - [`5fcd21f`](https://github.com/Hans5958/b5-result-text/commit/5fcd21f4b70949275f18fbec4b20e03a2b9f3bc1) id: Agreeableness done ([Hans5958/b5-result-text](https://github.com/Hans5958/b5-result-text), [id](https://github.com/Hans5958/b5-result-text/tree/id))
 - [`de71f51`](https://github.com/Hans5958/b5-result-text/commit/de71f51374d61131fe942de49d770cd4fe7861fe) id: Add initial files ([Hans5958/b5-result-text](https://github.com/Hans5958/b5-result-text), [id](https://github.com/Hans5958/b5-result-text/tree/id))
 - [`a3124fd`](https://github.com/ScratchAddons/website-v2-script/commit/a3124fd54aed2afbc9d85bc3dfed31b0e69afa8a) Prepare to generate Chinese variants ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
 - [`bef2517`](https://github.com/ScratchAddons/website-v2/commit/bef2517309c4548dbf49975de46104e0ba575662) Add and update addon images (@TheColaber, @CST1229) ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 - [`caba43d`](https://github.com/ScratchAddons/website-v2/commit/caba43d6aa69aef6d7aa75ac3b92d6d1caa6ae22) Use UTC timezone for localised date and time ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
-- [`a3a66bf`](https://github.com/ScratchAddons/website-v2/commit/a3a66bfbd693a8e86916ec4cae2e89b62717d77c) For docs, embed JS/CSS using front matter instead of HTML tags ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
-- [`7aaa893`](https://github.com/ScratchAddons/website-v2-script/commit/7aaa893b0caafd622d24ac23c3c891fb079d6c26) Implement tag filtering on markdown files 4 ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
-- [`172ae20`](https://github.com/ScratchAddons/website-v2-script/commit/172ae2003ee3fdbf31e82d18c252132c7c156158) Implement tag filtering on markdown files 3 ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
-- [`3afff67`](https://github.com/ScratchAddons/website-v2-script/commit/3afff67d331fbc0b355d4f1cb38b070058b7a4e1) Implement tag filtering on markdown files 2 ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
 
 ### Last ten events
 
@@ -61,7 +61,7 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 
 </details>
 
-*Last updated: 17/07/2021, 04:18:51 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
+*Last updated: 17/07/2021, 05:12:23 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
 *Commit hash:* [`f98bf63`](https://github.com/Hans5958/Hans5958/commit/f98bf63f4edc1c178f5a0062f6c1eae9d465ac8a
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/workflow/status/Hans5958/Hans5958/Build?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
