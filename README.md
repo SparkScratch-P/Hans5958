@@ -4,8 +4,8 @@
 [![Website: hans5958.github.io]](https://hans5958.github.io) [![Blog: hans5958.github.io/blog]](https://hans5958.github.io/blog)  
 [![YouTube: Hans5958]](https://youtube.com/Hans5958) [![Twitter: hans5958]](https://twitter.com/Hans5958) ![Discord: Hans5958#0969] [![GitHub: hans5958]](https://github.com/Hans5958) [![GitLab: hans5958]](https://gitlab.com/Hans5958) [![dev.to: Hans5958]](https://dev.to/hans5958) [![Keybase: hans5958]](https://keybase.io/hans5958)  [![Email: go to GitHub]](https://github.com/hans5958)
 
-FYI: It is **08:xx** (**8am**) in Jakarta. :sunny:  
-*I will be online in a few hours or so.*
+FYI: It is **09:xx** (**9am**) in Jakarta. :sunny:  
+*I'm online, doing stuff, and is able to respond to inquiries.*
 </div>
 
 <details><summary>Read about me:</summary>
@@ -48,6 +48,8 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 
 ### Last ten events
 
+- Created comment on issue/PR [#2799](https://github.com/ScratchAddons/ScratchAddons/issues/2799) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-07-18T02:25:09Z)
+- Created comment on issue/PR [#2908](https://github.com/ScratchAddons/ScratchAddons/issues/2908) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-07-18T02:23:16Z)
 - Updated wiki on [ScratchAddons/manifest-schema](https://github.com/ScratchAddons/manifest-schema) (2021-07-17T08:39:02Z)
 - Created comment on issue/PR [#4](https://github.com/ScratchAddons/website-v2/issues/4) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-07-17T08:37:34Z)
 - Updated wiki on [ScratchAddons/manifest-schema](https://github.com/ScratchAddons/manifest-schema) (2021-07-17T08:34:54Z)
@@ -56,12 +58,10 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 - Opened pull request [#181](https://github.com/Alheimsins/b5-result-text/issues/181) on [Alheimsins/b5-result-text](https://github.com/Alheimsins/b5-result-text) (2021-07-17T06:34:39Z)
 - Opened pull request [#92](https://github.com/rubynor/bigfive-web/issues/92) on [rubynor/bigfive-web](https://github.com/rubynor/bigfive-web) (2021-07-17T06:34:39Z)
 - Created branch `id` on [Hans5958/b5-johnson-120-ipip-neo-pi-r](https://github.com/Hans5958/b5-johnson-120-ipip-neo-pi-r) (2021-07-17T06:11:03Z)
-- Made fork of [Alheimsins/b5-johnson-120-ipip-neo-pi-r](https://github.com/Alheimsins/b5-johnson-120-ipip-neo-pi-r) on [Hans5958/b5-johnson-120-ipip-neo-pi-r](https://github.com/Hans5958/b5-johnson-120-ipip-neo-pi-r) (2021-07-17T05:53:24Z)
-- Created branch `id` on [Hans5958/bigfive-web](https://github.com/Hans5958/bigfive-web) (2021-07-17T05:44:53Z)
 
 </details>
 
-*Last updated: 18/07/2021, 01:58:17 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
+*Last updated: 18/07/2021, 02:30:35 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
 *Commit hash:* [`f98bf63`](https://github.com/Hans5958/Hans5958/commit/f98bf63f4edc1c178f5a0062f6c1eae9d465ac8a
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/workflow/status/Hans5958/Hans5958/Build?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
