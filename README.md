@@ -4,7 +4,7 @@
 [![Website: hans5958.github.io]](https://hans5958.github.io) [![Blog: hans5958.github.io/blog]](https://hans5958.github.io/blog)  
 [![YouTube: Hans5958]](https://youtube.com/Hans5958) [![Twitter: hans5958]](https://twitter.com/Hans5958) ![Discord: Hans5958#0969] [![GitHub: hans5958]](https://github.com/Hans5958) [![GitLab: hans5958]](https://gitlab.com/Hans5958) [![dev.to: Hans5958]](https://dev.to/hans5958) [![Keybase: hans5958]](https://keybase.io/hans5958)  [![Email: go to GitHub]](https://github.com/hans5958)
 
-FYI: It is **12:xx** (**12pm**) in Jakarta. :sunny:  
+FYI: It is **13:xx** (**1pm**) in Jakarta. :sunny:  
 *I'm online, doing stuff, and is able to respond to inquiries.*
 </div>
 
@@ -39,25 +39,23 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 - [`b62adae`](https://github.com/ScratchAddons/website-v2/commit/b62adae7fc8465b71b2340a53fc99a569d8f1f90) Make a general policies directory, add Security Policy ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [policies-dir](https://github.com/ScratchAddons/website-v2/tree/policies-dir))
 - [`1320db7`](https://github.com/ScratchAddons/website-v2/commit/1320db71a8471b30488b0915ebfad274913e1cee) Make a general policies directory, add Security Policy ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [policies-dir](https://github.com/ScratchAddons/website-v2/tree/policies-dir))
 - [`b079f73`](https://github.com/Hans5958/b5-result-text/commit/b079f73b49ae39d61fb8e2d778118b16183589ae) id: Fix style problems ([Hans5958/b5-result-text](https://github.com/Hans5958/b5-result-text), [id](https://github.com/Hans5958/b5-result-text/tree/id))
-- [`cb38e86`](https://github.com/Hans5958/b5-result-text/commit/cb38e860eddc328bb0cc411d300e4d9a1c9ecb34) id: Further minor changes ([Hans5958/b5-result-text](https://github.com/Hans5958/b5-result-text), [id](https://github.com/Hans5958/b5-result-text/tree/id))
-- [`18337f6`](https://github.com/Hans5958/b5-result-text/commit/18337f6416ba57a50a5e03adfced6bc3b2d4830b) id: Minor changes from last commits ([Hans5958/b5-result-text](https://github.com/Hans5958/b5-result-text), [id](https://github.com/Hans5958/b5-result-text/tree/id))
 
 ### Last ten events
 
+- Created comment on issue/PR [#2799](https://github.com/ScratchAddons/ScratchAddons/issues/2799) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-07-25T05:29:41Z)
+- Closed pull request [#139](https://github.com/ScratchAddons/contributors/issues/139) on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2021-07-25T05:21:29Z)
+- Created review on PR [#139](https://github.com/ScratchAddons/contributors/issues/139) on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2021-07-25T05:21:26Z)
+- Closed issue [#3098](https://github.com/ScratchAddons/ScratchAddons/issues/3098) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-07-25T05:14:12Z)
+- Created comment on issue/PR [#3098](https://github.com/ScratchAddons/ScratchAddons/issues/3098) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-07-25T05:14:09Z)
 - Opened pull request [#94](https://github.com/ScratchAddons/website-v2/issues/94) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-07-22T11:32:25Z)
 - Created branch `policies-dir` on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-07-22T11:27:47Z)
 - Closed issue [#92](https://github.com/ScratchAddons/website-v2/issues/92) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-07-22T11:06:10Z)
 - Created comment on issue/PR [#92](https://github.com/ScratchAddons/website-v2/issues/92) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-07-22T11:06:09Z)
 - Opened issue [#93](https://github.com/ScratchAddons/website-v2/issues/93) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-07-22T11:05:15Z)
-- Started [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) (2021-07-22T08:22:27Z
-- CommitCommentEvent on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-07-21T16:17:41Z)
-- Opened issue [#1](https://github.com/Hans5958/Quiz-Parampaa-TAS/issues/1) on [Hans5958/Quiz-Parampaa-TAS](https://github.com/Hans5958/Quiz-Parampaa-TAS) (2021-07-20T16:16:05Z)
-- Created branch `master` on [Hans5958/Quiz-Parampaa-TAS](https://github.com/Hans5958/Quiz-Parampaa-TAS) (2021-07-20T16:11:30Z)
-- Created repository [Hans5958/Quiz-Parampaa-TAS](https://github.com/Hans5958/Quiz-Parampaa-TAS) (2021-07-20T16:10:51Z)
 
 </details>
 
-*Last updated: 25/07/2021, 05:12:25 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
+*Last updated: 25/07/2021, 06:18:16 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
 *Commit hash:* [`f98bf63`](https://github.com/Hans5958/Hans5958/commit/f98bf63f4edc1c178f5a0062f6c1eae9d465ac8a
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/workflow/status/Hans5958/Hans5958/Build?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
