@@ -4,7 +4,7 @@
 [![Website: hans5958.github.io]](https://hans5958.github.io) [![Blog: hans5958.github.io/blog]](https://hans5958.github.io/blog)  
 [![YouTube: Hans5958]](https://youtube.com/Hans5958) [![Twitter: hans5958]](https://twitter.com/Hans5958) ![Discord: Hans5958#0969] [![GitHub: hans5958]](https://github.com/Hans5958) [![GitLab: hans5958]](https://gitlab.com/Hans5958) [![dev.to: Hans5958]](https://dev.to/hans5958) [![Keybase: hans5958]](https://keybase.io/hans5958)  [![Email: go to GitHub]](https://github.com/hans5958)
 
-FYI: It is **09:xx** (**9am**) in Jakarta. :sunny:  
+FYI: It is **10:xx** (**10am**) in Jakarta. :sunny:  
 *I'm online, doing stuff, and is able to respond to inquiries.*
 </div>
 
@@ -35,6 +35,9 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 
 ### Last ten commits
 
+- [`19ae6fc`](https://github.com/Hans5958/Scratch-Upptime-2/commit/19ae6fc212730c4b5943bd736b2cbd7c1e946e92) Fix YAML errors ([Hans5958/Scratch-Upptime-2](https://github.com/Hans5958/Scratch-Upptime-2), [master](https://github.com/Hans5958/Scratch-Upptime-2/tree/master))
+- [`d6cf625`](https://github.com/Hans5958/Scratch-Upptime-2/commit/d6cf625206842891797226bd2e035612baadfebc) Add new services to check ([Hans5958/Scratch-Upptime-2](https://github.com/Hans5958/Scratch-Upptime-2), [master](https://github.com/Hans5958/Scratch-Upptime-2/tree/master))
+- [`8e30a01`](https://github.com/Hans5958/Scratch-Upptime/commit/8e30a0177105384796bb87fdcddfa78d9c097c14) Move services to check to Scratch-Upptime-2 ([Hans5958/Scratch-Upptime](https://github.com/Hans5958/Scratch-Upptime), [master](https://github.com/Hans5958/Scratch-Upptime/tree/master))
 - [`112599f`](https://github.com/ScratchAddons/website-v2/commit/112599f3eb14d80c56b7431076db987b4b5970e1) Use quotation marks to avoid errors on video IDs starting with a number ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 - [`2648a36`](https://github.com/ScratchAddons/website-v2/commit/2648a3671469a8c87db7df83ea19967dd567243d) Fix wrong key for Discussion Forum ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 - [`7fa7796`](https://github.com/ScratchAddons/website-v2/commit/7fa7796a62cf285b36c52314b246f7c0233875b3) Do a general policies section, add Security Policy ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [policies-dir](https://github.com/ScratchAddons/website-v2/tree/policies-dir))
@@ -56,7 +59,7 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 
 </details>
 
-*Last updated: 26/07/2021, 02:01:06 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
+*Last updated: 26/07/2021, 03:15:56 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
 *Commit hash:* [`f98bf63`](https://github.com/Hans5958/Hans5958/commit/f98bf63f4edc1c178f5a0062f6c1eae9d465ac8a
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/workflow/status/Hans5958/Hans5958/Build?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
