@@ -4,7 +4,7 @@
 [![Website: hans5958.github.io]](https://hans5958.github.io) [![Blog: hans5958.github.io/blog]](https://hans5958.github.io/blog)  
 [![YouTube: Hans5958]](https://youtube.com/Hans5958) [![Twitter: hans5958]](https://twitter.com/Hans5958) ![Discord: Hans5958#0969] [![GitHub: hans5958]](https://github.com/Hans5958) [![GitLab: hans5958]](https://gitlab.com/Hans5958) [![dev.to: Hans5958]](https://dev.to/hans5958) [![Keybase: hans5958]](https://keybase.io/hans5958)  [![Email: go to GitHub]](https://github.com/hans5958)
 
-FYI: It is **11:xx** (**11am**) in Jakarta. :sunny:  
+FYI: It is **12:xx** (**12pm**) in Jakarta. :sunny:  
 *I'm online, doing stuff, and is able to respond to inquiries.*
 </div>
 
@@ -35,6 +35,9 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 
 ### Last ten commits
 
+- [`bea2016`](https://github.com/Hans5958/Scratch-Upptime-2/commit/bea20168650f97d353f3bccb1a004da9f5bffdde) Override using GH_PAT for the second time 2 ([Hans5958/Scratch-Upptime-2](https://github.com/Hans5958/Scratch-Upptime-2), [master](https://github.com/Hans5958/Scratch-Upptime-2/tree/master))
+- [`0c2abf9`](https://github.com/Hans5958/Scratch-Upptime-2/commit/0c2abf92a2596b4db39430f983f9d495b9d31666) Remove unused files ([Hans5958/Scratch-Upptime-2](https://github.com/Hans5958/Scratch-Upptime-2), [master](https://github.com/Hans5958/Scratch-Upptime-2/tree/master))
+- [`2c4e11a`](https://github.com/Hans5958/Scratch-Upptime-2/commit/2c4e11aa5deab2e832c1554d751bacf993894d41) Override using GH_PAT for the second time ([Hans5958/Scratch-Upptime-2](https://github.com/Hans5958/Scratch-Upptime-2), [master](https://github.com/Hans5958/Scratch-Upptime-2/tree/master))
 - [`6ef62bf`](https://github.com/Hans5958/Scratch-Upptime-2/commit/6ef62bfa4867dacb30b8113d75ba23d799bf7a1b) Add "website" to some names ([Hans5958/Scratch-Upptime-2](https://github.com/Hans5958/Scratch-Upptime-2), [master](https://github.com/Hans5958/Scratch-Upptime-2/tree/master))
 - [`811b535`](https://github.com/Hans5958/Scratch-Upptime-2/commit/811b535e9292cb73d7829d501b9d77ac8ad94039) So, Upptime follows redirects... ([Hans5958/Scratch-Upptime-2](https://github.com/Hans5958/Scratch-Upptime-2), [master](https://github.com/Hans5958/Scratch-Upptime-2/tree/master))
 - [`19ae6fc`](https://github.com/Hans5958/Scratch-Upptime-2/commit/19ae6fc212730c4b5943bd736b2cbd7c1e946e92) Fix YAML errors ([Hans5958/Scratch-Upptime-2](https://github.com/Hans5958/Scratch-Upptime-2), [master](https://github.com/Hans5958/Scratch-Upptime-2/tree/master))
@@ -42,9 +45,6 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 - [`8e30a01`](https://github.com/Hans5958/Scratch-Upptime/commit/8e30a0177105384796bb87fdcddfa78d9c097c14) Move services to check to Scratch-Upptime-2 ([Hans5958/Scratch-Upptime](https://github.com/Hans5958/Scratch-Upptime), [master](https://github.com/Hans5958/Scratch-Upptime/tree/master))
 - [`112599f`](https://github.com/ScratchAddons/website-v2/commit/112599f3eb14d80c56b7431076db987b4b5970e1) Use quotation marks to avoid errors on video IDs starting with a number ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 - [`2648a36`](https://github.com/ScratchAddons/website-v2/commit/2648a3671469a8c87db7df83ea19967dd567243d) Fix wrong key for Discussion Forum ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
-- [`7fa7796`](https://github.com/ScratchAddons/website-v2/commit/7fa7796a62cf285b36c52314b246f7c0233875b3) Do a general policies section, add Security Policy ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [policies-dir](https://github.com/ScratchAddons/website-v2/tree/policies-dir))
-- [`b62adae`](https://github.com/ScratchAddons/website-v2/commit/b62adae7fc8465b71b2340a53fc99a569d8f1f90) Make a general policies directory, add Security Policy ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [policies-dir](https://github.com/ScratchAddons/website-v2/tree/policies-dir))
-- [`1320db7`](https://github.com/ScratchAddons/website-v2/commit/1320db71a8471b30488b0915ebfad274913e1cee) Make a general policies directory, add Security Policy ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [policies-dir](https://github.com/ScratchAddons/website-v2/tree/policies-dir))
 
 ### Last ten events
 
@@ -61,7 +61,7 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 
 </details>
 
-*Last updated: 26/07/2021, 04:19:25 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
+*Last updated: 26/07/2021, 05:12:39 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
 *Commit hash:* [`f98bf63`](https://github.com/Hans5958/Hans5958/commit/f98bf63f4edc1c178f5a0062f6c1eae9d465ac8a
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/workflow/status/Hans5958/Hans5958/Build?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
