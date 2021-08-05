@@ -4,7 +4,7 @@
 [![Website: hans5958.github.io]](https://hans5958.github.io) [![Blog: hans5958.github.io/blog]](https://hans5958.github.io/blog)  
 [![YouTube: Hans5958]](https://youtube.com/Hans5958) [![Twitter: hans5958]](https://twitter.com/Hans5958) ![Discord: Hans5958#0969] [![GitHub: hans5958]](https://github.com/Hans5958) [![GitLab: hans5958]](https://gitlab.com/Hans5958) [![dev.to: Hans5958]](https://dev.to/hans5958) [![Keybase: hans5958]](https://keybase.io/hans5958)  [![Email: go to GitHub]](https://github.com/hans5958)
 
-FYI: It is **22:xx** (**10pm**) in Jakarta. :crescent_moon:  
+FYI: It is **23:xx** (**11pm**) in Jakarta. :crescent_moon:  
 *I'm online, but only if I'm on a weekend, or there's nothing to do tommorow morning.*
 </div>
 
@@ -41,10 +41,12 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 - [`f416e1e`](https://github.com/ScratchAddons/manifest-schema/commit/f416e1ee15236dc8d9c7b84c67eacde6cd849ff8) Merge remote-tracking branch 'origin/master' into master ([ScratchAddons/manifest-schema](https://github.com/ScratchAddons/manifest-schema), [master](https://github.com/ScratchAddons/manifest-schema/tree/master))
 - [`9e1fb81`](https://github.com/ScratchAddons/manifest-schema/commit/9e1fb814d0a95e3a3c387e825e79734310de56ad) Start version 1.13 ([ScratchAddons/manifest-schema](https://github.com/ScratchAddons/manifest-schema), [master](https://github.com/ScratchAddons/manifest-schema/tree/master))
 - [`4a893de`](https://github.com/Hans5958/Quiz-Parampaa-TAS/commit/4a893def45163d18439eebbf21878aceb87cb19b) Update sampai 94 ([Hans5958/Quiz-Parampaa-TAS](https://github.com/Hans5958/Quiz-Parampaa-TAS), [master](https://github.com/Hans5958/Quiz-Parampaa-TAS/tree/master))
-- [`3ea0523`](https://github.com/ScratchAddons/website-v2/commit/3ea0523816bbbbfe6f0cded657b31785cd2ca64f) Fix bug from d25d12dd ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 
 ### Last ten events
 
+- Deleted branch `all-contributors/add-Medericoder` on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2021-08-05T15:44:19Z)
+- Closed pull request [#144](https://github.com/ScratchAddons/contributors/issues/144) on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2021-08-05T15:44:19Z)
+- Created review on PR [#144](https://github.com/ScratchAddons/contributors/issues/144) on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2021-08-05T15:43:59Z)
 - Reopened issue [#2230](https://github.com/ScratchAddons/ScratchAddons/issues/2230) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-08-05T02:14:17Z)
 - Created comment on issue/PR [#132](https://github.com/ScratchAddons/contributors/issues/132) on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2021-08-05T01:43:56Z)
 - Opened issue [#3222](https://github.com/ScratchAddons/ScratchAddons/issues/3222) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-08-03T12:50:22Z)
@@ -52,13 +54,10 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 - Closed pull request [#143](https://github.com/ScratchAddons/contributors/issues/143) on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2021-08-01T07:04:19Z)
 - Created review on PR [#143](https://github.com/ScratchAddons/contributors/issues/143) on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2021-08-01T07:04:07Z)
 - Created comment on issue/PR [#3155](https://github.com/ScratchAddons/ScratchAddons/issues/3155) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-08-01T05:23:26Z)
-- Created comment on issue/PR [#597](https://github.com/ScratchAddons/ScratchAddons/issues/597) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-08-01T05:08:12Z)
-- Created comment on issue/PR [#597](https://github.com/ScratchAddons/ScratchAddons/issues/597) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-08-01T05:04:05Z)
-- Created comment on issue/PR [#3148](https://github.com/ScratchAddons/ScratchAddons/issues/3148) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-07-31T09:09:30Z)
 
 </details>
 
-*Last updated: 05/08/2021, 15:27:38 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
+*Last updated: 05/08/2021, 16:35:23 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
 *Commit hash:* [`f98bf63`](https://github.com/Hans5958/Hans5958/commit/f98bf63f4edc1c178f5a0062f6c1eae9d465ac8a
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/workflow/status/Hans5958/Hans5958/Build?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
