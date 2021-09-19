@@ -4,7 +4,7 @@
 [![Website: hans5958.github.io]](https://hans5958.github.io) [![Blog: hans5958.github.io/blog]](https://hans5958.github.io/blog)  
 [![YouTube: Hans5958]](https://youtube.com/Hans5958) [![Twitter: hans5958]](https://twitter.com/Hans5958) ![Discord: Hans5958#0969] [![GitHub: hans5958]](https://github.com/Hans5958) [![GitLab: hans5958]](https://gitlab.com/Hans5958) [![dev.to: Hans5958]](https://dev.to/hans5958) [![Keybase: hans5958]](https://keybase.io/hans5958)  [![Email: go to GitHub]](https://github.com/hans5958)
 
-FYI: It is **22:xx** (**10pm**) in Jakarta. :crescent_moon:  
+FYI: It is **23:xx** (**11pm**) in Jakarta. :crescent_moon:  
 *I'm online, but only if I'm on a weekend, or there's nothing to do tommorow morning.*
 </div>
 
@@ -35,14 +35,17 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 
 ### Last ten commits
 
+- [`5f7871d`](https://github.com/Hans5958/PreMiD-Presences-Personal/commit/5f7871d35923660041b1c4d2016335d96ba9eae5) Updates for new path structure for TMX (19/09/2021) ([Hans5958/PreMiD-Presences-Personal](https://github.com/Hans5958/PreMiD-Presences-Personal), [master](https://github.com/Hans5958/PreMiD-Presences-Personal/tree/master))
+- [`199f7a2`](https://github.com/Hans5958/PreMiD-Presences/commit/199f7a2ca7d4bcac114b626658b77424d58a8772) Update TrackMania Exchange (1.1.1) ([Hans5958/PreMiD-Presences](https://github.com/Hans5958/PreMiD-Presences), [multiple-210919](https://github.com/Hans5958/PreMiD-Presences/tree/multiple-210919))
+- [`3484c8a`](https://github.com/Hans5958/PreMiD-Presences/commit/3484c8a0ad1a70782b4a53ae4c7a9648bd6a4af5) Update ManiaExchange (1.1.2) ([Hans5958/PreMiD-Presences](https://github.com/Hans5958/PreMiD-Presences), [multiple-210919](https://github.com/Hans5958/PreMiD-Presences/tree/multiple-210919))
+- [`3009d6d`](https://github.com/Hans5958/PreMiD-Presences/commit/3009d6d458982c0bef96db94d64f5979b60f4176) Update multiple presences (07/06/2021, TMX/MX) (#3905) ([Hans5958/PreMiD-Presences](https://github.com/Hans5958/PreMiD-Presences), [master](https://github.com/Hans5958/PreMiD-Presences/tree/master))
 - [`e6763cc`](https://github.com/ScratchAddons/website-v2/commit/e6763ccc58187f04082409381ec622e9e7143f3f) Add admonition shortcode ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [admonition](https://github.com/ScratchAddons/website-v2/tree/admonition))
 - [`803966c`](https://github.com/ScratchAddons/website-v2/commit/803966c8b2ae003feb0466263937ca39e6b871a9) Add admonition shortcode ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [admonition](https://github.com/ScratchAddons/website-v2/tree/admonition))
-- [`b3deb2b`](https://github.com/ScratchAddons/website-v2/commit/b3deb2bf15df1c9019ff685850d4c251edc853b7) Improve smart 404 for inter-language redirects 3 ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
-- [`547825d`](https://github.com/ScratchAddons/website-v2/commit/547825d4a83c0123f31fb4b6dd0d1e9680dd10b0) Improve smart 404 for inter-language redirects 2 ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
-- [`a856957`](https://github.com/ScratchAddons/website-v2/commit/a8569571670f1d566c90571d178c2f03fc951c0b) Improve smart 404 for inter-language redirects ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 
 ### Last ten events
 
+- Opened pull request [#4381](https://github.com/PreMiD/Presences/issues/4381) on [PreMiD/Presences](https://github.com/PreMiD/Presences) (2021-09-19T15:58:03Z)
+- Created branch `multiple-210919` on [Hans5958/PreMiD-Presences](https://github.com/Hans5958/PreMiD-Presences) (2021-09-19T15:18:16Z)
 - Deleted branch `multiple-210607` on [Hans5958/PreMiD-Presences](https://github.com/Hans5958/PreMiD-Presences) (2021-09-19T14:58:55Z)
 - Created branch `attribution-on-files` on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-08-06T15:16:31Z)
 - Created branch `admonition` on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2021-08-06T15:01:33Z)
@@ -51,12 +54,10 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 - Deleted branch `all-contributors/add-Medericoder` on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2021-08-05T15:44:19Z)
 - Closed pull request [#144](https://github.com/ScratchAddons/contributors/issues/144) on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2021-08-05T15:44:19Z)
 - Created review on PR [#144](https://github.com/ScratchAddons/contributors/issues/144) on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2021-08-05T15:43:59Z)
-- Reopened issue [#2230](https://github.com/ScratchAddons/ScratchAddons/issues/2230) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-08-05T02:14:17Z)
-- Created comment on issue/PR [#132](https://github.com/ScratchAddons/contributors/issues/132) on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2021-08-05T01:43:56Z)
 
 </details>
 
-*Last updated: 19/09/2021, 15:14:43 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
+*Last updated: 19/09/2021, 16:21:09 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
 *Commit hash:* [`f98bf63`](https://github.com/Hans5958/Hans5958/commit/f98bf63f4edc1c178f5a0062f6c1eae9d465ac8a
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/workflow/status/Hans5958/Hans5958/Build?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
