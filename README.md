@@ -4,7 +4,7 @@
 [![Website: hans5958.github.io]](https://hans5958.github.io) [![Blog: hans5958.github.io/blog]](https://hans5958.github.io/blog)  
 [![YouTube: Hans5958]](https://youtube.com/Hans5958) [![Twitter: hans5958]](https://twitter.com/Hans5958) ![Discord: Hans5958#0969] [![GitHub: hans5958]](https://github.com/Hans5958) [![GitLab: hans5958]](https://gitlab.com/Hans5958) [![dev.to: Hans5958]](https://dev.to/hans5958) [![Keybase: hans5958]](https://keybase.io/hans5958)  [![Email: go to GitHub]](https://github.com/hans5958)
 
-FYI: It is **22:xx** (**10pm**) in Jakarta. :crescent_moon:  
+FYI: It is **23:xx** (**11pm**) in Jakarta. :crescent_moon:  
 *I'm online, but only if I'm on a weekend, or there's nothing to do tommorow morning.*
 </div>
 
@@ -35,6 +35,9 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 
 ### Last ten commits
 
+- [`e5984a5`](https://github.com/Hans5958/PreMiD-Presences/commit/e5984a5bf78cf13893862738a8d96a94565e0ec1) Add Wikimedia (1.0.0) ([Hans5958/PreMiD-Presences](https://github.com/Hans5958/PreMiD-Presences), [wikimedia-1.0.0](https://github.com/Hans5958/PreMiD-Presences/tree/wikimedia-1.0.0))
+- [`3f58c6f`](https://github.com/Hans5958/PreMiD-Presences-Personal/commit/3f58c6f1c30de1938e43bb2d003d605347eaa10f) PW: Remove a comment on Wikimedia ([Hans5958/PreMiD-Presences-Personal](https://github.com/Hans5958/PreMiD-Presences-Personal), [master](https://github.com/Hans5958/PreMiD-Presences-Personal/tree/master))
+- [`3e51fd1`](https://github.com/Hans5958/PreMiD-Presences-Personal/commit/3e51fd185ad4a8327fb6f84b26a90eef1760e979) Add sentence on the latest PR text ([Hans5958/PreMiD-Presences-Personal](https://github.com/Hans5958/PreMiD-Presences-Personal), [master](https://github.com/Hans5958/PreMiD-Presences-Personal/tree/master))
 - [`79f305f`](https://github.com/Hans5958/PreMiD-Presences/commit/79f305f6a51ebbfcbf8296a8a879f4d25912fb07) Add Wikimedia (1.0.0) ([Hans5958/PreMiD-Presences](https://github.com/Hans5958/PreMiD-Presences), [wikimedia-1.0.0](https://github.com/Hans5958/PreMiD-Presences/tree/wikimedia-1.0.0))
 - [`fb44b50`](https://github.com/Hans5958/PreMiD-Presences/commit/fb44b50b7ac93abea0bd10924805001af9e83744) Update tsconfig.json ([Hans5958/PreMiD-Presences](https://github.com/Hans5958/PreMiD-Presences), [patch-1](https://github.com/Hans5958/PreMiD-Presences/tree/patch-1))
 - [`d0e5eb6`](https://github.com/Hans5958/PreMiD-Presences/commit/d0e5eb6c58d8409a82a9e2df569aa012682163b2) Add Wikimedia (1.0.0) ([Hans5958/PreMiD-Presences](https://github.com/Hans5958/PreMiD-Presences), [wikimedia-1.0.0](https://github.com/Hans5958/PreMiD-Presences/tree/wikimedia-1.0.0))
@@ -42,9 +45,6 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 - [`d48b852`](https://github.com/Hans5958/PreMiD-Presences-Personal/commit/d48b852bef3d60dbf89680aad925ae0ebe67dc67) Last minute changes and switches on the PR texts ([Hans5958/PreMiD-Presences-Personal](https://github.com/Hans5958/PreMiD-Presences-Personal), [master](https://github.com/Hans5958/PreMiD-Presences-Personal/tree/master))
 - [`b839c06`](https://github.com/Hans5958/PreMiD-Presences-Personal-Assets/commit/b839c06dc763db2b463a748006a6bf233ab749be) Add Wikimedia assets ([Hans5958/PreMiD-Presences-Personal-Assets](https://github.com/Hans5958/PreMiD-Presences-Personal-Assets), [master](https://github.com/Hans5958/PreMiD-Presences-Personal-Assets/tree/master))
 - [`d296bee`](https://github.com/Hans5958/PreMiD-Presences-Personal/commit/d296bee032234c6147a8332fb5aa47f0451f717b) Add PR text of 0176ac54 ([Hans5958/PreMiD-Presences-Personal](https://github.com/Hans5958/PreMiD-Presences-Personal), [master](https://github.com/Hans5958/PreMiD-Presences-Personal/tree/master))
-- [`0176ac5`](https://github.com/Hans5958/PreMiD-Presences-Personal/commit/0176ac54bd138e156106379361f889ba3a061278) PW: The Wikimedia presence is here! ([Hans5958/PreMiD-Presences-Personal](https://github.com/Hans5958/PreMiD-Presences-Personal), [master](https://github.com/Hans5958/PreMiD-Presences-Personal/tree/master))
-- [`41a01c4`](https://github.com/Hans5958/PreMiD-Presences/commit/41a01c4918b669ebe656f973ed39a0cdf6ec2200) Update multiple presences (19/09/2021, TMX/MX) (#4381) ([Hans5958/PreMiD-Presences](https://github.com/Hans5958/PreMiD-Presences), [master](https://github.com/Hans5958/PreMiD-Presences/tree/master))
-- [`5f7871d`](https://github.com/Hans5958/PreMiD-Presences-Personal/commit/5f7871d35923660041b1c4d2016335d96ba9eae5) Updates for new path structure for TMX (19/09/2021) ([Hans5958/PreMiD-Presences-Personal](https://github.com/Hans5958/PreMiD-Presences-Personal), [master](https://github.com/Hans5958/PreMiD-Presences-Personal/tree/master))
 
 ### Last ten events
 
@@ -61,7 +61,7 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 
 </details>
 
-*Last updated: 03/10/2021, 15:14:58 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
+*Last updated: 03/10/2021, 16:21:39 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
 *Commit hash:* [`f98bf63`](https://github.com/Hans5958/Hans5958/commit/f98bf63f4edc1c178f5a0062f6c1eae9d465ac8a
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/workflow/status/Hans5958/Hans5958/Build?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
