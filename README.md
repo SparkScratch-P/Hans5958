@@ -4,7 +4,7 @@
 [![Website: hans5958.github.io]](https://hans5958.github.io) [![Blog: hans5958.github.io/blog]](https://hans5958.github.io/blog)  
 [![YouTube: Hans5958]](https://youtube.com/Hans5958) [![Twitter: hans5958]](https://twitter.com/Hans5958) ![Discord: Hans5958#0969] [![GitHub: hans5958]](https://github.com/Hans5958) [![GitLab: hans5958]](https://gitlab.com/Hans5958) [![dev.to: Hans5958]](https://dev.to/hans5958) [![Keybase: hans5958]](https://keybase.io/hans5958)  [![Email: go to GitHub]](https://github.com/hans5958)
 
-FYI: It is **22:xx** (**10pm**) in Jakarta. :crescent_moon:  
+FYI: It is **23:xx** (**11pm**) in Jakarta. :crescent_moon:  
 *I'm online, but only if I'm on a weekend, or there's nothing to do tommorow morning.*
 </div>
 
@@ -48,20 +48,20 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 
 ### Last ten events
 
+- Created comment on a review on PR [#4824](https://github.com/PreMiD/Presences/issues/4824) on [PreMiD/Presences](https://github.com/PreMiD/Presences) (2021-10-26T16:15:09Z)
+- Created review on PR [#4824](https://github.com/PreMiD/Presences/issues/4824) on [PreMiD/Presences](https://github.com/PreMiD/Presences) (2021-10-26T16:15:09Z)
+- Created comment on a review on PR [#4823](https://github.com/PreMiD/Presences/issues/4823) on [PreMiD/Presences](https://github.com/PreMiD/Presences) (2021-10-26T16:14:22Z)
+- Created review on PR [#4823](https://github.com/PreMiD/Presences/issues/4823) on [PreMiD/Presences](https://github.com/PreMiD/Presences) (2021-10-26T16:14:23Z)
 - Opened pull request [#4824](https://github.com/PreMiD/Presences/issues/4824) on [PreMiD/Presences](https://github.com/PreMiD/Presences) (2021-10-26T08:56:44Z)
 - Created branch `wikia.org-1.0.0` on [Hans5958/PreMiD-Presences](https://github.com/Hans5958/PreMiD-Presences) (2021-10-26T08:56:00Z)
 - Opened pull request [#4823](https://github.com/PreMiD/Presences/issues/4823) on [PreMiD/Presences](https://github.com/PreMiD/Presences) (2021-10-26T08:52:07Z)
 - Created branch `miraheze-1.0.0` on [Hans5958/PreMiD-Presences](https://github.com/Hans5958/PreMiD-Presences) (2021-10-26T08:46:50Z)
 - Deleted branch `wikimedia-1.0.0` on [Hans5958/PreMiD-Presences](https://github.com/Hans5958/PreMiD-Presences) (2021-10-26T08:41:42Z)
 - Created comment on issue/PR [#4703](https://github.com/PreMiD/Presences/issues/4703) on [PreMiD/Presences](https://github.com/PreMiD/Presences) (2021-10-04T10:14:38Z)
-- Deleted branch `patch-1` on [Hans5958/PreMiD-Presences](https://github.com/Hans5958/PreMiD-Presences) (2021-10-04T05:30:37Z)
-- Deleted branch `revert-4410-new-target` on [Hans5958/PreMiD-Presences](https://github.com/Hans5958/PreMiD-Presences) (2021-10-04T05:29:58Z)
-- Created review on PR [#4703](https://github.com/PreMiD/Presences/issues/4703) on [PreMiD/Presences](https://github.com/PreMiD/Presences) (2021-10-03T13:57:36Z)
-- Created comment on a review on PR [#4703](https://github.com/PreMiD/Presences/issues/4703) on [PreMiD/Presences](https://github.com/PreMiD/Presences) (2021-10-03T13:57:36Z)
 
 </details>
 
-*Last updated: 26/10/2021, 15:20:38 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
+*Last updated: 26/10/2021, 16:27:32 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
 *Commit hash:* [`f98bf63`](https://github.com/Hans5958/Hans5958/commit/f98bf63f4edc1c178f5a0062f6c1eae9d465ac8a
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/workflow/status/Hans5958/Hans5958/Build?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
