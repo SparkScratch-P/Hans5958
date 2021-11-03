@@ -4,8 +4,8 @@
 [![Website: hans5958.github.io]](https://hans5958.github.io) [![Blog: hans5958.github.io/blog]](https://hans5958.github.io/blog)  
 [![YouTube: Hans5958]](https://youtube.com/Hans5958) [![Twitter: hans5958]](https://twitter.com/Hans5958) ![Discord: Hans5958#0969] [![GitHub: hans5958]](https://github.com/Hans5958) [![GitLab: hans5958]](https://gitlab.com/Hans5958) [![dev.to: Hans5958]](https://dev.to/hans5958) [![Keybase: hans5958]](https://keybase.io/hans5958)  [![Email: go to GitHub]](https://github.com/hans5958)
 
-FYI: It is **21:xx** (**9pm**) in Jakarta. :crescent_moon:  
-*I'm online, doing stuff, and is able to respond to inquiries.*
+FYI: It is **22:xx** (**10pm**) in Jakarta. :crescent_moon:  
+*I'm online, but only if I'm on a weekend, or there's nothing to do tommorow morning.*
 </div>
 
 <details><summary>Read about me:</summary>
@@ -35,6 +35,9 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 
 ### Last ten commits
 
+- [`d4a1d9b`](https://github.com/Hans5958/Pixel-Adblock-Filters/commit/d4a1d9b250e0da3fa6e64ea165b8000ebee8992b) 03/11/2021 2 ([Hans5958/Pixel-Adblock-Filters](https://github.com/Hans5958/Pixel-Adblock-Filters), [master](https://github.com/Hans5958/Pixel-Adblock-Filters/tree/master))
+- [`140b31c`](https://github.com/Hans5958/Pixel-Adblock-Filters/commit/140b31cad8c2c21a296526b8346fdfe07665e1b0) 03/11/2021 ([Hans5958/Pixel-Adblock-Filters](https://github.com/Hans5958/Pixel-Adblock-Filters), [master](https://github.com/Hans5958/Pixel-Adblock-Filters/tree/master))
+- [`0f12c72`](https://github.com/Hans5958/Pixel-Adblock-Filters/commit/0f12c72d09fa054ff03d9e456e2f50a4e192df3d) Rename filter file to filters.txt ([Hans5958/Pixel-Adblock-Filters](https://github.com/Hans5958/Pixel-Adblock-Filters), [master](https://github.com/Hans5958/Pixel-Adblock-Filters/tree/master))
 - [`610b25c`](https://github.com/Hans5958/mini-htmls/commit/610b25cbec3cada969ebde685e93d4b687d9fbdc) Update TeamTrees and add TeamSeas 2 ([Hans5958/mini-htmls](https://github.com/Hans5958/mini-htmls), [master](https://github.com/Hans5958/mini-htmls/tree/master))
 - [`6ed320b`](https://github.com/Hans5958/mini-htmls/commit/6ed320b51e598cbea47023f2996003e35e849a40) Add and remove project from list ([Hans5958/mini-htmls](https://github.com/Hans5958/mini-htmls), [master](https://github.com/Hans5958/mini-htmls/tree/master))
 - [`941a751`](https://github.com/Hans5958/mini-htmls/commit/941a751722c90146be591cd8a28a4d151838c126) Update TeamTrees and add TeamSeas ([Hans5958/mini-htmls](https://github.com/Hans5958/mini-htmls), [master](https://github.com/Hans5958/mini-htmls/tree/master))
@@ -42,9 +45,6 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 - [`80707e6`](https://github.com/Hans5958/PreMiD-Presences-Personal/commit/80707e6fbda5fa18522192fd74a51d144ecdc81d) Add Miraheze and Wikia.org ([Hans5958/PreMiD-Presences-Personal](https://github.com/Hans5958/PreMiD-Presences-Personal), [master](https://github.com/Hans5958/PreMiD-Presences-Personal/tree/master))
 - [`4d56a7d`](https://github.com/Hans5958/PreMiD-Presences/commit/4d56a7d7ba03d700e55a7a3a90d1d7ea04e93656) Add Wikimedia (1.0.0) (#4703) ([Hans5958/PreMiD-Presences](https://github.com/Hans5958/PreMiD-Presences), [master](https://github.com/Hans5958/PreMiD-Presences/tree/master))
 - [`eef4a68`](https://github.com/Hans5958/PreMiD-Presences/commit/eef4a682b77954a59e7fabaef36de23aa29e54a8) Revert "Bumped TS Target (#4410)" (#4704) ([Hans5958/PreMiD-Presences](https://github.com/Hans5958/PreMiD-Presences), [master](https://github.com/Hans5958/PreMiD-Presences/tree/master))
-- [`e5984a5`](https://github.com/Hans5958/PreMiD-Presences/commit/e5984a5bf78cf13893862738a8d96a94565e0ec1) Add Wikimedia (1.0.0) ([Hans5958/PreMiD-Presences](https://github.com/Hans5958/PreMiD-Presences), [wikimedia-1.0.0](https://github.com/Hans5958/PreMiD-Presences/tree/wikimedia-1.0.0))
-- [`3f58c6f`](https://github.com/Hans5958/PreMiD-Presences-Personal/commit/3f58c6f1c30de1938e43bb2d003d605347eaa10f) PW: Remove a comment on Wikimedia ([Hans5958/PreMiD-Presences-Personal](https://github.com/Hans5958/PreMiD-Presences-Personal), [master](https://github.com/Hans5958/PreMiD-Presences-Personal/tree/master))
-- [`3e51fd1`](https://github.com/Hans5958/PreMiD-Presences-Personal/commit/3e51fd185ad4a8327fb6f84b26a90eef1760e979) Add sentence on the latest PR text ([Hans5958/PreMiD-Presences-Personal](https://github.com/Hans5958/PreMiD-Presences-Personal), [master](https://github.com/Hans5958/PreMiD-Presences-Personal/tree/master))
 
 ### Last ten events
 
@@ -61,7 +61,7 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 
 </details>
 
-*Last updated: 03/11/2021, 14:14:17 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
+*Last updated: 03/11/2021, 15:17:48 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
 *Commit hash:* [`f98bf63`](https://github.com/Hans5958/Hans5958/commit/f98bf63f4edc1c178f5a0062f6c1eae9d465ac8a
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/workflow/status/Hans5958/Hans5958/Build?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
